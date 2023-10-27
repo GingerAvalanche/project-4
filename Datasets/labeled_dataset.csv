@@ -1,919 +1,919 @@
 age,sex,chest_pain_type,resting_bp_s,cholesterol,fasting_blood_sugar,resting_ecg,max_heart_rate,exercise_angina,oldpeak,ST_slope,target
-40,male,non-anginal pain,140,289,false,normal,172,No,0.0,Unsloping,0
-49,female,asymptomatic,160,180,false,normal,156,No,1.0,Flat,1
-37,male,non-anginal pain,130,283,false,ST-T_wave_abnormality,98,No,0.0,Unsloping,0
-48,female,asymptomatic,138,214,false,normal,108,Yes,1.5,Flat,1
-54,male,asymptomatic,150,195,false,normal,122,No,0.0,Unsloping,0
-39,male,asymptomatic,120,339,false,normal,170,No,0.0,Unsloping,0
-45,female,non-anginal pain,130,237,false,normal,170,No,0.0,Unsloping,0
-54,male,non-anginal pain,110,208,false,normal,142,No,0.0,Unsloping,0
-37,male,asymptomatic,140,207,false,normal,130,Yes,1.5,Flat,1
-48,female,non-anginal pain,120,284,false,normal,120,No,0.0,Unsloping,0
-37,female,asymptomatic,130,211,false,normal,142,No,0.0,Unsloping,0
-58,male,non-anginal pain,136,164,false,ST-T_wave_abnormality,99,Yes,2.0,Flat,1
-39,male,non-anginal pain,120,204,false,normal,145,No,0.0,Unsloping,0
-49,male,asymptomatic,140,234,false,normal,140,Yes,1.0,Flat,1
-42,female,asymptomatic,115,211,false,ST-T_wave_abnormality,137,No,0.0,Unsloping,0
-54,female,non-anginal pain,120,273,false,normal,150,No,1.5,Flat,0
-38,male,asymptomatic,110,196,false,normal,166,No,0.0,Flat,1
-43,female,non-anginal pain,120,201,false,normal,165,No,0.0,Unsloping,0
-60,male,asymptomatic,100,248,false,normal,125,No,1.0,Flat,1
-36,male,non-anginal pain,120,267,false,normal,160,No,3.0,Flat,1
-43,female,atypical angina,100,223,false,normal,142,No,0.0,Unsloping,0
-44,male,non-anginal pain,120,184,false,normal,142,No,1.0,Flat,0
-49,female,non-anginal pain,124,201,false,normal,164,No,0.0,Unsloping,0
-44,male,non-anginal pain,150,288,false,normal,150,Yes,3.0,Flat,1
-40,male,asymptomatic,130,215,false,normal,138,No,0.0,Unsloping,0
-36,male,asymptomatic,130,209,false,normal,178,No,0.0,Unsloping,0
-53,male,asymptomatic,124,260,false,ST-T_wave_abnormality,112,Yes,3.0,Flat,0
-52,male,non-anginal pain,120,284,false,normal,118,No,0.0,Unsloping,0
-53,female,non-anginal pain,113,468,false,normal,127,No,0.0,Unsloping,0
-51,male,non-anginal pain,125,188,false,normal,145,No,0.0,Unsloping,0
-53,male,asymptomatic,145,518,false,normal,130,No,0.0,Flat,1
-56,male,asymptomatic,130,167,false,normal,114,No,0.0,Unsloping,0
-54,male,asymptomatic,125,224,false,normal,122,No,2.0,Flat,1
-41,male,asymptomatic,130,172,false,ST-T_wave_abnormality,130,No,2.0,Flat,1
-43,female,non-anginal pain,150,186,false,normal,154,No,0.0,Unsloping,0
-32,male,non-anginal pain,125,254,false,normal,155,No,0.0,Unsloping,0
-65,male,asymptomatic,140,306,true,normal,87,Yes,1.5,Flat,1
-41,female,non-anginal pain,110,250,false,ST-T_wave_abnormality,142,No,0.0,Unsloping,0
-48,female,non-anginal pain,120,177,true,ST-T_wave_abnormality,148,No,0.0,Unsloping,0
-48,female,asymptomatic,150,227,false,normal,130,Yes,1.0,Flat,0
-54,female,non-anginal pain,150,230,false,normal,130,No,0.0,Unsloping,0
-54,female,asymptomatic,130,294,false,ST-T_wave_abnormality,100,Yes,0.0,Flat,1
-35,male,non-anginal pain,150,264,false,normal,168,No,0.0,Unsloping,0
-52,male,asymptomatic,140,259,false,ST-T_wave_abnormality,170,No,0.0,Unsloping,0
-43,male,asymptomatic,120,175,false,normal,120,Yes,1.0,Flat,1
-59,male,asymptomatic,130,318,false,normal,120,Yes,1.0,Flat,0
-37,male,asymptomatic,120,223,false,normal,168,No,0.0,Unsloping,0
-50,male,non-anginal pain,140,216,false,normal,170,No,0.0,Unsloping,0
-36,male,asymptomatic,112,340,false,normal,184,No,1.0,Flat,0
-41,male,asymptomatic,110,289,false,normal,170,No,0.0,Flat,1
-50,male,asymptomatic,130,233,false,normal,121,Yes,2.0,Flat,1
-47,female,asymptomatic,120,205,false,normal,98,Yes,2.0,Flat,1
-45,male,non-anginal pain,140,224,true,normal,122,No,0.0,Unsloping,0
-41,female,non-anginal pain,130,245,false,normal,150,No,0.0,Unsloping,0
-52,female,asymptomatic,130,180,false,normal,140,Yes,1.5,Flat,0
-51,female,non-anginal pain,160,194,false,normal,170,No,0.0,Unsloping,0
-31,male,asymptomatic,120,270,false,normal,153,Yes,1.5,Flat,1
-58,male,asymptomatic,130,213,false,ST-T_wave_abnormality,140,No,0.0,Flat,1
-54,male,asymptomatic,150,365,false,ST-T_wave_abnormality,134,No,1.0,Unsloping,0
-52,male,asymptomatic,112,342,false,ST-T_wave_abnormality,96,Yes,1.0,Flat,1
-49,male,non-anginal pain,100,253,false,normal,174,No,0.0,Unsloping,0
-43,female,asymptomatic,150,254,false,normal,175,No,0.0,Unsloping,0
-45,male,asymptomatic,140,224,false,normal,144,No,0.0,Unsloping,0
-46,male,asymptomatic,120,277,false,normal,125,Yes,1.0,Flat,1
-50,female,non-anginal pain,110,202,false,normal,145,No,0.0,Unsloping,0
-37,female,non-anginal pain,120,260,false,normal,130,No,0.0,Unsloping,0
-45,female,asymptomatic,132,297,false,normal,144,No,0.0,Unsloping,0
-32,male,non-anginal pain,110,225,false,normal,184,No,0.0,Unsloping,0
-52,male,asymptomatic,160,246,false,ST-T_wave_abnormality,82,Yes,4.0,Flat,1
-44,male,asymptomatic,150,412,false,normal,170,No,0.0,Unsloping,0
-57,male,non-anginal pain,140,265,false,ST-T_wave_abnormality,145,Yes,1.0,Flat,1
-44,male,non-anginal pain,130,215,false,normal,135,No,0.0,Unsloping,0
-52,male,asymptomatic,120,182,false,normal,150,No,0.0,Flat,1
-44,female,asymptomatic,120,218,false,ST-T_wave_abnormality,115,No,0.0,Unsloping,0
-55,male,asymptomatic,140,268,false,normal,128,Yes,1.5,Flat,1
-46,male,asymptomatic,150,163,false,normal,116,No,0.0,Unsloping,0
-32,male,asymptomatic,118,529,false,normal,130,No,0.0,Flat,1
-35,female,asymptomatic,140,167,false,normal,150,No,0.0,Unsloping,0
-52,male,non-anginal pain,140,100,false,normal,138,Yes,0.0,Unsloping,0
-49,male,asymptomatic,130,206,false,normal,170,No,0.0,Flat,1
-55,male,asymptomatic,110,277,false,normal,160,No,0.0,Unsloping,0
-54,male,non-anginal pain,120,238,false,normal,154,No,0.0,Unsloping,0
-63,male,asymptomatic,150,223,false,normal,115,No,0.0,Flat,1
-52,male,non-anginal pain,160,196,false,normal,165,No,0.0,Unsloping,0
-56,male,asymptomatic,150,213,true,normal,125,Yes,1.0,Flat,1
-66,male,asymptomatic,140,139,false,normal,94,Yes,1.0,Flat,1
-65,male,asymptomatic,170,263,true,normal,112,Yes,2.0,Flat,1
-53,female,non-anginal pain,140,216,false,normal,142,Yes,2.0,Flat,0
-43,male,atypical angina,120,291,false,ST-T_wave_abnormality,155,No,0.0,Flat,1
-55,male,asymptomatic,140,229,false,normal,110,Yes,0.5,Flat,0
-49,female,non-anginal pain,110,208,false,normal,160,No,0.0,Unsloping,0
-39,male,asymptomatic,130,307,false,normal,140,No,0.0,Unsloping,0
-52,female,non-anginal pain,120,210,false,normal,148,No,0.0,Unsloping,0
-48,male,asymptomatic,160,329,false,normal,92,Yes,1.5,Flat,1
-39,female,asymptomatic,110,182,false,ST-T_wave_abnormality,180,No,0.0,Unsloping,0
-58,male,asymptomatic,130,263,false,normal,140,Yes,2.0,Flat,1
-43,male,non-anginal pain,142,207,false,normal,138,No,0.0,Unsloping,0
-39,male,asymptomatic,160,147,true,normal,160,No,0.0,Unsloping,0
-56,male,asymptomatic,120,85,false,normal,140,No,0.0,Unsloping,0
-41,male,non-anginal pain,125,269,false,normal,144,No,0.0,Unsloping,0
-65,male,asymptomatic,130,275,false,ST-T_wave_abnormality,115,Yes,1.0,Flat,1
-51,male,asymptomatic,130,179,false,normal,100,No,0.0,Unsloping,0
-40,female,asymptomatic,150,392,false,normal,130,No,2.0,Flat,1
-40,male,asymptomatic,120,466,true,normal,152,Yes,1.0,Flat,1
-46,male,asymptomatic,118,186,false,normal,124,No,0.0,Flat,1
-57,male,non-anginal pain,140,260,true,normal,140,No,0.0,Unsloping,0
-48,female,asymptomatic,120,254,false,ST-T_wave_abnormality,110,No,0.0,Unsloping,0
-34,male,non-anginal pain,150,214,false,ST-T_wave_abnormality,168,No,0.0,Unsloping,0
-50,male,asymptomatic,140,129,false,normal,135,No,0.0,Unsloping,0
-39,male,non-anginal pain,190,241,false,normal,106,No,0.0,Unsloping,0
-59,female,non-anginal pain,130,188,false,normal,124,No,1.0,Flat,0
-57,male,asymptomatic,150,255,false,normal,92,Yes,3.0,Flat,1
-47,male,asymptomatic,140,276,true,normal,125,Yes,0.0,Unsloping,0
-38,male,non-anginal pain,140,297,false,normal,150,No,0.0,Unsloping,0
-49,female,asymptomatic,130,207,false,ST-T_wave_abnormality,135,No,0.0,Unsloping,0
-33,female,asymptomatic,100,246,false,normal,150,Yes,1.0,Flat,1
-38,male,asymptomatic,120,282,false,normal,170,No,0.0,Flat,1
-59,female,asymptomatic,130,338,true,ST-T_wave_abnormality,130,Yes,1.5,Flat,1
-35,female,atypical angina,120,160,false,ST-T_wave_abnormality,185,No,0.0,Unsloping,0
-34,male,atypical angina,140,156,false,normal,180,No,0.0,Flat,1
-47,female,asymptomatic,135,248,true,normal,170,No,0.0,Flat,1
-52,female,asymptomatic,125,272,false,normal,139,No,0.0,Unsloping,0
-46,male,asymptomatic,110,240,false,ST-T_wave_abnormality,140,No,0.0,Unsloping,0
-58,female,non-anginal pain,180,393,false,normal,110,Yes,1.0,Flat,1
-58,male,non-anginal pain,130,230,false,normal,150,No,0.0,Unsloping,0
-54,male,non-anginal pain,120,246,false,normal,110,No,0.0,Unsloping,0
-34,female,non-anginal pain,130,161,false,normal,190,No,0.0,Unsloping,0
-48,female,asymptomatic,108,163,false,normal,175,No,2.0,Unsloping,0
-54,female,non-anginal pain,120,230,true,normal,140,No,0.0,Unsloping,0
-42,male,asymptomatic,120,228,false,normal,152,Yes,1.5,Flat,0
-38,male,asymptomatic,145,292,false,normal,130,No,0.0,Unsloping,0
-46,male,asymptomatic,110,202,false,normal,150,Yes,0.0,Flat,1
-56,male,asymptomatic,170,388,false,ST-T_wave_abnormality,122,Yes,2.0,Flat,1
-56,male,asymptomatic,150,230,false,ST-T_wave_abnormality,124,Yes,1.5,Flat,1
-61,female,asymptomatic,130,294,false,ST-T_wave_abnormality,120,Yes,1.0,Flat,0
-49,male,asymptomatic,115,265,false,normal,175,No,0.0,Flat,1
-43,female,non-anginal pain,120,215,false,ST-T_wave_abnormality,175,No,0.0,Unsloping,0
-39,male,non-anginal pain,120,241,false,ST-T_wave_abnormality,146,No,2.0,Unsloping,0
-54,male,asymptomatic,140,166,false,normal,118,Yes,0.0,Flat,1
-43,male,asymptomatic,150,247,false,normal,130,Yes,2.0,Flat,1
-52,male,asymptomatic,160,331,false,normal,94,Yes,2.5,Flat,1
-50,male,asymptomatic,140,341,false,ST-T_wave_abnormality,125,Yes,2.5,Flat,1
-47,male,asymptomatic,160,291,false,ST-T_wave_abnormality,158,Yes,3.0,Flat,1
-53,male,asymptomatic,140,243,false,normal,155,No,0.0,Unsloping,0
-56,female,non-anginal pain,120,279,false,normal,150,No,1.0,Flat,1
-39,male,asymptomatic,110,273,false,normal,132,No,0.0,Unsloping,0
-42,male,non-anginal pain,120,198,false,normal,155,No,0.0,Unsloping,0
-43,female,non-anginal pain,120,249,false,ST-T_wave_abnormality,176,No,0.0,Unsloping,0
-50,male,non-anginal pain,120,168,false,normal,160,No,0.0,Unsloping,0
-54,male,asymptomatic,130,603,true,normal,125,Yes,1.0,Flat,1
-39,male,non-anginal pain,130,215,false,normal,120,No,0.0,Unsloping,0
-48,male,non-anginal pain,100,159,false,normal,100,No,0.0,Unsloping,0
-40,male,non-anginal pain,130,275,false,normal,150,No,0.0,Unsloping,0
-55,male,asymptomatic,120,270,false,normal,140,No,0.0,Unsloping,0
-41,male,non-anginal pain,120,291,false,ST-T_wave_abnormality,160,No,0.0,Unsloping,0
-56,male,asymptomatic,155,342,true,normal,150,Yes,3.0,Flat,1
-38,male,asymptomatic,110,190,false,normal,150,Yes,1.0,Flat,1
-49,male,asymptomatic,140,185,false,normal,130,No,0.0,Unsloping,0
-44,male,asymptomatic,130,290,false,normal,100,Yes,2.0,Flat,1
-54,male,non-anginal pain,160,195,false,ST-T_wave_abnormality,130,No,1.0,Unsloping,0
-59,male,asymptomatic,140,264,true,ventricular_hypertrophy,119,Yes,0.0,Flat,1
-49,male,asymptomatic,128,212,false,normal,96,Yes,0.0,Flat,1
-47,male,non-anginal pain,160,263,false,normal,174,No,0.0,Unsloping,0
-42,male,non-anginal pain,120,196,false,normal,150,No,0.0,Unsloping,0
-52,female,non-anginal pain,140,225,false,normal,140,No,0.0,Unsloping,0
-46,male,atypical angina,140,272,true,normal,175,No,2.0,Flat,1
-50,male,asymptomatic,140,231,false,ST-T_wave_abnormality,140,Yes,5.0,Flat,1
-48,male,non-anginal pain,140,238,false,normal,118,No,0.0,Unsloping,0
-58,male,asymptomatic,135,222,false,normal,100,No,0.0,Unsloping,0
-58,male,asymptomatic,140,179,false,normal,160,No,0.0,Unsloping,0
-29,male,non-anginal pain,120,243,false,normal,160,No,0.0,Unsloping,0
-40,male,asymptomatic,140,235,false,normal,188,No,0.0,Unsloping,0
-53,male,non-anginal pain,140,320,false,normal,162,No,0.0,Unsloping,0
-49,male,asymptomatic,140,187,false,normal,172,No,0.0,Unsloping,0
-52,male,asymptomatic,140,266,false,normal,134,Yes,2.0,Flat,1
-43,male,asymptomatic,140,288,false,normal,135,Yes,2.0,Flat,1
-54,male,asymptomatic,140,216,false,normal,105,No,1.5,Flat,1
-59,male,non-anginal pain,140,287,false,normal,150,No,0.0,Unsloping,0
-37,male,asymptomatic,130,194,false,normal,150,No,0.0,Unsloping,0
-46,female,asymptomatic,130,238,false,normal,90,No,0.0,Unsloping,0
-52,male,asymptomatic,130,225,false,normal,120,Yes,2.0,Flat,1
-51,male,non-anginal pain,130,224,false,normal,150,No,0.0,Unsloping,0
-52,male,asymptomatic,140,404,false,normal,124,Yes,2.0,Flat,1
-46,male,asymptomatic,110,238,false,ST-T_wave_abnormality,140,Yes,1.0,Flat,0
-54,female,non-anginal pain,160,312,false,normal,130,No,0.0,Unsloping,0
-58,male,asymptomatic,160,211,true,ST-T_wave_abnormality,92,No,0.0,Flat,1
-58,male,non-anginal pain,130,251,false,normal,110,No,0.0,Unsloping,0
-41,male,asymptomatic,120,237,true,normal,138,Yes,1.0,Flat,1
-50,female,asymptomatic,120,328,false,normal,110,Yes,1.0,Flat,0
-53,male,asymptomatic,180,285,false,ST-T_wave_abnormality,120,Yes,1.5,Flat,1
-46,male,asymptomatic,180,280,false,ST-T_wave_abnormality,120,No,0.0,Unsloping,0
-50,male,non-anginal pain,170,209,false,ST-T_wave_abnormality,116,No,0.0,Unsloping,0
-48,male,non-anginal pain,130,245,false,normal,160,No,0.0,Unsloping,0
-45,male,asymptomatic,135,192,false,normal,110,No,0.0,Unsloping,0
-41,female,non-anginal pain,125,184,false,normal,180,No,0.0,Unsloping,0
-62,female,atypical angina,160,193,false,normal,116,No,0.0,Unsloping,0
-49,male,asymptomatic,120,297,false,normal,132,No,1.0,Flat,0
-42,male,non-anginal pain,150,268,false,normal,136,No,0.0,Unsloping,0
-53,male,asymptomatic,120,246,false,normal,116,Yes,0.0,Flat,1
-57,female,atypical angina,130,308,false,normal,98,No,1.0,Flat,0
-47,male,atypical angina,110,249,false,normal,150,No,0.0,Unsloping,0
-46,male,asymptomatic,120,230,false,normal,150,No,0.0,Unsloping,0
-42,male,asymptomatic,160,147,false,normal,146,No,0.0,Unsloping,0
-31,female,non-anginal pain,100,219,false,ST-T_wave_abnormality,150,No,0.0,Unsloping,0
-56,male,non-anginal pain,130,184,false,normal,100,No,0.0,Unsloping,0
-50,male,asymptomatic,150,215,false,normal,140,Yes,0.0,Unsloping,0
-35,male,non-anginal pain,120,308,false,ventricular_hypertrophy,180,No,0.0,Unsloping,0
-35,male,non-anginal pain,110,257,false,normal,140,No,0.0,Flat,1
-28,male,non-anginal pain,130,132,false,ventricular_hypertrophy,185,No,0.0,Unsloping,0
-54,male,asymptomatic,125,216,false,normal,140,No,0.0,Flat,1
-48,male,asymptomatic,106,263,true,normal,110,No,0.0,Flat,1
-50,female,asymptomatic,140,288,false,normal,140,Yes,0.0,Flat,1
-56,male,asymptomatic,130,276,false,normal,128,Yes,1.0,Unsloping,0
-56,female,asymptomatic,130,219,false,ST-T_wave_abnormality,164,No,0.0,Unsloping,0
-47,male,asymptomatic,150,226,false,normal,98,Yes,1.5,Flat,1
-30,female,atypical angina,170,237,false,ST-T_wave_abnormality,170,No,0.0,Unsloping,0
-39,male,asymptomatic,110,280,false,normal,150,No,0.0,Flat,1
-54,male,asymptomatic,120,217,false,normal,137,No,0.0,Unsloping,0
-55,male,non-anginal pain,140,196,false,normal,150,No,0.0,Unsloping,0
-29,male,non-anginal pain,140,263,false,normal,170,No,0.0,Unsloping,0
-46,male,asymptomatic,130,222,false,normal,112,No,0.0,Flat,1
-51,female,asymptomatic,160,303,false,normal,150,Yes,1.0,Flat,1
-48,female,asymptomatic,120,195,false,normal,125,No,0.0,Unsloping,0
-33,male,asymptomatic,120,298,false,normal,185,No,0.0,Unsloping,0
-55,male,non-anginal pain,120,256,true,normal,137,No,0.0,Unsloping,0
-50,male,asymptomatic,145,264,false,normal,150,No,0.0,Flat,1
-53,male,asymptomatic,120,195,false,normal,140,No,0.0,Unsloping,0
-38,male,asymptomatic,92,117,false,normal,134,Yes,2.5,Flat,1
-41,male,non-anginal pain,120,295,false,normal,170,No,0.0,Unsloping,0
-37,female,asymptomatic,130,173,false,ST-T_wave_abnormality,184,No,0.0,Unsloping,0
-37,male,asymptomatic,130,315,false,normal,158,No,0.0,Unsloping,0
-40,male,asymptomatic,130,281,false,normal,167,No,0.0,Unsloping,0
-38,female,non-anginal pain,120,275,false,normal,129,No,0.0,Unsloping,0
-41,male,asymptomatic,112,250,false,normal,142,No,0.0,Unsloping,0
-54,female,non-anginal pain,140,309,false,ST-T_wave_abnormality,140,No,0.0,Unsloping,0
-39,male,non-anginal pain,120,200,false,normal,160,Yes,1.0,Flat,0
-41,male,asymptomatic,120,336,false,normal,118,Yes,3.0,Flat,1
-55,male,atypical angina,140,295,false,normal,136,No,0.0,Flat,1
-48,male,asymptomatic,160,355,false,normal,99,Yes,2.0,Flat,1
-48,male,asymptomatic,160,193,false,normal,102,Yes,3.0,Flat,1
-55,male,non-anginal pain,145,326,false,normal,155,No,0.0,Unsloping,0
-54,male,asymptomatic,200,198,false,normal,142,Yes,2.0,Flat,1
-55,male,non-anginal pain,160,292,true,normal,143,Yes,2.0,Flat,1
-43,female,non-anginal pain,120,266,false,normal,118,No,0.0,Unsloping,0
-48,male,asymptomatic,160,268,false,normal,103,Yes,1.0,Flat,1
-54,male,atypical angina,120,171,false,normal,137,No,2.0,Unsloping,0
-54,male,asymptomatic,120,237,false,normal,150,Yes,1.5,Flat,1
-48,male,asymptomatic,122,275,true,ST-T_wave_abnormality,150,Yes,2.0,Downsloping,1
-45,male,asymptomatic,130,219,false,ST-T_wave_abnormality,130,Yes,1.0,Flat,1
-49,male,asymptomatic,130,341,false,normal,120,Yes,1.0,Flat,1
-44,male,asymptomatic,135,491,false,normal,135,No,0.0,Flat,1
-48,male,asymptomatic,120,260,false,normal,115,No,2.0,Flat,1
-61,male,asymptomatic,125,292,false,ST-T_wave_abnormality,115,Yes,0.0,Unsloping,0
-62,male,non-anginal pain,140,271,false,normal,152,No,1.0,Unsloping,0
-55,male,asymptomatic,145,248,false,normal,96,Yes,2.0,Flat,1
-53,female,asymptomatic,120,274,false,normal,130,No,0.0,Unsloping,0
-55,female,non-anginal pain,130,394,false,ventricular_hypertrophy,150,No,0.0,Unsloping,0
-36,male,asymptomatic,150,160,false,normal,172,No,0.0,Unsloping,0
-51,female,asymptomatic,150,200,false,normal,120,No,0.5,Unsloping,0
-55,female,non-anginal pain,122,320,false,normal,155,No,0.0,Unsloping,0
-46,male,non-anginal pain,140,275,false,normal,165,Yes,0.0,Unsloping,0
-54,female,non-anginal pain,120,221,false,normal,138,No,1.0,Unsloping,0
-46,male,asymptomatic,120,231,false,normal,115,Yes,0.0,Flat,1
-59,male,asymptomatic,130,126,false,normal,125,No,0.0,Flat,1
-47,male,asymptomatic,140,193,false,normal,145,Yes,1.0,Flat,1
-54,male,non-anginal pain,160,305,false,normal,175,No,0.0,Unsloping,0
-52,male,asymptomatic,130,298,false,normal,110,Yes,1.0,Flat,1
-34,male,non-anginal pain,98,220,false,normal,150,No,0.0,Unsloping,0
-54,male,asymptomatic,130,242,false,normal,91,Yes,1.0,Flat,1
-47,female,asymptomatic,130,235,false,normal,145,No,2.0,Flat,0
-45,male,asymptomatic,120,225,false,normal,140,No,0.0,Unsloping,0
-32,female,non-anginal pain,105,198,false,normal,165,No,0.0,Unsloping,0
-55,male,asymptomatic,140,201,false,normal,130,Yes,3.0,Flat,1
-55,male,asymptomatic,120,220,false,ventricular_hypertrophy,134,No,0.0,Unsloping,0
-45,female,non-anginal pain,180,295,false,normal,180,No,0.0,Unsloping,0
-59,male,asymptomatic,180,213,false,normal,100,No,0.0,Unsloping,0
-51,male,asymptomatic,135,160,false,normal,150,No,2.0,Flat,1
-52,male,asymptomatic,170,223,false,normal,126,Yes,1.5,Flat,1
-57,female,asymptomatic,180,347,false,ST-T_wave_abnormality,126,Yes,0.8,Flat,0
-54,female,non-anginal pain,130,253,false,ST-T_wave_abnormality,155,No,0.0,Unsloping,0
-60,male,asymptomatic,120,246,false,ventricular_hypertrophy,135,No,0.0,Unsloping,0
-49,male,asymptomatic,150,222,false,normal,122,No,2.0,Flat,1
-51,female,asymptomatic,130,220,false,normal,160,Yes,2.0,Unsloping,0
-55,female,non-anginal pain,110,344,false,ST-T_wave_abnormality,160,No,0.0,Unsloping,0
-42,male,asymptomatic,140,358,false,normal,170,No,0.0,Unsloping,0
-51,female,asymptomatic,110,190,false,normal,120,No,0.0,Unsloping,0
-59,male,asymptomatic,140,169,false,normal,140,No,0.0,Unsloping,0
-53,male,non-anginal pain,120,181,false,normal,132,No,0.0,Unsloping,0
-48,female,non-anginal pain,133,308,false,ST-T_wave_abnormality,156,No,2.0,Unsloping,0
-36,male,non-anginal pain,120,166,false,normal,180,No,0.0,Unsloping,0
-48,male,asymptomatic,110,211,false,normal,138,No,0.0,Unsloping,0
-47,female,non-anginal pain,140,257,false,normal,135,No,1.0,Unsloping,0
-53,male,asymptomatic,130,182,false,normal,148,No,0.0,Unsloping,0
-65,male,asymptomatic,115,0,false,normal,93,Yes,0.0,Flat,1
-32,male,atypical angina,95,0,true,normal,127,No,0.7,Unsloping,1
-61,male,asymptomatic,105,0,true,normal,110,Yes,1.5,Unsloping,1
-50,male,asymptomatic,145,0,true,normal,139,Yes,0.7,Flat,1
-57,male,asymptomatic,110,0,true,ST-T_wave_abnormality,131,Yes,1.4,Unsloping,1
-51,male,asymptomatic,110,0,true,normal,92,No,0.0,Flat,1
-47,male,asymptomatic,110,0,true,ST-T_wave_abnormality,149,No,2.1,Unsloping,1
-60,male,asymptomatic,160,0,true,normal,149,No,0.4,Flat,1
-55,male,non-anginal pain,140,0,false,ST-T_wave_abnormality,150,No,0.2,Unsloping,0
-53,male,asymptomatic,125,0,true,normal,120,No,1.5,Unsloping,1
-62,female,asymptomatic,120,0,true,ST-T_wave_abnormality,123,Yes,1.7,Downsloping,1
-51,male,asymptomatic,95,0,true,normal,126,No,2.2,Flat,1
-51,female,asymptomatic,120,0,true,normal,127,Yes,1.5,Unsloping,1
-55,male,asymptomatic,115,0,true,normal,155,No,0.1,Flat,1
-53,male,non-anginal pain,130,0,false,ST-T_wave_abnormality,120,No,0.7,Downsloping,0
-58,male,asymptomatic,115,0,true,normal,138,No,0.5,Unsloping,1
-57,male,asymptomatic,95,0,true,normal,182,No,0.7,Downsloping,1
-65,male,asymptomatic,155,0,false,normal,154,No,1.0,Unsloping,0
-60,male,asymptomatic,125,0,true,normal,110,No,0.1,Unsloping,1
-41,male,asymptomatic,125,0,true,normal,176,No,1.6,Unsloping,1
-34,male,asymptomatic,115,0,true,normal,154,No,0.2,Unsloping,1
-53,male,asymptomatic,80,0,false,normal,141,Yes,2.0,Downsloping,0
-74,male,non-anginal pain,145,0,true,ST-T_wave_abnormality,123,No,1.3,Unsloping,1
-57,male,asymptomatic,105,0,true,normal,148,No,0.3,Flat,1
-56,male,asymptomatic,140,0,true,normal,121,Yes,1.8,Unsloping,1
-61,male,asymptomatic,130,0,true,normal,77,No,2.5,Flat,1
-68,male,asymptomatic,145,0,true,normal,136,No,1.8,Unsloping,1
-59,male,asymptomatic,125,0,true,normal,175,No,2.6,Flat,1
-63,male,asymptomatic,100,0,true,normal,109,No,-0.9,Flat,1
-38,female,asymptomatic,105,0,true,normal,166,No,2.8,Unsloping,1
-62,male,asymptomatic,115,0,true,normal,128,Yes,2.5,Downsloping,1
-46,male,asymptomatic,100,0,true,ST-T_wave_abnormality,133,No,-2.6,Flat,1
-42,male,asymptomatic,105,0,true,normal,128,Yes,-1.5,Downsloping,1
-45,male,asymptomatic,110,0,false,normal,138,No,-0.1,Unsloping,0
-59,male,asymptomatic,125,0,true,normal,119,Yes,0.9,Unsloping,1
-52,male,asymptomatic,95,0,true,normal,82,Yes,0.8,Flat,1
-60,male,asymptomatic,130,0,true,ST-T_wave_abnormality,130,Yes,1.1,Downsloping,1
-60,male,asymptomatic,115,0,true,normal,143,No,2.4,Unsloping,1
-56,male,asymptomatic,115,0,true,ST-T_wave_abnormality,82,No,-1.0,Unsloping,1
-38,male,asymptomatic,100,0,false,normal,179,No,-1.1,Unsloping,0
-40,male,asymptomatic,95,0,true,ST-T_wave_abnormality,144,No,0.0,Unsloping,1
-51,male,asymptomatic,130,0,true,normal,170,No,-0.7,Unsloping,1
-62,male,atypical angina,120,0,true,ventricular_hypertrophy,134,No,-0.8,Flat,1
-72,male,asymptomatic,160,0,false,ventricular_hypertrophy,114,No,1.6,Flat,0
-63,male,asymptomatic,150,0,true,ST-T_wave_abnormality,154,No,3.7,Unsloping,1
-63,male,asymptomatic,140,0,true,ventricular_hypertrophy,149,No,2.0,Unsloping,1
-64,female,asymptomatic,95,0,true,normal,145,No,1.1,Downsloping,1
-43,male,asymptomatic,100,0,true,normal,122,No,1.5,Downsloping,1
-64,male,asymptomatic,110,0,true,normal,114,Yes,1.3,Downsloping,1
-61,male,asymptomatic,110,0,true,normal,113,No,1.4,Flat,1
-52,male,asymptomatic,130,0,true,normal,120,No,0.0,Flat,1
-51,male,asymptomatic,120,0,true,normal,104,No,0.0,Flat,1
-69,male,asymptomatic,135,0,false,normal,130,No,0.0,Flat,1
-59,male,asymptomatic,120,0,false,normal,115,No,0.0,Flat,1
-48,male,asymptomatic,115,0,true,normal,128,No,0.0,Flat,1
-69,male,asymptomatic,137,0,false,ST-T_wave_abnormality,104,Yes,1.6,Flat,1
-36,male,asymptomatic,110,0,true,normal,125,Yes,1.0,Flat,1
-53,male,asymptomatic,120,0,true,normal,120,No,0.0,Flat,1
-43,male,asymptomatic,140,0,false,ST-T_wave_abnormality,140,Yes,0.5,Unsloping,1
-56,male,asymptomatic,120,0,false,ST-T_wave_abnormality,100,Yes,-1.0,Downsloping,1
-58,male,asymptomatic,130,0,false,ST-T_wave_abnormality,100,Yes,1.0,Flat,1
-55,male,asymptomatic,120,0,false,ST-T_wave_abnormality,92,No,0.3,Unsloping,1
-67,male,atypical angina,145,0,false,ventricular_hypertrophy,125,No,0.0,Flat,1
-46,male,asymptomatic,115,0,false,normal,113,Yes,1.5,Flat,1
-53,male,non-anginal pain,120,0,false,normal,95,No,0.0,Flat,1
-38,male,asymptomatic,115,0,false,normal,128,Yes,0.0,Flat,1
-53,male,asymptomatic,105,0,false,normal,115,No,0.0,Flat,1
-62,male,asymptomatic,160,0,false,normal,72,Yes,0.0,Flat,1
-47,male,asymptomatic,160,0,false,normal,124,Yes,0.0,Flat,1
-56,male,asymptomatic,155,0,false,ST-T_wave_abnormality,99,No,0.0,Flat,1
-56,male,asymptomatic,120,0,false,ST-T_wave_abnormality,148,No,0.0,Flat,1
-56,male,asymptomatic,120,0,false,normal,97,No,0.0,Flat,0
-64,female,asymptomatic,200,0,false,normal,140,Yes,1.0,Flat,1
-61,male,asymptomatic,150,0,false,normal,117,Yes,2.0,Flat,1
-68,male,asymptomatic,135,0,false,ST-T_wave_abnormality,120,Yes,0.0,Unsloping,1
-57,male,asymptomatic,140,0,false,normal,120,Yes,2.0,Flat,1
-63,male,asymptomatic,150,0,false,normal,86,Yes,2.0,Flat,1
-60,male,asymptomatic,135,0,false,normal,63,Yes,0.5,Unsloping,1
-66,male,asymptomatic,150,0,false,normal,108,Yes,2.0,Flat,1
-63,male,asymptomatic,185,0,false,normal,98,Yes,0.0,Unsloping,1
-59,male,asymptomatic,135,0,false,normal,115,Yes,1.0,Flat,1
-61,male,asymptomatic,125,0,false,normal,105,Yes,0.0,Downsloping,1
-73,female,asymptomatic,160,0,false,ST-T_wave_abnormality,121,No,0.0,Unsloping,1
-47,male,asymptomatic,155,0,false,normal,118,Yes,1.0,Flat,1
-65,male,asymptomatic,160,0,true,ST-T_wave_abnormality,122,No,1.2,Flat,1
-70,male,asymptomatic,140,0,true,normal,157,Yes,2.0,Flat,1
-50,male,asymptomatic,120,0,false,ST-T_wave_abnormality,156,Yes,0.0,Unsloping,1
-60,male,asymptomatic,160,0,false,ST-T_wave_abnormality,99,Yes,0.5,Flat,1
-50,male,asymptomatic,115,0,false,normal,120,Yes,0.5,Flat,1
-43,male,asymptomatic,115,0,false,normal,145,Yes,2.0,Flat,1
-38,female,asymptomatic,110,0,false,normal,156,No,0.0,Flat,1
-54,male,asymptomatic,120,0,false,normal,155,No,0.0,Flat,1
-61,male,asymptomatic,150,0,false,normal,105,Yes,0.0,Flat,1
-42,male,asymptomatic,145,0,false,normal,99,Yes,0.0,Flat,1
-53,male,asymptomatic,130,0,false,ventricular_hypertrophy,135,Yes,1.0,Flat,1
-55,male,asymptomatic,140,0,false,normal,83,No,0.0,Flat,1
-61,male,asymptomatic,160,0,true,ST-T_wave_abnormality,145,No,1.0,Flat,1
-51,male,asymptomatic,140,0,false,normal,60,No,0.0,Flat,1
-70,male,asymptomatic,115,0,false,ST-T_wave_abnormality,92,Yes,0.0,Flat,1
-61,male,asymptomatic,130,0,false,ventricular_hypertrophy,115,No,0.0,Flat,1
-38,male,asymptomatic,150,0,true,normal,120,Yes,0.7,Flat,1
-57,male,asymptomatic,160,0,true,normal,98,Yes,2.0,Flat,1
-38,male,asymptomatic,135,0,true,normal,150,No,0.0,Flat,1
-62,female,atypical angina,140,0,true,normal,143,No,0.0,Flat,1
-58,male,asymptomatic,170,0,true,ST-T_wave_abnormality,105,Yes,0.0,Flat,1
-52,male,asymptomatic,165,0,true,normal,122,Yes,1.0,Unsloping,1
-61,male,asymptomatic,200,0,true,ST-T_wave_abnormality,70,No,0.0,Flat,1
-50,female,asymptomatic,160,0,true,normal,110,No,0.0,Flat,1
-51,male,asymptomatic,130,0,true,ST-T_wave_abnormality,163,No,0.0,Flat,1
-65,male,asymptomatic,145,0,true,ST-T_wave_abnormality,67,No,0.7,Flat,1
-52,male,asymptomatic,135,0,true,normal,128,Yes,2.0,Flat,1
-47,male,asymptomatic,110,0,true,normal,120,Yes,0.0,Flat,1
-35,male,asymptomatic,120,0,true,normal,130,Yes,1.2,Flat,1
-57,male,asymptomatic,140,0,true,normal,100,Yes,0.0,Flat,1
-62,male,asymptomatic,115,0,true,normal,72,Yes,-0.5,Flat,1
-59,male,asymptomatic,110,0,true,normal,94,No,0.0,Flat,1
-53,male,asymptomatic,160,0,true,ventricular_hypertrophy,122,Yes,0.0,Flat,1
-62,male,asymptomatic,150,0,true,ST-T_wave_abnormality,78,No,2.0,Flat,1
-54,male,asymptomatic,180,0,true,normal,150,No,1.5,Flat,1
-56,male,asymptomatic,125,0,true,normal,103,Yes,1.0,Flat,1
-56,male,asymptomatic,125,0,true,normal,98,No,-2.0,Flat,1
-54,male,asymptomatic,130,0,true,normal,110,Yes,3.0,Flat,1
-66,female,asymptomatic,155,0,true,normal,90,No,0.0,Flat,1
-63,male,asymptomatic,140,260,false,ST-T_wave_abnormality,112,Yes,3.0,Flat,1
-44,male,asymptomatic,130,209,false,ST-T_wave_abnormality,127,No,0.0,Unsloping,0
-60,male,asymptomatic,132,218,false,ST-T_wave_abnormality,140,Yes,1.5,Downsloping,1
-55,male,asymptomatic,142,228,false,ST-T_wave_abnormality,149,Yes,2.5,Unsloping,1
-66,male,asymptomatic,110,213,true,ventricular_hypertrophy,99,Yes,1.3,Flat,0
-66,male,asymptomatic,120,0,false,ST-T_wave_abnormality,120,No,-0.5,Unsloping,0
-65,male,asymptomatic,150,236,true,ST-T_wave_abnormality,105,Yes,0.0,Flat,1
-60,male,asymptomatic,180,0,false,ST-T_wave_abnormality,140,Yes,1.5,Flat,0
-60,male,asymptomatic,120,0,true,normal,141,Yes,2.0,Unsloping,1
-60,male,non-anginal pain,160,267,true,ST-T_wave_abnormality,157,No,0.5,Flat,1
-56,male,non-anginal pain,126,166,false,ST-T_wave_abnormality,140,No,0.0,Unsloping,0
-59,male,asymptomatic,140,0,false,ST-T_wave_abnormality,117,Yes,1.0,Flat,1
-62,male,asymptomatic,110,0,false,normal,120,Yes,0.5,Flat,1
-63,male,asymptomatic,133,0,false,ventricular_hypertrophy,120,Yes,1.0,Flat,1
-57,male,asymptomatic,128,0,true,ST-T_wave_abnormality,148,Yes,1.0,Flat,1
-62,male,asymptomatic,120,220,false,ST-T_wave_abnormality,86,No,0.0,Unsloping,0
-63,male,asymptomatic,170,177,false,normal,84,Yes,2.5,Downsloping,1
-46,male,asymptomatic,110,236,false,normal,125,Yes,2.0,Flat,1
-63,male,asymptomatic,126,0,false,ST-T_wave_abnormality,120,No,1.5,Downsloping,0
-60,male,asymptomatic,152,0,false,ST-T_wave_abnormality,118,Yes,0.0,Unsloping,0
-58,male,asymptomatic,116,0,false,normal,124,No,1.0,Unsloping,1
-64,male,asymptomatic,120,0,true,ST-T_wave_abnormality,106,No,2.0,Flat,1
-63,male,asymptomatic,130,0,false,ST-T_wave_abnormality,111,Yes,0.0,Flat,1
-74,male,asymptomatic,138,0,false,normal,116,No,0.2,Unsloping,0
-52,male,asymptomatic,128,0,false,ST-T_wave_abnormality,180,No,3.0,Unsloping,1
-69,male,asymptomatic,130,0,true,ST-T_wave_abnormality,129,No,1.0,Flat,1
-51,male,asymptomatic,128,0,true,ST-T_wave_abnormality,125,Yes,1.2,Flat,1
-60,male,asymptomatic,130,186,true,ST-T_wave_abnormality,140,Yes,0.5,Flat,1
-56,male,asymptomatic,120,100,false,normal,120,Yes,1.5,Flat,1
-55,male,asymptomatic,136,228,false,ST-T_wave_abnormality,124,Yes,1.6,Flat,1
-54,male,asymptomatic,130,0,false,ST-T_wave_abnormality,117,Yes,1.4,Flat,1
-77,male,asymptomatic,124,171,false,ST-T_wave_abnormality,110,Yes,2.0,Unsloping,1
-63,male,asymptomatic,160,230,true,normal,105,Yes,1.0,Flat,1
-55,male,asymptomatic,0,0,false,normal,155,No,1.5,Flat,1
-52,male,asymptomatic,122,0,false,normal,110,Yes,2.0,Downsloping,1
-64,male,asymptomatic,144,0,false,ST-T_wave_abnormality,122,Yes,1.0,Flat,1
-60,male,asymptomatic,140,281,false,ST-T_wave_abnormality,118,Yes,1.5,Flat,1
-60,male,asymptomatic,120,0,false,normal,133,Yes,2.0,Unsloping,0
-58,male,asymptomatic,136,203,true,normal,123,Yes,1.2,Flat,1
-59,male,asymptomatic,154,0,false,ST-T_wave_abnormality,131,Yes,1.5,Unsloping,0
-61,male,asymptomatic,120,0,false,normal,80,Yes,0.0,Flat,1
-40,male,asymptomatic,125,0,true,normal,165,No,0.0,Flat,1
-61,male,asymptomatic,134,0,true,ST-T_wave_abnormality,86,No,1.5,Flat,1
-41,male,asymptomatic,104,0,false,ST-T_wave_abnormality,111,No,0.0,Unsloping,0
-57,male,asymptomatic,139,277,true,ST-T_wave_abnormality,118,Yes,1.9,Flat,1
-63,male,asymptomatic,136,0,false,normal,84,Yes,0.0,Flat,1
-59,male,asymptomatic,122,233,false,normal,117,Yes,1.3,Downsloping,1
-51,male,asymptomatic,128,0,false,normal,107,No,0.0,Unsloping,0
-59,male,asymptomatic,131,0,false,normal,128,Yes,2.0,Downsloping,1
-42,male,asymptomatic,134,240,false,normal,160,No,0.0,Unsloping,0
-55,male,asymptomatic,120,0,false,ST-T_wave_abnormality,125,Yes,2.5,Flat,1
-63,female,non-anginal pain,132,0,false,normal,130,No,0.1,Unsloping,0
-62,male,asymptomatic,152,153,false,ST-T_wave_abnormality,97,Yes,1.6,Unsloping,1
-56,male,non-anginal pain,124,224,true,normal,161,No,2.0,Flat,0
-53,male,asymptomatic,126,0,false,normal,106,No,0.0,Flat,1
-68,male,asymptomatic,138,0,false,normal,130,Yes,3.0,Flat,1
-53,male,asymptomatic,154,0,true,ST-T_wave_abnormality,140,Yes,1.5,Flat,1
-60,male,asymptomatic,141,316,true,ST-T_wave_abnormality,122,Yes,1.7,Flat,1
-62,male,non-anginal pain,131,0,false,normal,130,No,0.1,Unsloping,0
-59,male,asymptomatic,178,0,true,ventricular_hypertrophy,120,Yes,0.0,Flat,1
-51,male,asymptomatic,132,218,true,ventricular_hypertrophy,139,No,0.1,Unsloping,0
-61,male,asymptomatic,110,0,true,normal,108,Yes,2.0,Downsloping,1
-57,male,asymptomatic,130,311,true,ST-T_wave_abnormality,148,Yes,2.0,Flat,1
-56,male,asymptomatic,170,0,false,ventricular_hypertrophy,123,Yes,2.5,Flat,1
-58,male,non-anginal pain,126,0,true,normal,110,Yes,2.0,Flat,1
-69,male,asymptomatic,140,0,true,ST-T_wave_abnormality,118,No,2.5,Downsloping,1
-67,male,atypical angina,142,270,true,normal,125,No,2.5,Unsloping,1
-58,male,asymptomatic,120,0,false,ventricular_hypertrophy,106,Yes,1.5,Downsloping,1
-65,male,asymptomatic,134,0,false,normal,112,Yes,1.1,Flat,1
-63,male,non-anginal pain,139,217,true,ST-T_wave_abnormality,128,Yes,1.2,Flat,1
-55,male,non-anginal pain,110,214,true,ST-T_wave_abnormality,180,No,0.4,Unsloping,0
-57,male,asymptomatic,140,214,false,ST-T_wave_abnormality,144,Yes,2.0,Flat,1
-65,male,atypical angina,140,252,false,normal,135,No,0.3,Unsloping,0
-54,male,asymptomatic,136,220,false,normal,140,Yes,3.0,Flat,1
-72,male,asymptomatic,120,214,false,normal,102,Yes,1.0,Flat,1
-75,male,asymptomatic,170,203,true,ST-T_wave_abnormality,108,No,0.0,Flat,1
-49,male,atypical angina,130,0,false,ST-T_wave_abnormality,145,No,3.0,Flat,1
-51,male,asymptomatic,137,339,false,normal,127,Yes,1.7,Flat,1
-60,male,asymptomatic,142,216,false,normal,110,Yes,2.5,Flat,1
-64,female,asymptomatic,142,276,false,normal,140,Yes,1.0,Flat,1
-58,male,asymptomatic,132,458,true,normal,69,No,1.0,Downsloping,0
-61,male,asymptomatic,146,241,false,normal,148,Yes,3.0,Downsloping,1
-67,male,asymptomatic,160,384,true,ST-T_wave_abnormality,130,Yes,0.0,Flat,1
-62,male,asymptomatic,135,297,false,normal,130,Yes,1.0,Flat,1
-65,male,asymptomatic,136,248,false,normal,140,Yes,4.0,Downsloping,1
-63,male,asymptomatic,130,308,false,normal,138,Yes,2.0,Flat,1
-69,male,asymptomatic,140,208,false,ST-T_wave_abnormality,140,Yes,2.0,Flat,1
-51,male,asymptomatic,132,227,true,ST-T_wave_abnormality,138,No,0.2,Unsloping,0
-62,male,asymptomatic,158,210,true,normal,112,Yes,3.0,Downsloping,1
-55,male,asymptomatic,136,245,true,ST-T_wave_abnormality,131,Yes,1.2,Flat,1
-75,male,asymptomatic,136,225,false,normal,112,Yes,3.0,Flat,1
-40,male,asymptomatic,106,240,false,normal,80,Yes,0.0,Unsloping,0
-67,male,asymptomatic,120,0,true,normal,150,No,1.5,Downsloping,1
-58,male,asymptomatic,110,198,false,normal,110,No,0.0,Flat,1
-60,male,asymptomatic,136,195,false,normal,126,No,0.3,Unsloping,0
-63,male,asymptomatic,160,267,true,ST-T_wave_abnormality,88,Yes,2.0,Flat,1
-35,male,asymptomatic,123,161,false,ST-T_wave_abnormality,153,No,-0.1,Unsloping,0
-62,male,atypical angina,112,258,false,ST-T_wave_abnormality,150,Yes,1.3,Flat,1
-43,male,asymptomatic,122,0,false,normal,120,No,0.5,Unsloping,1
-63,male,asymptomatic,130,0,true,ST-T_wave_abnormality,160,No,3.0,Flat,0
-68,male,asymptomatic,150,195,true,normal,132,No,0.0,0,1
-65,male,asymptomatic,150,235,false,normal,120,Yes,1.5,Flat,1
-48,male,asymptomatic,102,0,true,ST-T_wave_abnormality,110,Yes,1.0,Downsloping,1
-63,male,asymptomatic,96,305,false,ST-T_wave_abnormality,121,Yes,1.0,Unsloping,1
-64,male,asymptomatic,130,223,false,ST-T_wave_abnormality,128,No,0.5,Flat,0
-61,male,asymptomatic,120,282,false,ST-T_wave_abnormality,135,Yes,4.0,Downsloping,1
-50,male,asymptomatic,144,349,false,ventricular_hypertrophy,120,Yes,1.0,Unsloping,1
-59,male,asymptomatic,124,160,false,normal,117,Yes,1.0,Flat,1
-55,male,asymptomatic,150,160,false,ST-T_wave_abnormality,150,No,0.0,Unsloping,0
-45,male,asymptomatic,130,236,false,normal,144,No,0.1,Unsloping,0
-65,male,asymptomatic,144,312,false,ventricular_hypertrophy,113,Yes,1.7,Flat,1
-61,male,non-anginal pain,139,283,false,normal,135,No,0.3,Unsloping,0
-49,male,asymptomatic,131,142,false,normal,127,Yes,1.5,Flat,1
-72,male,asymptomatic,143,211,false,normal,109,Yes,1.4,Flat,1
-50,male,asymptomatic,133,218,false,normal,128,Yes,1.1,Flat,1
-64,male,asymptomatic,143,306,true,ST-T_wave_abnormality,115,Yes,1.8,Flat,1
-55,male,asymptomatic,116,186,true,ST-T_wave_abnormality,102,No,0.0,Flat,1
-63,male,asymptomatic,110,252,false,ST-T_wave_abnormality,140,Yes,2.0,Flat,1
-59,male,asymptomatic,125,222,false,normal,135,Yes,2.5,Downsloping,1
-56,male,asymptomatic,130,0,false,ventricular_hypertrophy,122,Yes,1.0,Flat,1
-62,male,asymptomatic,133,0,true,ST-T_wave_abnormality,119,Yes,1.2,Flat,1
-74,male,asymptomatic,150,258,true,ST-T_wave_abnormality,130,Yes,4.0,Downsloping,1
-54,male,asymptomatic,130,202,true,normal,112,Yes,2.0,Flat,1
-57,male,asymptomatic,110,197,false,ventricular_hypertrophy,100,No,0.0,Unsloping,0
-62,male,asymptomatic,138,204,false,ST-T_wave_abnormality,122,Yes,1.2,Flat,1
-76,male,asymptomatic,104,113,false,ventricular_hypertrophy,120,No,3.5,Downsloping,1
-54,female,asymptomatic,138,274,false,normal,105,Yes,1.5,Flat,1
-70,male,asymptomatic,170,192,false,ST-T_wave_abnormality,129,Yes,3.0,Downsloping,1
-61,female,non-anginal pain,140,298,true,normal,120,Yes,0.0,Unsloping,0
-48,male,asymptomatic,132,272,false,ST-T_wave_abnormality,139,No,0.2,Unsloping,0
-48,male,asymptomatic,132,220,true,ST-T_wave_abnormality,162,No,0.0,Flat,1
-61,male,atypical angina,142,200,true,ST-T_wave_abnormality,100,No,1.5,Downsloping,1
-66,male,asymptomatic,112,261,false,normal,140,No,1.5,Unsloping,1
-68,male,atypical angina,139,181,true,ST-T_wave_abnormality,135,No,0.2,Unsloping,0
-55,male,asymptomatic,172,260,false,normal,73,No,2.0,Flat,1
-62,male,asymptomatic,120,220,false,ventricular_hypertrophy,86,No,0.0,Unsloping,0
-71,male,asymptomatic,144,221,false,normal,108,Yes,1.8,Flat,1
-74,male,atypical angina,145,216,true,normal,116,Yes,1.8,Flat,1
-53,male,asymptomatic,155,175,true,ST-T_wave_abnormality,160,No,0.3,Unsloping,0
-58,male,asymptomatic,150,219,false,ST-T_wave_abnormality,118,Yes,0.0,Flat,1
-75,male,asymptomatic,160,310,true,normal,112,Yes,2.0,Downsloping,0
-56,male,asymptomatic,137,208,true,ST-T_wave_abnormality,122,Yes,1.8,Flat,1
-58,male,asymptomatic,137,232,false,ST-T_wave_abnormality,124,Yes,1.4,Flat,1
-64,male,asymptomatic,134,273,false,normal,102,Yes,4.0,Downsloping,1
-54,male,asymptomatic,133,203,false,ST-T_wave_abnormality,137,No,0.2,Unsloping,0
-54,male,non-anginal pain,132,182,false,ST-T_wave_abnormality,141,No,0.1,Unsloping,0
-59,male,asymptomatic,140,274,false,normal,154,Yes,2.0,Flat,0
-55,male,asymptomatic,135,204,true,ST-T_wave_abnormality,126,Yes,1.1,Flat,1
-57,male,asymptomatic,144,270,true,ST-T_wave_abnormality,160,Yes,2.0,Flat,1
-61,male,asymptomatic,141,292,false,ST-T_wave_abnormality,115,Yes,1.7,Flat,1
-41,male,asymptomatic,150,171,false,normal,128,Yes,1.5,Flat,0
-71,male,asymptomatic,130,221,false,ST-T_wave_abnormality,115,Yes,0.0,Flat,1
-38,male,asymptomatic,110,289,false,normal,105,Yes,1.5,Downsloping,1
-55,male,asymptomatic,158,217,false,normal,110,Yes,2.5,Flat,1
-56,male,asymptomatic,128,223,false,ST-T_wave_abnormality,119,Yes,2.0,Downsloping,1
-69,male,asymptomatic,140,110,true,normal,109,Yes,1.5,Flat,1
-64,male,asymptomatic,150,193,false,ST-T_wave_abnormality,135,Yes,0.5,Flat,1
-72,male,asymptomatic,160,123,true,ventricular_hypertrophy,130,No,1.5,Flat,1
-69,male,asymptomatic,142,210,true,ST-T_wave_abnormality,112,Yes,1.5,Flat,1
-56,male,asymptomatic,137,282,true,normal,126,Yes,1.2,Flat,1
-62,male,asymptomatic,139,170,false,ST-T_wave_abnormality,120,Yes,3.0,Flat,1
-67,male,asymptomatic,146,369,false,normal,110,Yes,1.9,Flat,1
-57,male,asymptomatic,156,173,false,ventricular_hypertrophy,119,Yes,3.0,Downsloping,1
-69,male,asymptomatic,145,289,true,ST-T_wave_abnormality,110,Yes,1.8,Flat,1
-51,male,asymptomatic,131,152,true,ventricular_hypertrophy,130,Yes,1.0,Flat,1
-48,male,asymptomatic,140,208,false,normal,159,Yes,1.5,Unsloping,1
-69,male,asymptomatic,122,216,true,ventricular_hypertrophy,84,Yes,0.0,Flat,1
-69,male,asymptomatic,142,271,false,ventricular_hypertrophy,126,No,0.3,Unsloping,0
-64,male,asymptomatic,141,244,true,ST-T_wave_abnormality,116,Yes,1.5,Flat,1
-57,male,non-anginal pain,180,285,true,ST-T_wave_abnormality,120,No,0.8,Flat,1
-53,male,asymptomatic,124,243,false,normal,122,Yes,2.0,Flat,1
-37,male,asymptomatic,118,240,false,ventricular_hypertrophy,165,No,1.0,Flat,0
-67,male,asymptomatic,140,219,false,ST-T_wave_abnormality,122,Yes,2.0,Flat,1
-74,male,asymptomatic,140,237,true,normal,94,No,0.0,Flat,1
-63,male,non-anginal pain,136,165,false,ST-T_wave_abnormality,133,No,0.2,Unsloping,0
-58,male,asymptomatic,100,213,false,ST-T_wave_abnormality,110,No,0.0,Unsloping,0
-61,male,asymptomatic,190,287,true,ventricular_hypertrophy,150,Yes,2.0,Downsloping,1
-64,male,asymptomatic,130,258,true,ventricular_hypertrophy,130,No,0.0,Flat,1
-58,male,asymptomatic,160,256,true,ventricular_hypertrophy,113,Yes,1.0,Unsloping,1
-60,male,asymptomatic,130,186,true,ventricular_hypertrophy,140,Yes,0.5,Flat,1
-57,male,asymptomatic,122,264,false,ventricular_hypertrophy,100,No,0.0,Flat,1
-55,male,asymptomatic,133,185,false,ST-T_wave_abnormality,136,No,0.2,Unsloping,0
-55,male,asymptomatic,120,226,false,ventricular_hypertrophy,127,Yes,1.7,Downsloping,1
-56,male,asymptomatic,130,203,true,normal,98,No,1.5,Flat,1
-57,male,asymptomatic,130,207,false,ST-T_wave_abnormality,96,Yes,1.0,Flat,0
-61,male,asymptomatic,140,284,false,normal,123,Yes,1.3,Flat,1
-61,male,asymptomatic,120,337,false,normal,98,Yes,0.0,Flat,1
-74,male,asymptomatic,155,310,false,normal,112,Yes,1.5,Downsloping,1
-68,male,asymptomatic,134,254,true,normal,151,Yes,0.0,Unsloping,0
-51,female,asymptomatic,114,258,true,ventricular_hypertrophy,96,No,1.0,Unsloping,0
-62,male,asymptomatic,160,254,true,ST-T_wave_abnormality,108,Yes,3.0,Flat,1
-53,male,asymptomatic,144,300,true,ST-T_wave_abnormality,128,Yes,1.5,Flat,1
-62,male,asymptomatic,158,170,false,ST-T_wave_abnormality,138,Yes,0.0,Flat,1
-46,male,asymptomatic,134,310,false,normal,126,No,0.0,Flat,1
-54,female,asymptomatic,127,333,true,ST-T_wave_abnormality,154,No,0.0,Flat,1
-62,male,atypical angina,135,139,false,ST-T_wave_abnormality,137,No,0.2,Unsloping,0
-55,male,asymptomatic,122,223,true,ST-T_wave_abnormality,100,No,0.0,Flat,1
-58,male,asymptomatic,140,385,true,ventricular_hypertrophy,135,No,0.3,Unsloping,0
-62,male,non-anginal pain,120,254,false,ventricular_hypertrophy,93,Yes,0.0,Flat,1
-70,male,asymptomatic,130,322,false,ventricular_hypertrophy,109,No,2.4,Flat,1
-67,female,asymptomatic,115,564,false,ventricular_hypertrophy,160,No,1.6,Flat,0
-57,male,non-anginal pain,124,261,false,normal,141,No,0.3,Unsloping,1
-64,male,asymptomatic,128,263,false,normal,105,Yes,0.2,Flat,0
-74,female,non-anginal pain,120,269,false,ventricular_hypertrophy,121,Yes,0.2,Unsloping,0
-65,male,asymptomatic,120,177,false,normal,140,No,0.4,Unsloping,0
-56,male,asymptomatic,130,256,true,ventricular_hypertrophy,142,Yes,0.6,Flat,1
-59,male,asymptomatic,110,239,false,ventricular_hypertrophy,142,Yes,1.2,Flat,1
-60,male,asymptomatic,140,293,false,ventricular_hypertrophy,170,No,1.2,Flat,1
-63,female,asymptomatic,150,407,false,ventricular_hypertrophy,154,No,4.0,Flat,1
-59,male,asymptomatic,135,234,false,normal,161,No,0.5,Flat,0
-53,male,asymptomatic,142,226,false,ventricular_hypertrophy,111,Yes,0.0,Unsloping,0
-44,male,asymptomatic,140,235,false,ventricular_hypertrophy,180,No,0.0,Unsloping,0
-61,male,atypical angina,134,234,false,normal,145,No,2.6,Flat,1
-57,female,asymptomatic,128,303,false,ventricular_hypertrophy,159,No,0.0,Unsloping,0
-71,female,asymptomatic,112,149,false,normal,125,No,1.6,Flat,0
-46,male,asymptomatic,140,311,false,normal,120,Yes,1.8,Flat,1
-53,male,asymptomatic,140,203,true,ventricular_hypertrophy,155,Yes,3.1,Downsloping,1
-64,male,atypical angina,110,211,false,ventricular_hypertrophy,144,Yes,1.8,Flat,0
-40,male,atypical angina,140,199,false,normal,178,Yes,1.4,Unsloping,0
-67,male,asymptomatic,120,229,false,ventricular_hypertrophy,129,Yes,2.6,Flat,1
-48,male,non-anginal pain,130,245,false,ventricular_hypertrophy,180,No,0.2,Flat,0
-43,male,asymptomatic,115,303,false,normal,181,No,1.2,Flat,0
-47,male,asymptomatic,112,204,false,normal,143,No,0.1,Unsloping,0
-54,female,non-anginal pain,132,288,true,ventricular_hypertrophy,159,Yes,0.0,Unsloping,0
-48,female,asymptomatic,130,275,false,normal,139,No,0.2,Unsloping,0
-46,female,asymptomatic,138,243,false,ventricular_hypertrophy,152,Yes,0.0,Flat,0
-51,female,asymptomatic,120,295,false,ventricular_hypertrophy,157,No,0.6,Unsloping,0
-58,male,asymptomatic,112,230,false,ventricular_hypertrophy,165,No,2.5,Flat,1
-71,female,asymptomatic,110,265,true,ventricular_hypertrophy,130,No,0.0,Unsloping,0
-57,male,asymptomatic,128,229,false,ventricular_hypertrophy,150,No,0.4,Flat,1
-66,male,asymptomatic,160,228,false,ventricular_hypertrophy,138,No,2.3,Unsloping,0
-37,female,asymptomatic,120,215,false,normal,170,No,0.0,Unsloping,0
-59,male,asymptomatic,170,326,false,ventricular_hypertrophy,140,Yes,3.4,Downsloping,1
-50,male,asymptomatic,144,200,false,ventricular_hypertrophy,126,Yes,0.9,Flat,1
-48,male,asymptomatic,130,256,true,ventricular_hypertrophy,150,Yes,0.0,Unsloping,1
-61,male,asymptomatic,140,207,false,ventricular_hypertrophy,138,Yes,1.9,Unsloping,1
-59,male,atypical angina,160,273,false,ventricular_hypertrophy,125,No,0.0,Unsloping,1
-42,male,asymptomatic,130,180,false,normal,150,No,0.0,Unsloping,0
-48,male,asymptomatic,122,222,false,ventricular_hypertrophy,186,No,0.0,Unsloping,0
-40,male,asymptomatic,152,223,false,normal,181,No,0.0,Unsloping,1
-62,female,asymptomatic,124,209,false,normal,163,No,0.0,Unsloping,0
-44,male,asymptomatic,130,233,false,normal,179,Yes,0.4,Unsloping,0
-46,male,non-anginal pain,101,197,true,normal,156,No,0.0,Unsloping,0
-59,male,asymptomatic,126,218,true,normal,134,No,2.2,Flat,1
-58,male,asymptomatic,140,211,true,ventricular_hypertrophy,165,No,0.0,Unsloping,0
-49,male,asymptomatic,118,149,false,ventricular_hypertrophy,126,No,0.8,Unsloping,1
-44,male,asymptomatic,110,197,false,ventricular_hypertrophy,177,No,0.0,Unsloping,1
-66,male,non-anginal pain,160,246,false,normal,120,Yes,0.0,Flat,1
-65,female,asymptomatic,150,225,false,ventricular_hypertrophy,114,No,1.0,Flat,1
-42,male,asymptomatic,136,315,false,normal,125,Yes,1.8,Flat,1
-52,male,non-anginal pain,128,205,true,normal,184,No,0.0,Unsloping,0
-65,female,asymptomatic,140,417,true,ventricular_hypertrophy,157,No,0.8,Unsloping,0
-63,female,non-anginal pain,140,195,false,normal,179,No,0.0,Unsloping,0
-45,female,non-anginal pain,130,234,false,ventricular_hypertrophy,175,No,0.6,Flat,0
-41,female,non-anginal pain,105,198,false,normal,168,No,0.0,Unsloping,0
-61,male,asymptomatic,138,166,false,ventricular_hypertrophy,125,Yes,3.6,Flat,1
-60,female,asymptomatic,120,178,true,normal,96,No,0.0,Unsloping,0
-59,female,asymptomatic,174,249,false,normal,143,Yes,0.0,Flat,1
-62,male,non-anginal pain,120,281,false,ventricular_hypertrophy,103,No,1.4,Flat,1
-57,male,asymptomatic,150,126,true,normal,173,No,0.2,Unsloping,0
-51,female,asymptomatic,130,305,false,normal,142,Yes,1.2,Flat,1
-44,male,asymptomatic,120,226,false,normal,169,No,0.0,Unsloping,0
-60,female,atypical angina,150,240,false,normal,171,No,0.9,Unsloping,0
-63,male,atypical angina,145,233,true,ventricular_hypertrophy,150,No,2.3,Downsloping,0
-57,male,asymptomatic,150,276,false,ventricular_hypertrophy,112,Yes,0.6,Flat,1
-51,male,asymptomatic,140,261,false,ventricular_hypertrophy,186,Yes,0.0,Unsloping,0
-58,female,non-anginal pain,136,319,true,ventricular_hypertrophy,152,No,0.0,Unsloping,1
-44,female,asymptomatic,118,242,false,normal,149,No,0.3,Flat,0
-47,male,asymptomatic,108,243,false,normal,152,No,0.0,Unsloping,1
-61,male,asymptomatic,120,260,false,normal,140,Yes,3.6,Flat,1
-57,female,asymptomatic,120,354,false,normal,163,Yes,0.6,Unsloping,0
-70,male,non-anginal pain,156,245,false,ventricular_hypertrophy,143,No,0.0,Unsloping,0
-76,female,asymptomatic,140,197,false,ST-T_wave_abnormality,116,No,1.1,Flat,0
-67,female,asymptomatic,106,223,false,normal,142,No,0.3,Unsloping,0
-45,male,asymptomatic,142,309,false,ventricular_hypertrophy,147,Yes,0.0,Flat,1
-45,male,asymptomatic,104,208,false,ventricular_hypertrophy,148,Yes,3.0,Flat,0
-39,female,asymptomatic,94,199,false,normal,179,No,0.0,Unsloping,0
-42,female,asymptomatic,120,209,false,normal,173,No,0.0,Flat,0
-56,male,non-anginal pain,120,236,false,normal,178,No,0.8,Unsloping,0
-58,male,asymptomatic,146,218,false,normal,105,No,2.0,Flat,1
-35,male,asymptomatic,120,198,false,normal,130,Yes,1.6,Flat,1
-58,male,asymptomatic,150,270,false,ventricular_hypertrophy,111,Yes,0.8,Unsloping,1
-41,male,asymptomatic,130,214,false,ventricular_hypertrophy,168,No,2.0,Flat,0
-57,male,asymptomatic,110,201,false,normal,126,Yes,1.5,Flat,0
-42,male,atypical angina,148,244,false,ventricular_hypertrophy,178,No,0.8,Unsloping,0
-62,male,non-anginal pain,128,208,true,ventricular_hypertrophy,140,No,0.0,Unsloping,0
-59,male,atypical angina,178,270,false,ventricular_hypertrophy,145,No,4.2,Downsloping,0
-41,female,non-anginal pain,126,306,false,normal,163,No,0.0,Unsloping,0
-50,male,asymptomatic,150,243,false,ventricular_hypertrophy,128,No,2.6,Flat,1
-59,male,non-anginal pain,140,221,false,normal,164,Yes,0.0,Unsloping,0
-61,female,asymptomatic,130,330,false,ventricular_hypertrophy,169,No,0.0,Unsloping,1
-54,male,asymptomatic,124,266,false,ventricular_hypertrophy,109,Yes,2.2,Flat,1
-54,male,asymptomatic,110,206,false,ventricular_hypertrophy,108,Yes,0.0,Flat,1
-52,male,asymptomatic,125,212,false,normal,168,No,1.0,Unsloping,1
-47,male,asymptomatic,110,275,false,ventricular_hypertrophy,118,Yes,1.0,Flat,1
-66,male,asymptomatic,120,302,false,ventricular_hypertrophy,151,No,0.4,Flat,0
-58,male,asymptomatic,100,234,false,normal,156,No,0.1,Unsloping,1
-64,female,asymptomatic,140,313,false,normal,133,No,0.2,Unsloping,0
-50,female,non-anginal pain,120,244,false,normal,162,No,1.1,Unsloping,0
-44,female,asymptomatic,108,141,false,normal,175,No,0.6,Flat,0
-67,male,asymptomatic,120,237,false,normal,71,No,1.0,Flat,1
-49,female,asymptomatic,130,269,false,normal,163,No,0.0,Unsloping,0
-57,male,asymptomatic,165,289,true,ventricular_hypertrophy,124,No,1.0,Flat,1
-63,male,asymptomatic,130,254,false,ventricular_hypertrophy,147,No,1.4,Flat,1
-48,male,asymptomatic,124,274,false,ventricular_hypertrophy,166,No,0.5,Flat,1
-51,male,asymptomatic,100,222,false,normal,143,Yes,1.2,Flat,0
-60,female,asymptomatic,150,258,false,ventricular_hypertrophy,157,No,2.6,Flat,1
-59,male,asymptomatic,140,177,false,normal,162,Yes,0.0,Unsloping,1
-45,female,non-anginal pain,112,160,false,normal,138,No,0.0,Flat,0
-55,female,asymptomatic,180,327,false,ST-T_wave_abnormality,117,Yes,3.4,Flat,1
-41,male,non-anginal pain,110,235,false,normal,153,No,0.0,Unsloping,0
-60,female,asymptomatic,158,305,false,ventricular_hypertrophy,161,No,0.0,Unsloping,1
-54,female,asymptomatic,135,304,true,normal,170,No,0.0,Unsloping,0
-42,male,non-anginal pain,120,295,false,normal,162,No,0.0,Unsloping,0
-49,female,non-anginal pain,134,271,false,normal,162,No,0.0,Flat,0
-46,male,asymptomatic,120,249,false,ventricular_hypertrophy,144,No,0.8,Unsloping,1
-56,female,asymptomatic,200,288,true,ventricular_hypertrophy,133,Yes,4.0,Downsloping,1
-66,female,atypical angina,150,226,false,normal,114,No,2.6,Downsloping,0
-56,male,asymptomatic,130,283,true,ventricular_hypertrophy,103,Yes,1.6,Downsloping,1
-49,male,asymptomatic,120,188,false,normal,139,No,2.0,Flat,1
-54,male,asymptomatic,122,286,false,ventricular_hypertrophy,116,Yes,3.2,Flat,1
-57,male,asymptomatic,152,274,false,normal,88,Yes,1.2,Flat,1
-65,female,asymptomatic,160,360,false,ventricular_hypertrophy,151,No,0.8,Unsloping,0
-54,male,asymptomatic,125,273,false,ventricular_hypertrophy,152,No,0.5,Downsloping,0
-54,female,asymptomatic,160,201,false,normal,163,No,0.0,Unsloping,0
-62,male,asymptomatic,120,267,false,normal,99,Yes,1.8,Flat,1
-52,female,asymptomatic,136,196,false,ventricular_hypertrophy,169,No,0.1,Flat,0
-52,male,non-anginal pain,134,201,false,normal,158,No,0.8,Unsloping,0
-60,male,asymptomatic,117,230,true,normal,160,Yes,1.4,Unsloping,1
-63,female,asymptomatic,108,269,false,normal,169,Yes,1.8,Flat,1
-66,male,asymptomatic,112,212,false,ventricular_hypertrophy,132,Yes,0.1,Unsloping,1
-42,male,asymptomatic,140,226,false,normal,178,No,0.0,Unsloping,0
-64,male,asymptomatic,120,246,false,ventricular_hypertrophy,96,Yes,2.2,Downsloping,1
-54,male,asymptomatic,150,232,false,ventricular_hypertrophy,165,No,1.6,Unsloping,0
-46,female,asymptomatic,142,177,false,ventricular_hypertrophy,160,Yes,1.4,Downsloping,0
-67,female,asymptomatic,152,277,false,normal,172,No,0.0,Unsloping,0
-56,male,asymptomatic,125,249,true,ventricular_hypertrophy,144,Yes,1.2,Flat,1
-34,female,non-anginal pain,118,210,false,normal,192,No,0.7,Unsloping,0
-57,male,asymptomatic,132,207,false,normal,168,Yes,0.0,Unsloping,0
-64,male,asymptomatic,145,212,false,ventricular_hypertrophy,132,No,2.0,Flat,1
-59,male,asymptomatic,138,271,false,ventricular_hypertrophy,182,No,0.0,Unsloping,0
-50,male,asymptomatic,140,233,false,normal,163,No,0.6,Flat,1
-51,male,atypical angina,125,213,false,ventricular_hypertrophy,125,Yes,1.4,Unsloping,0
-54,male,non-anginal pain,192,283,false,ventricular_hypertrophy,195,No,0.0,Unsloping,1
-53,male,asymptomatic,123,282,false,normal,95,Yes,2.0,Flat,1
-52,male,asymptomatic,112,230,false,normal,160,No,0.0,Unsloping,1
-40,male,asymptomatic,110,167,false,ventricular_hypertrophy,114,Yes,2.0,Flat,1
-58,male,asymptomatic,132,224,false,ventricular_hypertrophy,173,No,3.2,Unsloping,1
-41,female,asymptomatic,112,268,false,ventricular_hypertrophy,172,Yes,0.0,Unsloping,0
-41,male,asymptomatic,112,250,false,normal,179,No,0.0,Unsloping,0
-50,female,asymptomatic,120,219,false,normal,158,No,1.6,Flat,0
-54,female,asymptomatic,108,267,false,ventricular_hypertrophy,167,No,0.0,Unsloping,0
-64,female,asymptomatic,130,303,false,normal,122,No,2.0,Flat,0
-51,female,asymptomatic,130,256,false,ventricular_hypertrophy,149,No,0.5,Unsloping,0
-46,female,non-anginal pain,105,204,false,normal,172,No,0.0,Unsloping,0
-55,male,asymptomatic,140,217,false,normal,111,Yes,5.6,Downsloping,1
-45,male,non-anginal pain,128,308,false,ventricular_hypertrophy,170,No,0.0,Unsloping,0
-56,male,atypical angina,120,193,false,ventricular_hypertrophy,162,No,1.9,Flat,0
-66,female,asymptomatic,178,228,true,normal,165,Yes,1.0,Flat,1
-38,male,atypical angina,120,231,false,normal,182,Yes,3.8,Flat,1
-62,female,asymptomatic,150,244,false,normal,154,Yes,1.4,Flat,1
-55,male,non-anginal pain,130,262,false,normal,155,No,0.0,Unsloping,0
-58,male,asymptomatic,128,259,false,ventricular_hypertrophy,130,Yes,3.0,Flat,1
-43,male,asymptomatic,110,211,false,normal,161,No,0.0,Unsloping,0
-64,female,asymptomatic,180,325,false,normal,154,Yes,0.0,Unsloping,0
-50,female,asymptomatic,110,254,false,ventricular_hypertrophy,159,No,0.0,Unsloping,0
-53,male,asymptomatic,130,197,true,ventricular_hypertrophy,152,No,1.2,Downsloping,0
-45,female,asymptomatic,138,236,false,ventricular_hypertrophy,152,Yes,0.2,Flat,0
-65,male,atypical angina,138,282,true,ventricular_hypertrophy,174,No,1.4,Flat,1
-69,male,atypical angina,160,234,true,ventricular_hypertrophy,131,No,0.1,Flat,0
-69,male,asymptomatic,140,254,false,ventricular_hypertrophy,146,No,2.0,Flat,1
-67,male,asymptomatic,100,299,false,ventricular_hypertrophy,125,Yes,0.9,Flat,1
-68,female,asymptomatic,120,211,false,ventricular_hypertrophy,115,No,1.5,Flat,0
-34,male,atypical angina,118,182,false,ventricular_hypertrophy,174,No,0.0,Unsloping,0
-62,female,asymptomatic,138,294,true,normal,106,No,1.9,Flat,1
-51,male,asymptomatic,140,298,false,normal,122,Yes,4.2,Flat,1
-46,male,asymptomatic,150,231,false,normal,147,No,3.6,Flat,1
-67,male,asymptomatic,125,254,true,normal,163,No,0.2,Flat,1
-50,male,asymptomatic,129,196,false,normal,163,No,0.0,Unsloping,0
-42,male,asymptomatic,120,240,true,normal,194,No,0.8,Downsloping,0
-56,female,asymptomatic,134,409,false,ventricular_hypertrophy,150,Yes,1.9,Flat,1
-41,male,asymptomatic,110,172,false,ventricular_hypertrophy,158,No,0.0,Unsloping,1
-42,female,asymptomatic,102,265,false,ventricular_hypertrophy,122,No,0.6,Flat,0
-53,male,asymptomatic,130,246,true,ventricular_hypertrophy,173,No,0.0,Unsloping,0
-43,male,asymptomatic,130,315,false,normal,162,No,1.9,Unsloping,0
-56,male,asymptomatic,132,184,false,ventricular_hypertrophy,105,Yes,2.1,Flat,1
-52,male,asymptomatic,108,233,true,normal,147,No,0.1,Unsloping,0
-62,female,asymptomatic,140,394,false,ventricular_hypertrophy,157,No,1.2,Flat,0
-70,male,asymptomatic,160,269,false,normal,112,Yes,2.9,Flat,1
-54,male,asymptomatic,140,239,false,normal,160,No,1.2,Unsloping,0
-70,male,asymptomatic,145,174,false,normal,125,Yes,2.6,Downsloping,1
-54,male,non-anginal pain,108,309,false,normal,156,No,0.0,Unsloping,0
-35,male,asymptomatic,126,282,false,ventricular_hypertrophy,156,Yes,0.0,Unsloping,1
-48,male,asymptomatic,124,255,true,normal,175,No,0.0,Unsloping,0
-55,female,non-anginal pain,135,250,false,ventricular_hypertrophy,161,No,1.4,Flat,0
-58,female,asymptomatic,100,248,false,ventricular_hypertrophy,122,No,1.0,Flat,0
-54,female,asymptomatic,110,214,false,normal,158,No,1.6,Flat,0
-69,female,atypical angina,140,239,false,normal,151,No,1.8,Unsloping,0
-77,male,asymptomatic,125,304,false,ventricular_hypertrophy,162,Yes,0.0,Unsloping,1
-68,male,asymptomatic,118,277,false,normal,151,No,1.0,Unsloping,0
-58,male,asymptomatic,125,300,false,ventricular_hypertrophy,171,No,0.0,Unsloping,1
-60,male,asymptomatic,125,258,false,ventricular_hypertrophy,141,Yes,2.8,Flat,1
-51,male,asymptomatic,140,299,false,normal,173,Yes,1.6,Unsloping,1
-55,male,asymptomatic,160,289,false,ventricular_hypertrophy,145,Yes,0.8,Flat,1
-52,male,atypical angina,152,298,true,normal,178,No,1.2,Flat,0
-60,female,asymptomatic,102,318,false,normal,160,No,0.0,Unsloping,0
-58,male,asymptomatic,105,240,false,ventricular_hypertrophy,154,Yes,0.6,Flat,0
-64,male,asymptomatic,125,309,false,normal,131,Yes,1.8,Flat,1
-37,male,asymptomatic,130,250,false,normal,187,No,3.5,Downsloping,0
-59,male,atypical angina,170,288,false,ventricular_hypertrophy,159,No,0.2,Flat,1
-51,male,asymptomatic,125,245,true,ventricular_hypertrophy,166,No,2.4,Flat,0
-43,female,asymptomatic,122,213,false,normal,165,No,0.2,Flat,0
-58,male,asymptomatic,128,216,false,ventricular_hypertrophy,131,Yes,2.2,Flat,1
-29,male,non-anginal pain,130,204,false,ventricular_hypertrophy,202,No,0.0,Unsloping,0
-41,female,non-anginal pain,130,204,false,ventricular_hypertrophy,172,No,1.4,Unsloping,0
-63,female,asymptomatic,135,252,false,ventricular_hypertrophy,172,No,0.0,Unsloping,0
-51,male,asymptomatic,94,227,false,normal,154,Yes,0.0,Unsloping,0
-54,male,asymptomatic,120,258,false,ventricular_hypertrophy,147,No,0.4,Flat,0
-44,male,non-anginal pain,120,220,false,normal,170,No,0.0,Unsloping,0
-54,male,asymptomatic,110,239,false,normal,126,Yes,2.8,Flat,1
-65,male,asymptomatic,135,254,false,ventricular_hypertrophy,127,No,2.8,Flat,1
-57,male,asymptomatic,150,168,false,normal,174,No,1.6,Unsloping,0
-63,male,asymptomatic,130,330,true,ventricular_hypertrophy,132,Yes,1.8,Unsloping,1
-35,female,asymptomatic,138,183,false,normal,182,No,1.4,Unsloping,0
-41,male,non-anginal pain,135,203,false,normal,132,No,0.0,Flat,0
-62,female,asymptomatic,130,263,false,normal,97,No,1.2,Flat,1
-43,female,asymptomatic,132,341,true,ventricular_hypertrophy,136,Yes,3.0,Flat,1
-58,female,atypical angina,150,283,true,ventricular_hypertrophy,162,No,1.0,Unsloping,0
-52,male,atypical angina,118,186,false,ventricular_hypertrophy,190,No,0.0,Flat,0
-61,female,asymptomatic,145,307,false,ventricular_hypertrophy,146,Yes,1.0,Flat,1
-39,male,asymptomatic,118,219,false,normal,140,No,1.2,Flat,1
-45,male,asymptomatic,115,260,false,ventricular_hypertrophy,185,No,0.0,Unsloping,0
-52,male,asymptomatic,128,255,false,normal,161,Yes,0.0,Unsloping,1
-62,male,asymptomatic,130,231,false,normal,146,No,1.8,Flat,0
-62,female,asymptomatic,160,164,false,ventricular_hypertrophy,145,No,6.2,Downsloping,1
-53,female,asymptomatic,138,234,false,ventricular_hypertrophy,160,No,0.0,Unsloping,0
-43,male,asymptomatic,120,177,false,ventricular_hypertrophy,120,Yes,2.5,Flat,1
-47,male,asymptomatic,138,257,false,ventricular_hypertrophy,156,No,0.0,Unsloping,0
-52,male,non-anginal pain,120,325,false,normal,172,No,0.2,Unsloping,0
-68,male,asymptomatic,180,274,true,ventricular_hypertrophy,150,Yes,1.6,Flat,1
-39,male,asymptomatic,140,321,false,ventricular_hypertrophy,182,No,0.0,Unsloping,0
-53,female,asymptomatic,130,264,false,ventricular_hypertrophy,143,No,0.4,Flat,0
-62,female,asymptomatic,140,268,false,ventricular_hypertrophy,160,No,3.6,Downsloping,1
-51,female,asymptomatic,140,308,false,ventricular_hypertrophy,142,No,1.5,Unsloping,0
-60,male,asymptomatic,130,253,false,normal,144,Yes,1.4,Unsloping,1
-65,male,asymptomatic,110,248,false,ventricular_hypertrophy,158,No,0.6,Unsloping,1
-65,female,asymptomatic,155,269,false,normal,148,No,0.8,Unsloping,0
-60,male,asymptomatic,140,185,false,ventricular_hypertrophy,155,No,3.0,Flat,1
-60,male,asymptomatic,145,282,false,ventricular_hypertrophy,142,Yes,2.8,Flat,1
-54,male,asymptomatic,120,188,false,normal,113,No,1.4,Flat,1
-44,male,non-anginal pain,130,219,false,ventricular_hypertrophy,188,No,0.0,Unsloping,0
-44,male,asymptomatic,112,290,false,ventricular_hypertrophy,153,No,0.0,Unsloping,1
-51,male,asymptomatic,110,175,false,normal,123,No,0.6,Unsloping,0
-59,male,asymptomatic,150,212,true,normal,157,No,1.6,Unsloping,0
-71,female,non-anginal pain,160,302,false,normal,162,No,0.4,Unsloping,0
-61,male,asymptomatic,150,243,true,normal,137,Yes,1.0,Flat,0
-55,male,asymptomatic,132,353,false,normal,132,Yes,1.2,Flat,1
-64,male,asymptomatic,140,335,false,normal,158,No,0.0,Unsloping,1
-43,male,asymptomatic,150,247,false,normal,171,No,1.5,Unsloping,0
-58,female,asymptomatic,120,340,false,normal,172,No,0.0,Unsloping,0
-60,male,asymptomatic,130,206,false,ventricular_hypertrophy,132,Yes,2.4,Flat,1
-58,male,non-anginal pain,120,284,false,ventricular_hypertrophy,160,No,1.8,Flat,1
-49,male,non-anginal pain,130,266,false,normal,171,No,0.6,Unsloping,0
-48,male,non-anginal pain,110,229,false,normal,168,No,1.0,Downsloping,1
-52,male,asymptomatic,172,199,true,normal,162,No,0.5,Unsloping,0
-44,male,non-anginal pain,120,263,false,normal,173,No,0.0,Unsloping,0
-56,female,non-anginal pain,140,294,false,ventricular_hypertrophy,153,No,1.3,Flat,0
-57,male,asymptomatic,140,192,false,normal,148,No,0.4,Flat,0
-67,male,asymptomatic,160,286,false,ventricular_hypertrophy,108,Yes,1.5,Flat,1
-53,female,asymptomatic,128,216,false,ventricular_hypertrophy,115,No,0.0,Unsloping,0
-52,male,asymptomatic,138,223,false,normal,169,No,0.0,Unsloping,0
-43,male,asymptomatic,132,247,true,ventricular_hypertrophy,143,Yes,0.1,Flat,1
-52,male,asymptomatic,128,204,true,normal,156,Yes,1.0,Flat,1
-59,male,atypical angina,134,204,false,normal,162,No,0.8,Unsloping,1
-64,male,atypical angina,170,227,false,ventricular_hypertrophy,155,No,0.6,Flat,0
-66,female,asymptomatic,146,278,false,ventricular_hypertrophy,152,No,0.0,Flat,0
-39,female,asymptomatic,138,220,false,normal,152,No,0.0,Flat,0
-57,male,non-anginal pain,154,232,false,ventricular_hypertrophy,164,No,0.0,Unsloping,1
-58,female,asymptomatic,130,197,false,normal,131,No,0.6,Flat,0
-57,male,asymptomatic,110,335,false,normal,143,Yes,3.0,Flat,1
-47,male,asymptomatic,130,253,false,normal,179,No,0.0,Unsloping,0
-55,female,asymptomatic,128,205,false,ST-T_wave_abnormality,130,Yes,2.0,Flat,1
-35,male,non-anginal pain,122,192,false,normal,174,No,0.0,Unsloping,0
-61,male,asymptomatic,148,203,false,normal,161,No,0.0,Unsloping,1
-58,male,asymptomatic,114,318,false,ST-T_wave_abnormality,140,No,4.4,Downsloping,1
-58,female,asymptomatic,170,225,true,ventricular_hypertrophy,146,Yes,2.8,Flat,1
-58,male,non-anginal pain,125,220,false,normal,144,No,0.4,Flat,0
-56,male,non-anginal pain,130,221,false,ventricular_hypertrophy,163,No,0.0,Unsloping,0
-56,male,non-anginal pain,120,240,false,normal,169,No,0.0,Downsloping,0
-67,male,asymptomatic,152,212,false,ventricular_hypertrophy,150,No,0.8,Flat,1
-55,female,non-anginal pain,132,342,false,normal,166,No,1.2,Unsloping,0
-44,male,asymptomatic,120,169,false,normal,144,Yes,2.8,Downsloping,1
-63,male,asymptomatic,140,187,false,ventricular_hypertrophy,144,Yes,4.0,Unsloping,1
-63,female,asymptomatic,124,197,false,normal,136,Yes,0.0,Flat,1
-41,male,non-anginal pain,120,157,false,normal,182,No,0.0,Unsloping,0
-59,male,asymptomatic,164,176,true,ventricular_hypertrophy,90,No,1.0,Flat,1
-57,female,asymptomatic,140,241,false,normal,123,Yes,0.2,Flat,1
-45,male,atypical angina,110,264,false,normal,132,No,1.2,Flat,1
-68,male,asymptomatic,144,193,true,normal,141,No,3.4,Flat,1
-57,male,asymptomatic,130,131,false,normal,115,Yes,1.2,Flat,1
-57,female,non-anginal pain,130,236,false,ventricular_hypertrophy,174,No,0.0,Flat,1
-38,male,asymptomatic,138,175,false,normal,173,No,0.0,Unsloping,0
+40,Male,Atypical_Angina,140,289,False,Normal,172,No,0.0,Unsloping,Normal
+49,Female,Non-anginal_Pain,160,180,False,Normal,156,No,1.0,Flat,Heart_Disease
+37,Male,Atypical_Angina,130,283,False,ST-T_wave_Abnormality,98,No,0.0,Unsloping,Normal
+48,Female,Asymptomatic,138,214,False,Normal,108,Yes,1.5,Flat,Heart_Disease
+54,Male,Non-anginal_Pain,150,195,False,Normal,122,No,0.0,Unsloping,Normal
+39,Male,Non-anginal_Pain,120,339,False,Normal,170,No,0.0,Unsloping,Normal
+45,Female,Atypical_Angina,130,237,False,Normal,170,No,0.0,Unsloping,Normal
+54,Male,Atypical_Angina,110,208,False,Normal,142,No,0.0,Unsloping,Normal
+37,Male,Asymptomatic,140,207,False,Normal,130,Yes,1.5,Flat,Heart_Disease
+48,Female,Atypical_Angina,120,284,False,Normal,120,No,0.0,Unsloping,Normal
+37,Female,Non-anginal_Pain,130,211,False,Normal,142,No,0.0,Unsloping,Normal
+58,Male,Atypical_Angina,136,164,False,ST-T_wave_Abnormality,99,Yes,2.0,Flat,Heart_Disease
+39,Male,Atypical_Angina,120,204,False,Normal,145,No,0.0,Unsloping,Normal
+49,Male,Asymptomatic,140,234,False,Normal,140,Yes,1.0,Flat,Heart_Disease
+42,Female,Non-anginal_Pain,115,211,False,ST-T_wave_Abnormality,137,No,0.0,Unsloping,Normal
+54,Female,Atypical_Angina,120,273,False,Normal,150,No,1.5,Flat,Normal
+38,Male,Asymptomatic,110,196,False,Normal,166,No,0.0,Flat,Heart_Disease
+43,Female,Atypical_Angina,120,201,False,Normal,165,No,0.0,Unsloping,Normal
+60,Male,Asymptomatic,100,248,False,Normal,125,No,1.0,Flat,Heart_Disease
+36,Male,Atypical_Angina,120,267,False,Normal,160,No,3.0,Flat,Heart_Disease
+43,Female,Typical_Angina,100,223,False,Normal,142,No,0.0,Unsloping,Normal
+44,Male,Atypical_Angina,120,184,False,Normal,142,No,1.0,Flat,Normal
+49,Female,Atypical_Angina,124,201,False,Normal,164,No,0.0,Unsloping,Normal
+44,Male,Atypical_Angina,150,288,False,Normal,150,Yes,3.0,Flat,Heart_Disease
+40,Male,Non-anginal_Pain,130,215,False,Normal,138,No,0.0,Unsloping,Normal
+36,Male,Non-anginal_Pain,130,209,False,Normal,178,No,0.0,Unsloping,Normal
+53,Male,Asymptomatic,124,260,False,ST-T_wave_Abnormality,112,Yes,3.0,Flat,Normal
+52,Male,Atypical_Angina,120,284,False,Normal,118,No,0.0,Unsloping,Normal
+53,Female,Atypical_Angina,113,468,False,Normal,127,No,0.0,Unsloping,Normal
+51,Male,Atypical_Angina,125,188,False,Normal,145,No,0.0,Unsloping,Normal
+53,Male,Non-anginal_Pain,145,518,False,Normal,130,No,0.0,Flat,Heart_Disease
+56,Male,Non-anginal_Pain,130,167,False,Normal,114,No,0.0,Unsloping,Normal
+54,Male,Asymptomatic,125,224,False,Normal,122,No,2.0,Flat,Heart_Disease
+41,Male,Asymptomatic,130,172,False,ST-T_wave_Abnormality,130,No,2.0,Flat,Heart_Disease
+43,Female,Atypical_Angina,150,186,False,Normal,154,No,0.0,Unsloping,Normal
+32,Male,Atypical_Angina,125,254,False,Normal,155,No,0.0,Unsloping,Normal
+65,Male,Asymptomatic,140,306,True,Normal,87,Yes,1.5,Flat,Heart_Disease
+41,Female,Atypical_Angina,110,250,False,ST-T_wave_Abnormality,142,No,0.0,Unsloping,Normal
+48,Female,Atypical_Angina,120,177,True,ST-T_wave_Abnormality,148,No,0.0,Unsloping,Normal
+48,Female,Asymptomatic,150,227,False,Normal,130,Yes,1.0,Flat,Normal
+54,Female,Atypical_Angina,150,230,False,Normal,130,No,0.0,Unsloping,Normal
+54,Female,Non-anginal_Pain,130,294,False,ST-T_wave_Abnormality,100,Yes,0.0,Flat,Heart_Disease
+35,Male,Atypical_Angina,150,264,False,Normal,168,No,0.0,Unsloping,Normal
+52,Male,Non-anginal_Pain,140,259,False,ST-T_wave_Abnormality,170,No,0.0,Unsloping,Normal
+43,Male,Asymptomatic,120,175,False,Normal,120,Yes,1.0,Flat,Heart_Disease
+59,Male,Non-anginal_Pain,130,318,False,Normal,120,Yes,1.0,Flat,Normal
+37,Male,Asymptomatic,120,223,False,Normal,168,No,0.0,Unsloping,Normal
+50,Male,Atypical_Angina,140,216,False,Normal,170,No,0.0,Unsloping,Normal
+36,Male,Non-anginal_Pain,112,340,False,Normal,184,No,1.0,Flat,Normal
+41,Male,Asymptomatic,110,289,False,Normal,170,No,0.0,Flat,Heart_Disease
+50,Male,Asymptomatic,130,233,False,Normal,121,Yes,2.0,Flat,Heart_Disease
+47,Female,Asymptomatic,120,205,False,Normal,98,Yes,2.0,Flat,Heart_Disease
+45,Male,Atypical_Angina,140,224,True,Normal,122,No,0.0,Unsloping,Normal
+41,Female,Atypical_Angina,130,245,False,Normal,150,No,0.0,Unsloping,Normal
+52,Female,Asymptomatic,130,180,False,Normal,140,Yes,1.5,Flat,Normal
+51,Female,Atypical_Angina,160,194,False,Normal,170,No,0.0,Unsloping,Normal
+31,Male,Asymptomatic,120,270,False,Normal,153,Yes,1.5,Flat,Heart_Disease
+58,Male,Non-anginal_Pain,130,213,False,ST-T_wave_Abnormality,140,No,0.0,Flat,Heart_Disease
+54,Male,Asymptomatic,150,365,False,ST-T_wave_Abnormality,134,No,1.0,Unsloping,Normal
+52,Male,Asymptomatic,112,342,False,ST-T_wave_Abnormality,96,Yes,1.0,Flat,Heart_Disease
+49,Male,Atypical_Angina,100,253,False,Normal,174,No,0.0,Unsloping,Normal
+43,Female,Non-anginal_Pain,150,254,False,Normal,175,No,0.0,Unsloping,Normal
+45,Male,Asymptomatic,140,224,False,Normal,144,No,0.0,Unsloping,Normal
+46,Male,Asymptomatic,120,277,False,Normal,125,Yes,1.0,Flat,Heart_Disease
+50,Female,Atypical_Angina,110,202,False,Normal,145,No,0.0,Unsloping,Normal
+37,Female,Atypical_Angina,120,260,False,Normal,130,No,0.0,Unsloping,Normal
+45,Female,Asymptomatic,132,297,False,Normal,144,No,0.0,Unsloping,Normal
+32,Male,Atypical_Angina,110,225,False,Normal,184,No,0.0,Unsloping,Normal
+52,Male,Asymptomatic,160,246,False,ST-T_wave_Abnormality,82,Yes,4.0,Flat,Heart_Disease
+44,Male,Asymptomatic,150,412,False,Normal,170,No,0.0,Unsloping,Normal
+57,Male,Atypical_Angina,140,265,False,ST-T_wave_Abnormality,145,Yes,1.0,Flat,Heart_Disease
+44,Male,Atypical_Angina,130,215,False,Normal,135,No,0.0,Unsloping,Normal
+52,Male,Asymptomatic,120,182,False,Normal,150,No,0.0,Flat,Heart_Disease
+44,Female,Asymptomatic,120,218,False,ST-T_wave_Abnormality,115,No,0.0,Unsloping,Normal
+55,Male,Asymptomatic,140,268,False,Normal,128,Yes,1.5,Flat,Heart_Disease
+46,Male,Non-anginal_Pain,150,163,False,Normal,116,No,0.0,Unsloping,Normal
+32,Male,Asymptomatic,118,529,False,Normal,130,No,0.0,Flat,Heart_Disease
+35,Female,Asymptomatic,140,167,False,Normal,150,No,0.0,Unsloping,Normal
+52,Male,Atypical_Angina,140,100,False,Normal,138,Yes,0.0,Unsloping,Normal
+49,Male,Asymptomatic,130,206,False,Normal,170,No,0.0,Flat,Heart_Disease
+55,Male,Non-anginal_Pain,110,277,False,Normal,160,No,0.0,Unsloping,Normal
+54,Male,Atypical_Angina,120,238,False,Normal,154,No,0.0,Unsloping,Normal
+63,Male,Asymptomatic,150,223,False,Normal,115,No,0.0,Flat,Heart_Disease
+52,Male,Atypical_Angina,160,196,False,Normal,165,No,0.0,Unsloping,Normal
+56,Male,Asymptomatic,150,213,True,Normal,125,Yes,1.0,Flat,Heart_Disease
+66,Male,Asymptomatic,140,139,False,Normal,94,Yes,1.0,Flat,Heart_Disease
+65,Male,Asymptomatic,170,263,True,Normal,112,Yes,2.0,Flat,Heart_Disease
+53,Female,Atypical_Angina,140,216,False,Normal,142,Yes,2.0,Flat,Normal
+43,Male,Typical_Angina,120,291,False,ST-T_wave_Abnormality,155,No,0.0,Flat,Heart_Disease
+55,Male,Asymptomatic,140,229,False,Normal,110,Yes,0.5,Flat,Normal
+49,Female,Atypical_Angina,110,208,False,Normal,160,No,0.0,Unsloping,Normal
+39,Male,Asymptomatic,130,307,False,Normal,140,No,0.0,Unsloping,Normal
+52,Female,Atypical_Angina,120,210,False,Normal,148,No,0.0,Unsloping,Normal
+48,Male,Asymptomatic,160,329,False,Normal,92,Yes,1.5,Flat,Heart_Disease
+39,Female,Non-anginal_Pain,110,182,False,ST-T_wave_Abnormality,180,No,0.0,Unsloping,Normal
+58,Male,Asymptomatic,130,263,False,Normal,140,Yes,2.0,Flat,Heart_Disease
+43,Male,Atypical_Angina,142,207,False,Normal,138,No,0.0,Unsloping,Normal
+39,Male,Non-anginal_Pain,160,147,True,Normal,160,No,0.0,Unsloping,Normal
+56,Male,Asymptomatic,120,85,False,Normal,140,No,0.0,Unsloping,Normal
+41,Male,Atypical_Angina,125,269,False,Normal,144,No,0.0,Unsloping,Normal
+65,Male,Asymptomatic,130,275,False,ST-T_wave_Abnormality,115,Yes,1.0,Flat,Heart_Disease
+51,Male,Asymptomatic,130,179,False,Normal,100,No,0.0,Unsloping,Normal
+40,Female,Asymptomatic,150,392,False,Normal,130,No,2.0,Flat,Heart_Disease
+40,Male,Asymptomatic,120,466,True,Normal,152,Yes,1.0,Flat,Heart_Disease
+46,Male,Asymptomatic,118,186,False,Normal,124,No,0.0,Flat,Heart_Disease
+57,Male,Atypical_Angina,140,260,True,Normal,140,No,0.0,Unsloping,Normal
+48,Female,Asymptomatic,120,254,False,ST-T_wave_Abnormality,110,No,0.0,Unsloping,Normal
+34,Male,Atypical_Angina,150,214,False,ST-T_wave_Abnormality,168,No,0.0,Unsloping,Normal
+50,Male,Asymptomatic,140,129,False,Normal,135,No,0.0,Unsloping,Normal
+39,Male,Atypical_Angina,190,241,False,Normal,106,No,0.0,Unsloping,Normal
+59,Female,Atypical_Angina,130,188,False,Normal,124,No,1.0,Flat,Normal
+57,Male,Asymptomatic,150,255,False,Normal,92,Yes,3.0,Flat,Heart_Disease
+47,Male,Asymptomatic,140,276,True,Normal,125,Yes,0.0,Unsloping,Normal
+38,Male,Atypical_Angina,140,297,False,Normal,150,No,0.0,Unsloping,Normal
+49,Female,Non-anginal_Pain,130,207,False,ST-T_wave_Abnormality,135,No,0.0,Unsloping,Normal
+33,Female,Asymptomatic,100,246,False,Normal,150,Yes,1.0,Flat,Heart_Disease
+38,Male,Asymptomatic,120,282,False,Normal,170,No,0.0,Flat,Heart_Disease
+59,Female,Asymptomatic,130,338,True,ST-T_wave_Abnormality,130,Yes,1.5,Flat,Heart_Disease
+35,Female,Typical_Angina,120,160,False,ST-T_wave_Abnormality,185,No,0.0,Unsloping,Normal
+34,Male,Typical_Angina,140,156,False,Normal,180,No,0.0,Flat,Heart_Disease
+47,Female,Non-anginal_Pain,135,248,True,Normal,170,No,0.0,Flat,Heart_Disease
+52,Female,Non-anginal_Pain,125,272,False,Normal,139,No,0.0,Unsloping,Normal
+46,Male,Asymptomatic,110,240,False,ST-T_wave_Abnormality,140,No,0.0,Unsloping,Normal
+58,Female,Atypical_Angina,180,393,False,Normal,110,Yes,1.0,Flat,Heart_Disease
+58,Male,Atypical_Angina,130,230,False,Normal,150,No,0.0,Unsloping,Normal
+54,Male,Atypical_Angina,120,246,False,Normal,110,No,0.0,Unsloping,Normal
+34,Female,Atypical_Angina,130,161,False,Normal,190,No,0.0,Unsloping,Normal
+48,Female,Asymptomatic,108,163,False,Normal,175,No,2.0,Unsloping,Normal
+54,Female,Atypical_Angina,120,230,True,Normal,140,No,0.0,Unsloping,Normal
+42,Male,Non-anginal_Pain,120,228,False,Normal,152,Yes,1.5,Flat,Normal
+38,Male,Non-anginal_Pain,145,292,False,Normal,130,No,0.0,Unsloping,Normal
+46,Male,Asymptomatic,110,202,False,Normal,150,Yes,0.0,Flat,Heart_Disease
+56,Male,Asymptomatic,170,388,False,ST-T_wave_Abnormality,122,Yes,2.0,Flat,Heart_Disease
+56,Male,Asymptomatic,150,230,False,ST-T_wave_Abnormality,124,Yes,1.5,Flat,Heart_Disease
+61,Female,Asymptomatic,130,294,False,ST-T_wave_Abnormality,120,Yes,1.0,Flat,Normal
+49,Male,Non-anginal_Pain,115,265,False,Normal,175,No,0.0,Flat,Heart_Disease
+43,Female,Atypical_Angina,120,215,False,ST-T_wave_Abnormality,175,No,0.0,Unsloping,Normal
+39,Male,Atypical_Angina,120,241,False,ST-T_wave_Abnormality,146,No,2.0,Unsloping,Normal
+54,Male,Asymptomatic,140,166,False,Normal,118,Yes,0.0,Flat,Heart_Disease
+43,Male,Asymptomatic,150,247,False,Normal,130,Yes,2.0,Flat,Heart_Disease
+52,Male,Asymptomatic,160,331,False,Normal,94,Yes,2.5,Flat,Heart_Disease
+50,Male,Asymptomatic,140,341,False,ST-T_wave_Abnormality,125,Yes,2.5,Flat,Heart_Disease
+47,Male,Asymptomatic,160,291,False,ST-T_wave_Abnormality,158,Yes,3.0,Flat,Heart_Disease
+53,Male,Asymptomatic,140,243,False,Normal,155,No,0.0,Unsloping,Normal
+56,Female,Atypical_Angina,120,279,False,Normal,150,No,1.0,Flat,Heart_Disease
+39,Male,Asymptomatic,110,273,False,Normal,132,No,0.0,Unsloping,Normal
+42,Male,Atypical_Angina,120,198,False,Normal,155,No,0.0,Unsloping,Normal
+43,Female,Atypical_Angina,120,249,False,ST-T_wave_Abnormality,176,No,0.0,Unsloping,Normal
+50,Male,Atypical_Angina,120,168,False,Normal,160,No,0.0,Unsloping,Normal
+54,Male,Asymptomatic,130,603,True,Normal,125,Yes,1.0,Flat,Heart_Disease
+39,Male,Atypical_Angina,130,215,False,Normal,120,No,0.0,Unsloping,Normal
+48,Male,Atypical_Angina,100,159,False,Normal,100,No,0.0,Unsloping,Normal
+40,Male,Atypical_Angina,130,275,False,Normal,150,No,0.0,Unsloping,Normal
+55,Male,Asymptomatic,120,270,False,Normal,140,No,0.0,Unsloping,Normal
+41,Male,Atypical_Angina,120,291,False,ST-T_wave_Abnormality,160,No,0.0,Unsloping,Normal
+56,Male,Asymptomatic,155,342,True,Normal,150,Yes,3.0,Flat,Heart_Disease
+38,Male,Asymptomatic,110,190,False,Normal,150,Yes,1.0,Flat,Heart_Disease
+49,Male,Asymptomatic,140,185,False,Normal,130,No,0.0,Unsloping,Normal
+44,Male,Asymptomatic,130,290,False,Normal,100,Yes,2.0,Flat,Heart_Disease
+54,Male,Atypical_Angina,160,195,False,ST-T_wave_Abnormality,130,No,1.0,Unsloping,Normal
+59,Male,Asymptomatic,140,264,True,Ventricular_Hypertrophy,119,Yes,0.0,Flat,Heart_Disease
+49,Male,Asymptomatic,128,212,False,Normal,96,Yes,0.0,Flat,Heart_Disease
+47,Male,Atypical_Angina,160,263,False,Normal,174,No,0.0,Unsloping,Normal
+42,Male,Atypical_Angina,120,196,False,Normal,150,No,0.0,Unsloping,Normal
+52,Female,Atypical_Angina,140,225,False,Normal,140,No,0.0,Unsloping,Normal
+46,Male,Typical_Angina,140,272,True,Normal,175,No,2.0,Flat,Heart_Disease
+50,Male,Asymptomatic,140,231,False,ST-T_wave_Abnormality,140,Yes,5.0,Flat,Heart_Disease
+48,Male,Atypical_Angina,140,238,False,Normal,118,No,0.0,Unsloping,Normal
+58,Male,Asymptomatic,135,222,False,Normal,100,No,0.0,Unsloping,Normal
+58,Male,Non-anginal_Pain,140,179,False,Normal,160,No,0.0,Unsloping,Normal
+29,Male,Atypical_Angina,120,243,False,Normal,160,No,0.0,Unsloping,Normal
+40,Male,Non-anginal_Pain,140,235,False,Normal,188,No,0.0,Unsloping,Normal
+53,Male,Atypical_Angina,140,320,False,Normal,162,No,0.0,Unsloping,Normal
+49,Male,Non-anginal_Pain,140,187,False,Normal,172,No,0.0,Unsloping,Normal
+52,Male,Asymptomatic,140,266,False,Normal,134,Yes,2.0,Flat,Heart_Disease
+43,Male,Asymptomatic,140,288,False,Normal,135,Yes,2.0,Flat,Heart_Disease
+54,Male,Asymptomatic,140,216,False,Normal,105,No,1.5,Flat,Heart_Disease
+59,Male,Atypical_Angina,140,287,False,Normal,150,No,0.0,Unsloping,Normal
+37,Male,Non-anginal_Pain,130,194,False,Normal,150,No,0.0,Unsloping,Normal
+46,Female,Asymptomatic,130,238,False,Normal,90,No,0.0,Unsloping,Normal
+52,Male,Asymptomatic,130,225,False,Normal,120,Yes,2.0,Flat,Heart_Disease
+51,Male,Atypical_Angina,130,224,False,Normal,150,No,0.0,Unsloping,Normal
+52,Male,Asymptomatic,140,404,False,Normal,124,Yes,2.0,Flat,Heart_Disease
+46,Male,Asymptomatic,110,238,False,ST-T_wave_Abnormality,140,Yes,1.0,Flat,Normal
+54,Female,Atypical_Angina,160,312,False,Normal,130,No,0.0,Unsloping,Normal
+58,Male,Non-anginal_Pain,160,211,True,ST-T_wave_Abnormality,92,No,0.0,Flat,Heart_Disease
+58,Male,Atypical_Angina,130,251,False,Normal,110,No,0.0,Unsloping,Normal
+41,Male,Asymptomatic,120,237,True,Normal,138,Yes,1.0,Flat,Heart_Disease
+50,Female,Asymptomatic,120,328,False,Normal,110,Yes,1.0,Flat,Normal
+53,Male,Asymptomatic,180,285,False,ST-T_wave_Abnormality,120,Yes,1.5,Flat,Heart_Disease
+46,Male,Asymptomatic,180,280,False,ST-T_wave_Abnormality,120,No,0.0,Unsloping,Normal
+50,Male,Atypical_Angina,170,209,False,ST-T_wave_Abnormality,116,No,0.0,Unsloping,Normal
+48,Male,Atypical_Angina,130,245,False,Normal,160,No,0.0,Unsloping,Normal
+45,Male,Non-anginal_Pain,135,192,False,Normal,110,No,0.0,Unsloping,Normal
+41,Female,Atypical_Angina,125,184,False,Normal,180,No,0.0,Unsloping,Normal
+62,Female,Typical_Angina,160,193,False,Normal,116,No,0.0,Unsloping,Normal
+49,Male,Asymptomatic,120,297,False,Normal,132,No,1.0,Flat,Normal
+42,Male,Atypical_Angina,150,268,False,Normal,136,No,0.0,Unsloping,Normal
+53,Male,Asymptomatic,120,246,False,Normal,116,Yes,0.0,Flat,Heart_Disease
+57,Female,Typical_Angina,130,308,False,Normal,98,No,1.0,Flat,Normal
+47,Male,Typical_Angina,110,249,False,Normal,150,No,0.0,Unsloping,Normal
+46,Male,Non-anginal_Pain,120,230,False,Normal,150,No,0.0,Unsloping,Normal
+42,Male,Non-anginal_Pain,160,147,False,Normal,146,No,0.0,Unsloping,Normal
+31,Female,Atypical_Angina,100,219,False,ST-T_wave_Abnormality,150,No,0.0,Unsloping,Normal
+56,Male,Atypical_Angina,130,184,False,Normal,100,No,0.0,Unsloping,Normal
+50,Male,Asymptomatic,150,215,False,Normal,140,Yes,0.0,Unsloping,Normal
+35,Male,Atypical_Angina,120,308,False,Ventricular_Hypertrophy,180,No,0.0,Unsloping,Normal
+35,Male,Atypical_Angina,110,257,False,Normal,140,No,0.0,Flat,Heart_Disease
+28,Male,Atypical_Angina,130,132,False,Ventricular_Hypertrophy,185,No,0.0,Unsloping,Normal
+54,Male,Asymptomatic,125,216,False,Normal,140,No,0.0,Flat,Heart_Disease
+48,Male,Asymptomatic,106,263,True,Normal,110,No,0.0,Flat,Heart_Disease
+50,Female,Non-anginal_Pain,140,288,False,Normal,140,Yes,0.0,Flat,Heart_Disease
+56,Male,Non-anginal_Pain,130,276,False,Normal,128,Yes,1.0,Unsloping,Normal
+56,Female,Non-anginal_Pain,130,219,False,ST-T_wave_Abnormality,164,No,0.0,Unsloping,Normal
+47,Male,Asymptomatic,150,226,False,Normal,98,Yes,1.5,Flat,Heart_Disease
+30,Female,Typical_Angina,170,237,False,ST-T_wave_Abnormality,170,No,0.0,Unsloping,Normal
+39,Male,Asymptomatic,110,280,False,Normal,150,No,0.0,Flat,Heart_Disease
+54,Male,Non-anginal_Pain,120,217,False,Normal,137,No,0.0,Unsloping,Normal
+55,Male,Atypical_Angina,140,196,False,Normal,150,No,0.0,Unsloping,Normal
+29,Male,Atypical_Angina,140,263,False,Normal,170,No,0.0,Unsloping,Normal
+46,Male,Asymptomatic,130,222,False,Normal,112,No,0.0,Flat,Heart_Disease
+51,Female,Asymptomatic,160,303,False,Normal,150,Yes,1.0,Flat,Heart_Disease
+48,Female,Non-anginal_Pain,120,195,False,Normal,125,No,0.0,Unsloping,Normal
+33,Male,Non-anginal_Pain,120,298,False,Normal,185,No,0.0,Unsloping,Normal
+55,Male,Atypical_Angina,120,256,True,Normal,137,No,0.0,Unsloping,Normal
+50,Male,Asymptomatic,145,264,False,Normal,150,No,0.0,Flat,Heart_Disease
+53,Male,Non-anginal_Pain,120,195,False,Normal,140,No,0.0,Unsloping,Normal
+38,Male,Asymptomatic,92,117,False,Normal,134,Yes,2.5,Flat,Heart_Disease
+41,Male,Atypical_Angina,120,295,False,Normal,170,No,0.0,Unsloping,Normal
+37,Female,Asymptomatic,130,173,False,ST-T_wave_Abnormality,184,No,0.0,Unsloping,Normal
+37,Male,Asymptomatic,130,315,False,Normal,158,No,0.0,Unsloping,Normal
+40,Male,Non-anginal_Pain,130,281,False,Normal,167,No,0.0,Unsloping,Normal
+38,Female,Atypical_Angina,120,275,False,Normal,129,No,0.0,Unsloping,Normal
+41,Male,Asymptomatic,112,250,False,Normal,142,No,0.0,Unsloping,Normal
+54,Female,Atypical_Angina,140,309,False,ST-T_wave_Abnormality,140,No,0.0,Unsloping,Normal
+39,Male,Atypical_Angina,120,200,False,Normal,160,Yes,1.0,Flat,Normal
+41,Male,Asymptomatic,120,336,False,Normal,118,Yes,3.0,Flat,Heart_Disease
+55,Male,Typical_Angina,140,295,False,Normal,136,No,0.0,Flat,Heart_Disease
+48,Male,Asymptomatic,160,355,False,Normal,99,Yes,2.0,Flat,Heart_Disease
+48,Male,Asymptomatic,160,193,False,Normal,102,Yes,3.0,Flat,Heart_Disease
+55,Male,Atypical_Angina,145,326,False,Normal,155,No,0.0,Unsloping,Normal
+54,Male,Asymptomatic,200,198,False,Normal,142,Yes,2.0,Flat,Heart_Disease
+55,Male,Atypical_Angina,160,292,True,Normal,143,Yes,2.0,Flat,Heart_Disease
+43,Female,Atypical_Angina,120,266,False,Normal,118,No,0.0,Unsloping,Normal
+48,Male,Asymptomatic,160,268,False,Normal,103,Yes,1.0,Flat,Heart_Disease
+54,Male,Typical_Angina,120,171,False,Normal,137,No,2.0,Unsloping,Normal
+54,Male,Non-anginal_Pain,120,237,False,Normal,150,Yes,1.5,Flat,Heart_Disease
+48,Male,Asymptomatic,122,275,True,ST-T_wave_Abnormality,150,Yes,2.0,Downsloping,Heart_Disease
+45,Male,Asymptomatic,130,219,False,ST-T_wave_Abnormality,130,Yes,1.0,Flat,Heart_Disease
+49,Male,Asymptomatic,130,341,False,Normal,120,Yes,1.0,Flat,Heart_Disease
+44,Male,Asymptomatic,135,491,False,Normal,135,No,0.0,Flat,Heart_Disease
+48,Male,Asymptomatic,120,260,False,Normal,115,No,2.0,Flat,Heart_Disease
+61,Male,Asymptomatic,125,292,False,ST-T_wave_Abnormality,115,Yes,0.0,Unsloping,Normal
+62,Male,Atypical_Angina,140,271,False,Normal,152,No,1.0,Unsloping,Normal
+55,Male,Asymptomatic,145,248,False,Normal,96,Yes,2.0,Flat,Heart_Disease
+53,Female,Non-anginal_Pain,120,274,False,Normal,130,No,0.0,Unsloping,Normal
+55,Female,Atypical_Angina,130,394,False,Ventricular_Hypertrophy,150,No,0.0,Unsloping,Normal
+36,Male,Non-anginal_Pain,150,160,False,Normal,172,No,0.0,Unsloping,Normal
+51,Female,Non-anginal_Pain,150,200,False,Normal,120,No,0.5,Unsloping,Normal
+55,Female,Atypical_Angina,122,320,False,Normal,155,No,0.0,Unsloping,Normal
+46,Male,Atypical_Angina,140,275,False,Normal,165,Yes,0.0,Unsloping,Normal
+54,Female,Atypical_Angina,120,221,False,Normal,138,No,1.0,Unsloping,Normal
+46,Male,Asymptomatic,120,231,False,Normal,115,Yes,0.0,Flat,Heart_Disease
+59,Male,Asymptomatic,130,126,False,Normal,125,No,0.0,Flat,Heart_Disease
+47,Male,Non-anginal_Pain,140,193,False,Normal,145,Yes,1.0,Flat,Heart_Disease
+54,Male,Atypical_Angina,160,305,False,Normal,175,No,0.0,Unsloping,Normal
+52,Male,Asymptomatic,130,298,False,Normal,110,Yes,1.0,Flat,Heart_Disease
+34,Male,Atypical_Angina,98,220,False,Normal,150,No,0.0,Unsloping,Normal
+54,Male,Asymptomatic,130,242,False,Normal,91,Yes,1.0,Flat,Heart_Disease
+47,Female,Non-anginal_Pain,130,235,False,Normal,145,No,2.0,Flat,Normal
+45,Male,Asymptomatic,120,225,False,Normal,140,No,0.0,Unsloping,Normal
+32,Female,Atypical_Angina,105,198,False,Normal,165,No,0.0,Unsloping,Normal
+55,Male,Asymptomatic,140,201,False,Normal,130,Yes,3.0,Flat,Heart_Disease
+55,Male,Non-anginal_Pain,120,220,False,Ventricular_Hypertrophy,134,No,0.0,Unsloping,Normal
+45,Female,Atypical_Angina,180,295,False,Normal,180,No,0.0,Unsloping,Normal
+59,Male,Non-anginal_Pain,180,213,False,Normal,100,No,0.0,Unsloping,Normal
+51,Male,Non-anginal_Pain,135,160,False,Normal,150,No,2.0,Flat,Heart_Disease
+52,Male,Asymptomatic,170,223,False,Normal,126,Yes,1.5,Flat,Heart_Disease
+57,Female,Asymptomatic,180,347,False,ST-T_wave_Abnormality,126,Yes,0.8,Flat,Normal
+54,Female,Atypical_Angina,130,253,False,ST-T_wave_Abnormality,155,No,0.0,Unsloping,Normal
+60,Male,Non-anginal_Pain,120,246,False,Ventricular_Hypertrophy,135,No,0.0,Unsloping,Normal
+49,Male,Asymptomatic,150,222,False,Normal,122,No,2.0,Flat,Heart_Disease
+51,Female,Non-anginal_Pain,130,220,False,Normal,160,Yes,2.0,Unsloping,Normal
+55,Female,Atypical_Angina,110,344,False,ST-T_wave_Abnormality,160,No,0.0,Unsloping,Normal
+42,Male,Asymptomatic,140,358,False,Normal,170,No,0.0,Unsloping,Normal
+51,Female,Non-anginal_Pain,110,190,False,Normal,120,No,0.0,Unsloping,Normal
+59,Male,Asymptomatic,140,169,False,Normal,140,No,0.0,Unsloping,Normal
+53,Male,Atypical_Angina,120,181,False,Normal,132,No,0.0,Unsloping,Normal
+48,Female,Atypical_Angina,133,308,False,ST-T_wave_Abnormality,156,No,2.0,Unsloping,Normal
+36,Male,Atypical_Angina,120,166,False,Normal,180,No,0.0,Unsloping,Normal
+48,Male,Non-anginal_Pain,110,211,False,Normal,138,No,0.0,Unsloping,Normal
+47,Female,Atypical_Angina,140,257,False,Normal,135,No,1.0,Unsloping,Normal
+53,Male,Asymptomatic,130,182,False,Normal,148,No,0.0,Unsloping,Normal
+65,Male,Asymptomatic,115,0,False,Normal,93,Yes,0.0,Flat,Heart_Disease
+32,Male,Typical_Angina,95,0,True,Normal,127,No,0.7,Unsloping,Heart_Disease
+61,Male,Asymptomatic,105,0,True,Normal,110,Yes,1.5,Unsloping,Heart_Disease
+50,Male,Asymptomatic,145,0,True,Normal,139,Yes,0.7,Flat,Heart_Disease
+57,Male,Asymptomatic,110,0,True,ST-T_wave_Abnormality,131,Yes,1.4,Unsloping,Heart_Disease
+51,Male,Asymptomatic,110,0,True,Normal,92,No,0.0,Flat,Heart_Disease
+47,Male,Asymptomatic,110,0,True,ST-T_wave_Abnormality,149,No,2.1,Unsloping,Heart_Disease
+60,Male,Asymptomatic,160,0,True,Normal,149,No,0.4,Flat,Heart_Disease
+55,Male,Atypical_Angina,140,0,False,ST-T_wave_Abnormality,150,No,0.2,Unsloping,Normal
+53,Male,Asymptomatic,125,0,True,Normal,120,No,1.5,Unsloping,Heart_Disease
+62,Female,Asymptomatic,120,0,True,ST-T_wave_Abnormality,123,Yes,1.7,Downsloping,Heart_Disease
+51,Male,Asymptomatic,95,0,True,Normal,126,No,2.2,Flat,Heart_Disease
+51,Female,Asymptomatic,120,0,True,Normal,127,Yes,1.5,Unsloping,Heart_Disease
+55,Male,Asymptomatic,115,0,True,Normal,155,No,0.1,Flat,Heart_Disease
+53,Male,Atypical_Angina,130,0,False,ST-T_wave_Abnormality,120,No,0.7,Downsloping,Normal
+58,Male,Asymptomatic,115,0,True,Normal,138,No,0.5,Unsloping,Heart_Disease
+57,Male,Asymptomatic,95,0,True,Normal,182,No,0.7,Downsloping,Heart_Disease
+65,Male,Asymptomatic,155,0,False,Normal,154,No,1.0,Unsloping,Normal
+60,Male,Asymptomatic,125,0,True,Normal,110,No,0.1,Unsloping,Heart_Disease
+41,Male,Asymptomatic,125,0,True,Normal,176,No,1.6,Unsloping,Heart_Disease
+34,Male,Asymptomatic,115,0,True,Normal,154,No,0.2,Unsloping,Heart_Disease
+53,Male,Asymptomatic,80,0,False,Normal,141,Yes,2.0,Downsloping,Normal
+74,Male,Atypical_Angina,145,0,True,ST-T_wave_Abnormality,123,No,1.3,Unsloping,Heart_Disease
+57,Male,Non-anginal_Pain,105,0,True,Normal,148,No,0.3,Flat,Heart_Disease
+56,Male,Asymptomatic,140,0,True,Normal,121,Yes,1.8,Unsloping,Heart_Disease
+61,Male,Asymptomatic,130,0,True,Normal,77,No,2.5,Flat,Heart_Disease
+68,Male,Asymptomatic,145,0,True,Normal,136,No,1.8,Unsloping,Heart_Disease
+59,Male,Non-anginal_Pain,125,0,True,Normal,175,No,2.6,Flat,Heart_Disease
+63,Male,Asymptomatic,100,0,True,Normal,109,No,-0.9,Flat,Heart_Disease
+38,Female,Asymptomatic,105,0,True,Normal,166,No,2.8,Unsloping,Heart_Disease
+62,Male,Asymptomatic,115,0,True,Normal,128,Yes,2.5,Downsloping,Heart_Disease
+46,Male,Asymptomatic,100,0,True,ST-T_wave_Abnormality,133,No,-2.6,Flat,Heart_Disease
+42,Male,Asymptomatic,105,0,True,Normal,128,Yes,-1.5,Downsloping,Heart_Disease
+45,Male,Non-anginal_Pain,110,0,False,Normal,138,No,-0.1,Unsloping,Normal
+59,Male,Asymptomatic,125,0,True,Normal,119,Yes,0.9,Unsloping,Heart_Disease
+52,Male,Asymptomatic,95,0,True,Normal,82,Yes,0.8,Flat,Heart_Disease
+60,Male,Asymptomatic,130,0,True,ST-T_wave_Abnormality,130,Yes,1.1,Downsloping,Heart_Disease
+60,Male,Non-anginal_Pain,115,0,True,Normal,143,No,2.4,Unsloping,Heart_Disease
+56,Male,Asymptomatic,115,0,True,ST-T_wave_Abnormality,82,No,-1.0,Unsloping,Heart_Disease
+38,Male,Non-anginal_Pain,100,0,False,Normal,179,No,-1.1,Unsloping,Normal
+40,Male,Asymptomatic,95,0,True,ST-T_wave_Abnormality,144,No,0.0,Unsloping,Heart_Disease
+51,Male,Asymptomatic,130,0,True,Normal,170,No,-0.7,Unsloping,Heart_Disease
+62,Male,Typical_Angina,120,0,True,Ventricular_Hypertrophy,134,No,-0.8,Flat,Heart_Disease
+72,Male,Non-anginal_Pain,160,0,False,Ventricular_Hypertrophy,114,No,1.6,Flat,Normal
+63,Male,Asymptomatic,150,0,True,ST-T_wave_Abnormality,154,No,3.7,Unsloping,Heart_Disease
+63,Male,Asymptomatic,140,0,True,Ventricular_Hypertrophy,149,No,2.0,Unsloping,Heart_Disease
+64,Female,Asymptomatic,95,0,True,Normal,145,No,1.1,Downsloping,Heart_Disease
+43,Male,Asymptomatic,100,0,True,Normal,122,No,1.5,Downsloping,Heart_Disease
+64,Male,Asymptomatic,110,0,True,Normal,114,Yes,1.3,Downsloping,Heart_Disease
+61,Male,Asymptomatic,110,0,True,Normal,113,No,1.4,Flat,Heart_Disease
+52,Male,Asymptomatic,130,0,True,Normal,120,No,0.0,Flat,Heart_Disease
+51,Male,Asymptomatic,120,0,True,Normal,104,No,0.0,Flat,Heart_Disease
+69,Male,Asymptomatic,135,0,False,Normal,130,No,0.0,Flat,Heart_Disease
+59,Male,Asymptomatic,120,0,False,Normal,115,No,0.0,Flat,Heart_Disease
+48,Male,Asymptomatic,115,0,True,Normal,128,No,0.0,Flat,Heart_Disease
+69,Male,Asymptomatic,137,0,False,ST-T_wave_Abnormality,104,Yes,1.6,Flat,Heart_Disease
+36,Male,Asymptomatic,110,0,True,Normal,125,Yes,1.0,Flat,Heart_Disease
+53,Male,Asymptomatic,120,0,True,Normal,120,No,0.0,Flat,Heart_Disease
+43,Male,Asymptomatic,140,0,False,ST-T_wave_Abnormality,140,Yes,0.5,Unsloping,Heart_Disease
+56,Male,Asymptomatic,120,0,False,ST-T_wave_Abnormality,100,Yes,-1.0,Downsloping,Heart_Disease
+58,Male,Asymptomatic,130,0,False,ST-T_wave_Abnormality,100,Yes,1.0,Flat,Heart_Disease
+55,Male,Asymptomatic,120,0,False,ST-T_wave_Abnormality,92,No,0.3,Unsloping,Heart_Disease
+67,Male,Typical_Angina,145,0,False,Ventricular_Hypertrophy,125,No,0.0,Flat,Heart_Disease
+46,Male,Asymptomatic,115,0,False,Normal,113,Yes,1.5,Flat,Heart_Disease
+53,Male,Atypical_Angina,120,0,False,Normal,95,No,0.0,Flat,Heart_Disease
+38,Male,Non-anginal_Pain,115,0,False,Normal,128,Yes,0.0,Flat,Heart_Disease
+53,Male,Non-anginal_Pain,105,0,False,Normal,115,No,0.0,Flat,Heart_Disease
+62,Male,Non-anginal_Pain,160,0,False,Normal,72,Yes,0.0,Flat,Heart_Disease
+47,Male,Asymptomatic,160,0,False,Normal,124,Yes,0.0,Flat,Heart_Disease
+56,Male,Non-anginal_Pain,155,0,False,ST-T_wave_Abnormality,99,No,0.0,Flat,Heart_Disease
+56,Male,Asymptomatic,120,0,False,ST-T_wave_Abnormality,148,No,0.0,Flat,Heart_Disease
+56,Male,Non-anginal_Pain,120,0,False,Normal,97,No,0.0,Flat,Normal
+64,Female,Asymptomatic,200,0,False,Normal,140,Yes,1.0,Flat,Heart_Disease
+61,Male,Asymptomatic,150,0,False,Normal,117,Yes,2.0,Flat,Heart_Disease
+68,Male,Asymptomatic,135,0,False,ST-T_wave_Abnormality,120,Yes,0.0,Unsloping,Heart_Disease
+57,Male,Asymptomatic,140,0,False,Normal,120,Yes,2.0,Flat,Heart_Disease
+63,Male,Asymptomatic,150,0,False,Normal,86,Yes,2.0,Flat,Heart_Disease
+60,Male,Asymptomatic,135,0,False,Normal,63,Yes,0.5,Unsloping,Heart_Disease
+66,Male,Asymptomatic,150,0,False,Normal,108,Yes,2.0,Flat,Heart_Disease
+63,Male,Asymptomatic,185,0,False,Normal,98,Yes,0.0,Unsloping,Heart_Disease
+59,Male,Asymptomatic,135,0,False,Normal,115,Yes,1.0,Flat,Heart_Disease
+61,Male,Asymptomatic,125,0,False,Normal,105,Yes,0.0,Downsloping,Heart_Disease
+73,Female,Non-anginal_Pain,160,0,False,ST-T_wave_Abnormality,121,No,0.0,Unsloping,Heart_Disease
+47,Male,Non-anginal_Pain,155,0,False,Normal,118,Yes,1.0,Flat,Heart_Disease
+65,Male,Asymptomatic,160,0,True,ST-T_wave_Abnormality,122,No,1.2,Flat,Heart_Disease
+70,Male,Asymptomatic,140,0,True,Normal,157,Yes,2.0,Flat,Heart_Disease
+50,Male,Asymptomatic,120,0,False,ST-T_wave_Abnormality,156,Yes,0.0,Unsloping,Heart_Disease
+60,Male,Asymptomatic,160,0,False,ST-T_wave_Abnormality,99,Yes,0.5,Flat,Heart_Disease
+50,Male,Asymptomatic,115,0,False,Normal,120,Yes,0.5,Flat,Heart_Disease
+43,Male,Asymptomatic,115,0,False,Normal,145,Yes,2.0,Flat,Heart_Disease
+38,Female,Asymptomatic,110,0,False,Normal,156,No,0.0,Flat,Heart_Disease
+54,Male,Asymptomatic,120,0,False,Normal,155,No,0.0,Flat,Heart_Disease
+61,Male,Asymptomatic,150,0,False,Normal,105,Yes,0.0,Flat,Heart_Disease
+42,Male,Asymptomatic,145,0,False,Normal,99,Yes,0.0,Flat,Heart_Disease
+53,Male,Asymptomatic,130,0,False,Ventricular_Hypertrophy,135,Yes,1.0,Flat,Heart_Disease
+55,Male,Asymptomatic,140,0,False,Normal,83,No,0.0,Flat,Heart_Disease
+61,Male,Asymptomatic,160,0,True,ST-T_wave_Abnormality,145,No,1.0,Flat,Heart_Disease
+51,Male,Asymptomatic,140,0,False,Normal,60,No,0.0,Flat,Heart_Disease
+70,Male,Asymptomatic,115,0,False,ST-T_wave_Abnormality,92,Yes,0.0,Flat,Heart_Disease
+61,Male,Asymptomatic,130,0,False,Ventricular_Hypertrophy,115,No,0.0,Flat,Heart_Disease
+38,Male,Asymptomatic,150,0,True,Normal,120,Yes,0.7,Flat,Heart_Disease
+57,Male,Asymptomatic,160,0,True,Normal,98,Yes,2.0,Flat,Heart_Disease
+38,Male,Asymptomatic,135,0,True,Normal,150,No,0.0,Flat,Heart_Disease
+62,Female,Typical_Angina,140,0,True,Normal,143,No,0.0,Flat,Heart_Disease
+58,Male,Asymptomatic,170,0,True,ST-T_wave_Abnormality,105,Yes,0.0,Flat,Heart_Disease
+52,Male,Asymptomatic,165,0,True,Normal,122,Yes,1.0,Unsloping,Heart_Disease
+61,Male,Non-anginal_Pain,200,0,True,ST-T_wave_Abnormality,70,No,0.0,Flat,Heart_Disease
+50,Female,Asymptomatic,160,0,True,Normal,110,No,0.0,Flat,Heart_Disease
+51,Male,Asymptomatic,130,0,True,ST-T_wave_Abnormality,163,No,0.0,Flat,Heart_Disease
+65,Male,Asymptomatic,145,0,True,ST-T_wave_Abnormality,67,No,0.7,Flat,Heart_Disease
+52,Male,Asymptomatic,135,0,True,Normal,128,Yes,2.0,Flat,Heart_Disease
+47,Male,Non-anginal_Pain,110,0,True,Normal,120,Yes,0.0,Flat,Heart_Disease
+35,Male,Asymptomatic,120,0,True,Normal,130,Yes,1.2,Flat,Heart_Disease
+57,Male,Asymptomatic,140,0,True,Normal,100,Yes,0.0,Flat,Heart_Disease
+62,Male,Asymptomatic,115,0,True,Normal,72,Yes,-0.5,Flat,Heart_Disease
+59,Male,Asymptomatic,110,0,True,Normal,94,No,0.0,Flat,Heart_Disease
+53,Male,Non-anginal_Pain,160,0,True,Ventricular_Hypertrophy,122,Yes,0.0,Flat,Heart_Disease
+62,Male,Asymptomatic,150,0,True,ST-T_wave_Abnormality,78,No,2.0,Flat,Heart_Disease
+54,Male,Asymptomatic,180,0,True,Normal,150,No,1.5,Flat,Heart_Disease
+56,Male,Asymptomatic,125,0,True,Normal,103,Yes,1.0,Flat,Heart_Disease
+56,Male,Non-anginal_Pain,125,0,True,Normal,98,No,-2.0,Flat,Heart_Disease
+54,Male,Asymptomatic,130,0,True,Normal,110,Yes,3.0,Flat,Heart_Disease
+66,Female,Asymptomatic,155,0,True,Normal,90,No,0.0,Flat,Heart_Disease
+63,Male,Asymptomatic,140,260,False,ST-T_wave_Abnormality,112,Yes,3.0,Flat,Heart_Disease
+44,Male,Asymptomatic,130,209,False,ST-T_wave_Abnormality,127,No,0.0,Unsloping,Normal
+60,Male,Asymptomatic,132,218,False,ST-T_wave_Abnormality,140,Yes,1.5,Downsloping,Heart_Disease
+55,Male,Asymptomatic,142,228,False,ST-T_wave_Abnormality,149,Yes,2.5,Unsloping,Heart_Disease
+66,Male,Non-anginal_Pain,110,213,True,Ventricular_Hypertrophy,99,Yes,1.3,Flat,Normal
+66,Male,Non-anginal_Pain,120,0,False,ST-T_wave_Abnormality,120,No,-0.5,Unsloping,Normal
+65,Male,Asymptomatic,150,236,True,ST-T_wave_Abnormality,105,Yes,0.0,Flat,Heart_Disease
+60,Male,Non-anginal_Pain,180,0,False,ST-T_wave_Abnormality,140,Yes,1.5,Flat,Normal
+60,Male,Non-anginal_Pain,120,0,True,Normal,141,Yes,2.0,Unsloping,Heart_Disease
+60,Male,Atypical_Angina,160,267,True,ST-T_wave_Abnormality,157,No,0.5,Flat,Heart_Disease
+56,Male,Atypical_Angina,126,166,False,ST-T_wave_Abnormality,140,No,0.0,Unsloping,Normal
+59,Male,Asymptomatic,140,0,False,ST-T_wave_Abnormality,117,Yes,1.0,Flat,Heart_Disease
+62,Male,Asymptomatic,110,0,False,Normal,120,Yes,0.5,Flat,Heart_Disease
+63,Male,Non-anginal_Pain,133,0,False,Ventricular_Hypertrophy,120,Yes,1.0,Flat,Heart_Disease
+57,Male,Asymptomatic,128,0,True,ST-T_wave_Abnormality,148,Yes,1.0,Flat,Heart_Disease
+62,Male,Asymptomatic,120,220,False,ST-T_wave_Abnormality,86,No,0.0,Unsloping,Normal
+63,Male,Asymptomatic,170,177,False,Normal,84,Yes,2.5,Downsloping,Heart_Disease
+46,Male,Asymptomatic,110,236,False,Normal,125,Yes,2.0,Flat,Heart_Disease
+63,Male,Asymptomatic,126,0,False,ST-T_wave_Abnormality,120,No,1.5,Downsloping,Normal
+60,Male,Asymptomatic,152,0,False,ST-T_wave_Abnormality,118,Yes,0.0,Unsloping,Normal
+58,Male,Asymptomatic,116,0,False,Normal,124,No,1.0,Unsloping,Heart_Disease
+64,Male,Asymptomatic,120,0,True,ST-T_wave_Abnormality,106,No,2.0,Flat,Heart_Disease
+63,Male,Non-anginal_Pain,130,0,False,ST-T_wave_Abnormality,111,Yes,0.0,Flat,Heart_Disease
+74,Male,Non-anginal_Pain,138,0,False,Normal,116,No,0.2,Unsloping,Normal
+52,Male,Non-anginal_Pain,128,0,False,ST-T_wave_Abnormality,180,No,3.0,Unsloping,Heart_Disease
+69,Male,Asymptomatic,130,0,True,ST-T_wave_Abnormality,129,No,1.0,Flat,Heart_Disease
+51,Male,Asymptomatic,128,0,True,ST-T_wave_Abnormality,125,Yes,1.2,Flat,Heart_Disease
+60,Male,Asymptomatic,130,186,True,ST-T_wave_Abnormality,140,Yes,0.5,Flat,Heart_Disease
+56,Male,Asymptomatic,120,100,False,Normal,120,Yes,1.5,Flat,Heart_Disease
+55,Male,Non-anginal_Pain,136,228,False,ST-T_wave_Abnormality,124,Yes,1.6,Flat,Heart_Disease
+54,Male,Asymptomatic,130,0,False,ST-T_wave_Abnormality,117,Yes,1.4,Flat,Heart_Disease
+77,Male,Asymptomatic,124,171,False,ST-T_wave_Abnormality,110,Yes,2.0,Unsloping,Heart_Disease
+63,Male,Asymptomatic,160,230,True,Normal,105,Yes,1.0,Flat,Heart_Disease
+55,Male,Non-anginal_Pain,0,0,False,Normal,155,No,1.5,Flat,Heart_Disease
+52,Male,Non-anginal_Pain,122,0,False,Normal,110,Yes,2.0,Downsloping,Heart_Disease
+64,Male,Asymptomatic,144,0,False,ST-T_wave_Abnormality,122,Yes,1.0,Flat,Heart_Disease
+60,Male,Asymptomatic,140,281,False,ST-T_wave_Abnormality,118,Yes,1.5,Flat,Heart_Disease
+60,Male,Asymptomatic,120,0,False,Normal,133,Yes,2.0,Unsloping,Normal
+58,Male,Asymptomatic,136,203,True,Normal,123,Yes,1.2,Flat,Heart_Disease
+59,Male,Asymptomatic,154,0,False,ST-T_wave_Abnormality,131,Yes,1.5,Unsloping,Normal
+61,Male,Non-anginal_Pain,120,0,False,Normal,80,Yes,0.0,Flat,Heart_Disease
+40,Male,Asymptomatic,125,0,True,Normal,165,No,0.0,Flat,Heart_Disease
+61,Male,Asymptomatic,134,0,True,ST-T_wave_Abnormality,86,No,1.5,Flat,Heart_Disease
+41,Male,Asymptomatic,104,0,False,ST-T_wave_Abnormality,111,No,0.0,Unsloping,Normal
+57,Male,Asymptomatic,139,277,True,ST-T_wave_Abnormality,118,Yes,1.9,Flat,Heart_Disease
+63,Male,Asymptomatic,136,0,False,Normal,84,Yes,0.0,Flat,Heart_Disease
+59,Male,Asymptomatic,122,233,False,Normal,117,Yes,1.3,Downsloping,Heart_Disease
+51,Male,Asymptomatic,128,0,False,Normal,107,No,0.0,Unsloping,Normal
+59,Male,Non-anginal_Pain,131,0,False,Normal,128,Yes,2.0,Downsloping,Heart_Disease
+42,Male,Non-anginal_Pain,134,240,False,Normal,160,No,0.0,Unsloping,Normal
+55,Male,Non-anginal_Pain,120,0,False,ST-T_wave_Abnormality,125,Yes,2.5,Flat,Heart_Disease
+63,Female,Atypical_Angina,132,0,False,Normal,130,No,0.1,Unsloping,Normal
+62,Male,Asymptomatic,152,153,False,ST-T_wave_Abnormality,97,Yes,1.6,Unsloping,Heart_Disease
+56,Male,Atypical_Angina,124,224,True,Normal,161,No,2.0,Flat,Normal
+53,Male,Asymptomatic,126,0,False,Normal,106,No,0.0,Flat,Heart_Disease
+68,Male,Asymptomatic,138,0,False,Normal,130,Yes,3.0,Flat,Heart_Disease
+53,Male,Asymptomatic,154,0,True,ST-T_wave_Abnormality,140,Yes,1.5,Flat,Heart_Disease
+60,Male,Non-anginal_Pain,141,316,True,ST-T_wave_Abnormality,122,Yes,1.7,Flat,Heart_Disease
+62,Male,Atypical_Angina,131,0,False,Normal,130,No,0.1,Unsloping,Normal
+59,Male,Asymptomatic,178,0,True,Ventricular_Hypertrophy,120,Yes,0.0,Flat,Heart_Disease
+51,Male,Asymptomatic,132,218,True,Ventricular_Hypertrophy,139,No,0.1,Unsloping,Normal
+61,Male,Asymptomatic,110,0,True,Normal,108,Yes,2.0,Downsloping,Heart_Disease
+57,Male,Asymptomatic,130,311,True,ST-T_wave_Abnormality,148,Yes,2.0,Flat,Heart_Disease
+56,Male,Non-anginal_Pain,170,0,False,Ventricular_Hypertrophy,123,Yes,2.5,Flat,Heart_Disease
+58,Male,Atypical_Angina,126,0,True,Normal,110,Yes,2.0,Flat,Heart_Disease
+69,Male,Non-anginal_Pain,140,0,True,ST-T_wave_Abnormality,118,No,2.5,Downsloping,Heart_Disease
+67,Male,Typical_Angina,142,270,True,Normal,125,No,2.5,Unsloping,Heart_Disease
+58,Male,Asymptomatic,120,0,False,Ventricular_Hypertrophy,106,Yes,1.5,Downsloping,Heart_Disease
+65,Male,Asymptomatic,134,0,False,Normal,112,Yes,1.1,Flat,Heart_Disease
+63,Male,Atypical_Angina,139,217,True,ST-T_wave_Abnormality,128,Yes,1.2,Flat,Heart_Disease
+55,Male,Atypical_Angina,110,214,True,ST-T_wave_Abnormality,180,No,0.4,Unsloping,Normal
+57,Male,Asymptomatic,140,214,False,ST-T_wave_Abnormality,144,Yes,2.0,Flat,Heart_Disease
+65,Male,Typical_Angina,140,252,False,Normal,135,No,0.3,Unsloping,Normal
+54,Male,Asymptomatic,136,220,False,Normal,140,Yes,3.0,Flat,Heart_Disease
+72,Male,Non-anginal_Pain,120,214,False,Normal,102,Yes,1.0,Flat,Heart_Disease
+75,Male,Asymptomatic,170,203,True,ST-T_wave_Abnormality,108,No,0.0,Flat,Heart_Disease
+49,Male,Typical_Angina,130,0,False,ST-T_wave_Abnormality,145,No,3.0,Flat,Heart_Disease
+51,Male,Non-anginal_Pain,137,339,False,Normal,127,Yes,1.7,Flat,Heart_Disease
+60,Male,Asymptomatic,142,216,False,Normal,110,Yes,2.5,Flat,Heart_Disease
+64,Female,Asymptomatic,142,276,False,Normal,140,Yes,1.0,Flat,Heart_Disease
+58,Male,Asymptomatic,132,458,True,Normal,69,No,1.0,Downsloping,Normal
+61,Male,Asymptomatic,146,241,False,Normal,148,Yes,3.0,Downsloping,Heart_Disease
+67,Male,Asymptomatic,160,384,True,ST-T_wave_Abnormality,130,Yes,0.0,Flat,Heart_Disease
+62,Male,Asymptomatic,135,297,False,Normal,130,Yes,1.0,Flat,Heart_Disease
+65,Male,Asymptomatic,136,248,False,Normal,140,Yes,4.0,Downsloping,Heart_Disease
+63,Male,Asymptomatic,130,308,False,Normal,138,Yes,2.0,Flat,Heart_Disease
+69,Male,Asymptomatic,140,208,False,ST-T_wave_Abnormality,140,Yes,2.0,Flat,Heart_Disease
+51,Male,Asymptomatic,132,227,True,ST-T_wave_Abnormality,138,No,0.2,Unsloping,Normal
+62,Male,Asymptomatic,158,210,True,Normal,112,Yes,3.0,Downsloping,Heart_Disease
+55,Male,Non-anginal_Pain,136,245,True,ST-T_wave_Abnormality,131,Yes,1.2,Flat,Heart_Disease
+75,Male,Asymptomatic,136,225,False,Normal,112,Yes,3.0,Flat,Heart_Disease
+40,Male,Non-anginal_Pain,106,240,False,Normal,80,Yes,0.0,Unsloping,Normal
+67,Male,Asymptomatic,120,0,True,Normal,150,No,1.5,Downsloping,Heart_Disease
+58,Male,Asymptomatic,110,198,False,Normal,110,No,0.0,Flat,Heart_Disease
+60,Male,Asymptomatic,136,195,False,Normal,126,No,0.3,Unsloping,Normal
+63,Male,Asymptomatic,160,267,True,ST-T_wave_Abnormality,88,Yes,2.0,Flat,Heart_Disease
+35,Male,Non-anginal_Pain,123,161,False,ST-T_wave_Abnormality,153,No,-0.1,Unsloping,Normal
+62,Male,Typical_Angina,112,258,False,ST-T_wave_Abnormality,150,Yes,1.3,Flat,Heart_Disease
+43,Male,Asymptomatic,122,0,False,Normal,120,No,0.5,Unsloping,Heart_Disease
+63,Male,Non-anginal_Pain,130,0,True,ST-T_wave_Abnormality,160,No,3.0,Flat,Normal
+68,Male,Non-anginal_Pain,150,195,True,Normal,132,No,0.0,0,Heart_Disease
+65,Male,Asymptomatic,150,235,False,Normal,120,Yes,1.5,Flat,Heart_Disease
+48,Male,Non-anginal_Pain,102,0,True,ST-T_wave_Abnormality,110,Yes,1.0,Downsloping,Heart_Disease
+63,Male,Asymptomatic,96,305,False,ST-T_wave_Abnormality,121,Yes,1.0,Unsloping,Heart_Disease
+64,Male,Asymptomatic,130,223,False,ST-T_wave_Abnormality,128,No,0.5,Flat,Normal
+61,Male,Asymptomatic,120,282,False,ST-T_wave_Abnormality,135,Yes,4.0,Downsloping,Heart_Disease
+50,Male,Asymptomatic,144,349,False,Ventricular_Hypertrophy,120,Yes,1.0,Unsloping,Heart_Disease
+59,Male,Asymptomatic,124,160,False,Normal,117,Yes,1.0,Flat,Heart_Disease
+55,Male,Asymptomatic,150,160,False,ST-T_wave_Abnormality,150,No,0.0,Unsloping,Normal
+45,Male,Non-anginal_Pain,130,236,False,Normal,144,No,0.1,Unsloping,Normal
+65,Male,Asymptomatic,144,312,False,Ventricular_Hypertrophy,113,Yes,1.7,Flat,Heart_Disease
+61,Male,Atypical_Angina,139,283,False,Normal,135,No,0.3,Unsloping,Normal
+49,Male,Non-anginal_Pain,131,142,False,Normal,127,Yes,1.5,Flat,Heart_Disease
+72,Male,Asymptomatic,143,211,False,Normal,109,Yes,1.4,Flat,Heart_Disease
+50,Male,Asymptomatic,133,218,False,Normal,128,Yes,1.1,Flat,Heart_Disease
+64,Male,Asymptomatic,143,306,True,ST-T_wave_Abnormality,115,Yes,1.8,Flat,Heart_Disease
+55,Male,Asymptomatic,116,186,True,ST-T_wave_Abnormality,102,No,0.0,Flat,Heart_Disease
+63,Male,Asymptomatic,110,252,False,ST-T_wave_Abnormality,140,Yes,2.0,Flat,Heart_Disease
+59,Male,Asymptomatic,125,222,False,Normal,135,Yes,2.5,Downsloping,Heart_Disease
+56,Male,Asymptomatic,130,0,False,Ventricular_Hypertrophy,122,Yes,1.0,Flat,Heart_Disease
+62,Male,Non-anginal_Pain,133,0,True,ST-T_wave_Abnormality,119,Yes,1.2,Flat,Heart_Disease
+74,Male,Asymptomatic,150,258,True,ST-T_wave_Abnormality,130,Yes,4.0,Downsloping,Heart_Disease
+54,Male,Asymptomatic,130,202,True,Normal,112,Yes,2.0,Flat,Heart_Disease
+57,Male,Asymptomatic,110,197,False,Ventricular_Hypertrophy,100,No,0.0,Unsloping,Normal
+62,Male,Non-anginal_Pain,138,204,False,ST-T_wave_Abnormality,122,Yes,1.2,Flat,Heart_Disease
+76,Male,Non-anginal_Pain,104,113,False,Ventricular_Hypertrophy,120,No,3.5,Downsloping,Heart_Disease
+54,Female,Asymptomatic,138,274,False,Normal,105,Yes,1.5,Flat,Heart_Disease
+70,Male,Asymptomatic,170,192,False,ST-T_wave_Abnormality,129,Yes,3.0,Downsloping,Heart_Disease
+61,Female,Atypical_Angina,140,298,True,Normal,120,Yes,0.0,Unsloping,Normal
+48,Male,Asymptomatic,132,272,False,ST-T_wave_Abnormality,139,No,0.2,Unsloping,Normal
+48,Male,Non-anginal_Pain,132,220,True,ST-T_wave_Abnormality,162,No,0.0,Flat,Heart_Disease
+61,Male,Typical_Angina,142,200,True,ST-T_wave_Abnormality,100,No,1.5,Downsloping,Heart_Disease
+66,Male,Asymptomatic,112,261,False,Normal,140,No,1.5,Unsloping,Heart_Disease
+68,Male,Typical_Angina,139,181,True,ST-T_wave_Abnormality,135,No,0.2,Unsloping,Normal
+55,Male,Asymptomatic,172,260,False,Normal,73,No,2.0,Flat,Heart_Disease
+62,Male,Non-anginal_Pain,120,220,False,Ventricular_Hypertrophy,86,No,0.0,Unsloping,Normal
+71,Male,Non-anginal_Pain,144,221,False,Normal,108,Yes,1.8,Flat,Heart_Disease
+74,Male,Typical_Angina,145,216,True,Normal,116,Yes,1.8,Flat,Heart_Disease
+53,Male,Non-anginal_Pain,155,175,True,ST-T_wave_Abnormality,160,No,0.3,Unsloping,Normal
+58,Male,Non-anginal_Pain,150,219,False,ST-T_wave_Abnormality,118,Yes,0.0,Flat,Heart_Disease
+75,Male,Asymptomatic,160,310,True,Normal,112,Yes,2.0,Downsloping,Normal
+56,Male,Non-anginal_Pain,137,208,True,ST-T_wave_Abnormality,122,Yes,1.8,Flat,Heart_Disease
+58,Male,Non-anginal_Pain,137,232,False,ST-T_wave_Abnormality,124,Yes,1.4,Flat,Heart_Disease
+64,Male,Asymptomatic,134,273,False,Normal,102,Yes,4.0,Downsloping,Heart_Disease
+54,Male,Non-anginal_Pain,133,203,False,ST-T_wave_Abnormality,137,No,0.2,Unsloping,Normal
+54,Male,Atypical_Angina,132,182,False,ST-T_wave_Abnormality,141,No,0.1,Unsloping,Normal
+59,Male,Asymptomatic,140,274,False,Normal,154,Yes,2.0,Flat,Normal
+55,Male,Asymptomatic,135,204,True,ST-T_wave_Abnormality,126,Yes,1.1,Flat,Heart_Disease
+57,Male,Asymptomatic,144,270,True,ST-T_wave_Abnormality,160,Yes,2.0,Flat,Heart_Disease
+61,Male,Asymptomatic,141,292,False,ST-T_wave_Abnormality,115,Yes,1.7,Flat,Heart_Disease
+41,Male,Asymptomatic,150,171,False,Normal,128,Yes,1.5,Flat,Normal
+71,Male,Asymptomatic,130,221,False,ST-T_wave_Abnormality,115,Yes,0.0,Flat,Heart_Disease
+38,Male,Asymptomatic,110,289,False,Normal,105,Yes,1.5,Downsloping,Heart_Disease
+55,Male,Asymptomatic,158,217,False,Normal,110,Yes,2.5,Flat,Heart_Disease
+56,Male,Asymptomatic,128,223,False,ST-T_wave_Abnormality,119,Yes,2.0,Downsloping,Heart_Disease
+69,Male,Asymptomatic,140,110,True,Normal,109,Yes,1.5,Flat,Heart_Disease
+64,Male,Asymptomatic,150,193,False,ST-T_wave_Abnormality,135,Yes,0.5,Flat,Heart_Disease
+72,Male,Asymptomatic,160,123,True,Ventricular_Hypertrophy,130,No,1.5,Flat,Heart_Disease
+69,Male,Asymptomatic,142,210,True,ST-T_wave_Abnormality,112,Yes,1.5,Flat,Heart_Disease
+56,Male,Asymptomatic,137,282,True,Normal,126,Yes,1.2,Flat,Heart_Disease
+62,Male,Asymptomatic,139,170,False,ST-T_wave_Abnormality,120,Yes,3.0,Flat,Heart_Disease
+67,Male,Asymptomatic,146,369,False,Normal,110,Yes,1.9,Flat,Heart_Disease
+57,Male,Asymptomatic,156,173,False,Ventricular_Hypertrophy,119,Yes,3.0,Downsloping,Heart_Disease
+69,Male,Asymptomatic,145,289,True,ST-T_wave_Abnormality,110,Yes,1.8,Flat,Heart_Disease
+51,Male,Asymptomatic,131,152,True,Ventricular_Hypertrophy,130,Yes,1.0,Flat,Heart_Disease
+48,Male,Asymptomatic,140,208,False,Normal,159,Yes,1.5,Unsloping,Heart_Disease
+69,Male,Asymptomatic,122,216,True,Ventricular_Hypertrophy,84,Yes,0.0,Flat,Heart_Disease
+69,Male,Non-anginal_Pain,142,271,False,Ventricular_Hypertrophy,126,No,0.3,Unsloping,Normal
+64,Male,Asymptomatic,141,244,True,ST-T_wave_Abnormality,116,Yes,1.5,Flat,Heart_Disease
+57,Male,Atypical_Angina,180,285,True,ST-T_wave_Abnormality,120,No,0.8,Flat,Heart_Disease
+53,Male,Asymptomatic,124,243,False,Normal,122,Yes,2.0,Flat,Heart_Disease
+37,Male,Non-anginal_Pain,118,240,False,Ventricular_Hypertrophy,165,No,1.0,Flat,Normal
+67,Male,Asymptomatic,140,219,False,ST-T_wave_Abnormality,122,Yes,2.0,Flat,Heart_Disease
+74,Male,Non-anginal_Pain,140,237,True,Normal,94,No,0.0,Flat,Heart_Disease
+63,Male,Atypical_Angina,136,165,False,ST-T_wave_Abnormality,133,No,0.2,Unsloping,Normal
+58,Male,Asymptomatic,100,213,False,ST-T_wave_Abnormality,110,No,0.0,Unsloping,Normal
+61,Male,Asymptomatic,190,287,True,Ventricular_Hypertrophy,150,Yes,2.0,Downsloping,Heart_Disease
+64,Male,Asymptomatic,130,258,True,Ventricular_Hypertrophy,130,No,0.0,Flat,Heart_Disease
+58,Male,Asymptomatic,160,256,True,Ventricular_Hypertrophy,113,Yes,1.0,Unsloping,Heart_Disease
+60,Male,Asymptomatic,130,186,True,Ventricular_Hypertrophy,140,Yes,0.5,Flat,Heart_Disease
+57,Male,Asymptomatic,122,264,False,Ventricular_Hypertrophy,100,No,0.0,Flat,Heart_Disease
+55,Male,Non-anginal_Pain,133,185,False,ST-T_wave_Abnormality,136,No,0.2,Unsloping,Normal
+55,Male,Asymptomatic,120,226,False,Ventricular_Hypertrophy,127,Yes,1.7,Downsloping,Heart_Disease
+56,Male,Asymptomatic,130,203,True,Normal,98,No,1.5,Flat,Heart_Disease
+57,Male,Asymptomatic,130,207,False,ST-T_wave_Abnormality,96,Yes,1.0,Flat,Normal
+61,Male,Non-anginal_Pain,140,284,False,Normal,123,Yes,1.3,Flat,Heart_Disease
+61,Male,Non-anginal_Pain,120,337,False,Normal,98,Yes,0.0,Flat,Heart_Disease
+74,Male,Asymptomatic,155,310,False,Normal,112,Yes,1.5,Downsloping,Heart_Disease
+68,Male,Non-anginal_Pain,134,254,True,Normal,151,Yes,0.0,Unsloping,Normal
+51,Female,Asymptomatic,114,258,True,Ventricular_Hypertrophy,96,No,1.0,Unsloping,Normal
+62,Male,Asymptomatic,160,254,True,ST-T_wave_Abnormality,108,Yes,3.0,Flat,Heart_Disease
+53,Male,Asymptomatic,144,300,True,ST-T_wave_Abnormality,128,Yes,1.5,Flat,Heart_Disease
+62,Male,Asymptomatic,158,170,False,ST-T_wave_Abnormality,138,Yes,0.0,Flat,Heart_Disease
+46,Male,Asymptomatic,134,310,False,Normal,126,No,0.0,Flat,Heart_Disease
+54,Female,Asymptomatic,127,333,True,ST-T_wave_Abnormality,154,No,0.0,Flat,Heart_Disease
+62,Male,Typical_Angina,135,139,False,ST-T_wave_Abnormality,137,No,0.2,Unsloping,Normal
+55,Male,Asymptomatic,122,223,True,ST-T_wave_Abnormality,100,No,0.0,Flat,Heart_Disease
+58,Male,Asymptomatic,140,385,True,Ventricular_Hypertrophy,135,No,0.3,Unsloping,Normal
+62,Male,Atypical_Angina,120,254,False,Ventricular_Hypertrophy,93,Yes,0.0,Flat,Heart_Disease
+70,Male,Asymptomatic,130,322,False,Ventricular_Hypertrophy,109,No,2.4,Flat,Heart_Disease
+67,Female,Non-anginal_Pain,115,564,False,Ventricular_Hypertrophy,160,No,1.6,Flat,Normal
+57,Male,Atypical_Angina,124,261,False,Normal,141,No,0.3,Unsloping,Heart_Disease
+64,Male,Asymptomatic,128,263,False,Normal,105,Yes,0.2,Flat,Normal
+74,Female,Atypical_Angina,120,269,False,Ventricular_Hypertrophy,121,Yes,0.2,Unsloping,Normal
+65,Male,Asymptomatic,120,177,False,Normal,140,No,0.4,Unsloping,Normal
+56,Male,Non-anginal_Pain,130,256,True,Ventricular_Hypertrophy,142,Yes,0.6,Flat,Heart_Disease
+59,Male,Asymptomatic,110,239,False,Ventricular_Hypertrophy,142,Yes,1.2,Flat,Heart_Disease
+60,Male,Asymptomatic,140,293,False,Ventricular_Hypertrophy,170,No,1.2,Flat,Heart_Disease
+63,Female,Asymptomatic,150,407,False,Ventricular_Hypertrophy,154,No,4.0,Flat,Heart_Disease
+59,Male,Asymptomatic,135,234,False,Normal,161,No,0.5,Flat,Normal
+53,Male,Asymptomatic,142,226,False,Ventricular_Hypertrophy,111,Yes,0.0,Unsloping,Normal
+44,Male,Non-anginal_Pain,140,235,False,Ventricular_Hypertrophy,180,No,0.0,Unsloping,Normal
+61,Male,Typical_Angina,134,234,False,Normal,145,No,2.6,Flat,Heart_Disease
+57,Female,Asymptomatic,128,303,False,Ventricular_Hypertrophy,159,No,0.0,Unsloping,Normal
+71,Female,Asymptomatic,112,149,False,Normal,125,No,1.6,Flat,Normal
+46,Male,Asymptomatic,140,311,False,Normal,120,Yes,1.8,Flat,Heart_Disease
+53,Male,Asymptomatic,140,203,True,Ventricular_Hypertrophy,155,Yes,3.1,Downsloping,Heart_Disease
+64,Male,Typical_Angina,110,211,False,Ventricular_Hypertrophy,144,Yes,1.8,Flat,Normal
+40,Male,Typical_Angina,140,199,False,Normal,178,Yes,1.4,Unsloping,Normal
+67,Male,Asymptomatic,120,229,False,Ventricular_Hypertrophy,129,Yes,2.6,Flat,Heart_Disease
+48,Male,Atypical_Angina,130,245,False,Ventricular_Hypertrophy,180,No,0.2,Flat,Normal
+43,Male,Asymptomatic,115,303,False,Normal,181,No,1.2,Flat,Normal
+47,Male,Asymptomatic,112,204,False,Normal,143,No,0.1,Unsloping,Normal
+54,Female,Atypical_Angina,132,288,True,Ventricular_Hypertrophy,159,Yes,0.0,Unsloping,Normal
+48,Female,Non-anginal_Pain,130,275,False,Normal,139,No,0.2,Unsloping,Normal
+46,Female,Asymptomatic,138,243,False,Ventricular_Hypertrophy,152,Yes,0.0,Flat,Normal
+51,Female,Non-anginal_Pain,120,295,False,Ventricular_Hypertrophy,157,No,0.6,Unsloping,Normal
+58,Male,Non-anginal_Pain,112,230,False,Ventricular_Hypertrophy,165,No,2.5,Flat,Heart_Disease
+71,Female,Non-anginal_Pain,110,265,True,Ventricular_Hypertrophy,130,No,0.0,Unsloping,Normal
+57,Male,Non-anginal_Pain,128,229,False,Ventricular_Hypertrophy,150,No,0.4,Flat,Heart_Disease
+66,Male,Asymptomatic,160,228,False,Ventricular_Hypertrophy,138,No,2.3,Unsloping,Normal
+37,Female,Non-anginal_Pain,120,215,False,Normal,170,No,0.0,Unsloping,Normal
+59,Male,Asymptomatic,170,326,False,Ventricular_Hypertrophy,140,Yes,3.4,Downsloping,Heart_Disease
+50,Male,Asymptomatic,144,200,False,Ventricular_Hypertrophy,126,Yes,0.9,Flat,Heart_Disease
+48,Male,Asymptomatic,130,256,True,Ventricular_Hypertrophy,150,Yes,0.0,Unsloping,Heart_Disease
+61,Male,Asymptomatic,140,207,False,Ventricular_Hypertrophy,138,Yes,1.9,Unsloping,Heart_Disease
+59,Male,Typical_Angina,160,273,False,Ventricular_Hypertrophy,125,No,0.0,Unsloping,Heart_Disease
+42,Male,Non-anginal_Pain,130,180,False,Normal,150,No,0.0,Unsloping,Normal
+48,Male,Asymptomatic,122,222,False,Ventricular_Hypertrophy,186,No,0.0,Unsloping,Normal
+40,Male,Asymptomatic,152,223,False,Normal,181,No,0.0,Unsloping,Heart_Disease
+62,Female,Asymptomatic,124,209,False,Normal,163,No,0.0,Unsloping,Normal
+44,Male,Non-anginal_Pain,130,233,False,Normal,179,Yes,0.4,Unsloping,Normal
+46,Male,Atypical_Angina,101,197,True,Normal,156,No,0.0,Unsloping,Normal
+59,Male,Non-anginal_Pain,126,218,True,Normal,134,No,2.2,Flat,Heart_Disease
+58,Male,Non-anginal_Pain,140,211,True,Ventricular_Hypertrophy,165,No,0.0,Unsloping,Normal
+49,Male,Non-anginal_Pain,118,149,False,Ventricular_Hypertrophy,126,No,0.8,Unsloping,Heart_Disease
+44,Male,Asymptomatic,110,197,False,Ventricular_Hypertrophy,177,No,0.0,Unsloping,Heart_Disease
+66,Male,Atypical_Angina,160,246,False,Normal,120,Yes,0.0,Flat,Heart_Disease
+65,Female,Asymptomatic,150,225,False,Ventricular_Hypertrophy,114,No,1.0,Flat,Heart_Disease
+42,Male,Asymptomatic,136,315,False,Normal,125,Yes,1.8,Flat,Heart_Disease
+52,Male,Atypical_Angina,128,205,True,Normal,184,No,0.0,Unsloping,Normal
+65,Female,Non-anginal_Pain,140,417,True,Ventricular_Hypertrophy,157,No,0.8,Unsloping,Normal
+63,Female,Atypical_Angina,140,195,False,Normal,179,No,0.0,Unsloping,Normal
+45,Female,Atypical_Angina,130,234,False,Ventricular_Hypertrophy,175,No,0.6,Flat,Normal
+41,Female,Atypical_Angina,105,198,False,Normal,168,No,0.0,Unsloping,Normal
+61,Male,Asymptomatic,138,166,False,Ventricular_Hypertrophy,125,Yes,3.6,Flat,Heart_Disease
+60,Female,Non-anginal_Pain,120,178,True,Normal,96,No,0.0,Unsloping,Normal
+59,Female,Asymptomatic,174,249,False,Normal,143,Yes,0.0,Flat,Heart_Disease
+62,Male,Atypical_Angina,120,281,False,Ventricular_Hypertrophy,103,No,1.4,Flat,Heart_Disease
+57,Male,Non-anginal_Pain,150,126,True,Normal,173,No,0.2,Unsloping,Normal
+51,Female,Asymptomatic,130,305,False,Normal,142,Yes,1.2,Flat,Heart_Disease
+44,Male,Non-anginal_Pain,120,226,False,Normal,169,No,0.0,Unsloping,Normal
+60,Female,Typical_Angina,150,240,False,Normal,171,No,0.9,Unsloping,Normal
+63,Male,Typical_Angina,145,233,True,Ventricular_Hypertrophy,150,No,2.3,Downsloping,Normal
+57,Male,Asymptomatic,150,276,False,Ventricular_Hypertrophy,112,Yes,0.6,Flat,Heart_Disease
+51,Male,Asymptomatic,140,261,False,Ventricular_Hypertrophy,186,Yes,0.0,Unsloping,Normal
+58,Female,Atypical_Angina,136,319,True,Ventricular_Hypertrophy,152,No,0.0,Unsloping,Heart_Disease
+44,Female,Non-anginal_Pain,118,242,False,Normal,149,No,0.3,Flat,Normal
+47,Male,Non-anginal_Pain,108,243,False,Normal,152,No,0.0,Unsloping,Heart_Disease
+61,Male,Asymptomatic,120,260,False,Normal,140,Yes,3.6,Flat,Heart_Disease
+57,Female,Asymptomatic,120,354,False,Normal,163,Yes,0.6,Unsloping,Normal
+70,Male,Atypical_Angina,156,245,False,Ventricular_Hypertrophy,143,No,0.0,Unsloping,Normal
+76,Female,Non-anginal_Pain,140,197,False,ST-T_wave_Abnormality,116,No,1.1,Flat,Normal
+67,Female,Asymptomatic,106,223,False,Normal,142,No,0.3,Unsloping,Normal
+45,Male,Asymptomatic,142,309,False,Ventricular_Hypertrophy,147,Yes,0.0,Flat,Heart_Disease
+45,Male,Asymptomatic,104,208,False,Ventricular_Hypertrophy,148,Yes,3.0,Flat,Normal
+39,Female,Non-anginal_Pain,94,199,False,Normal,179,No,0.0,Unsloping,Normal
+42,Female,Non-anginal_Pain,120,209,False,Normal,173,No,0.0,Flat,Normal
+56,Male,Atypical_Angina,120,236,False,Normal,178,No,0.8,Unsloping,Normal
+58,Male,Asymptomatic,146,218,False,Normal,105,No,2.0,Flat,Heart_Disease
+35,Male,Asymptomatic,120,198,False,Normal,130,Yes,1.6,Flat,Heart_Disease
+58,Male,Asymptomatic,150,270,False,Ventricular_Hypertrophy,111,Yes,0.8,Unsloping,Heart_Disease
+41,Male,Non-anginal_Pain,130,214,False,Ventricular_Hypertrophy,168,No,2.0,Flat,Normal
+57,Male,Asymptomatic,110,201,False,Normal,126,Yes,1.5,Flat,Normal
+42,Male,Typical_Angina,148,244,False,Ventricular_Hypertrophy,178,No,0.8,Unsloping,Normal
+62,Male,Atypical_Angina,128,208,True,Ventricular_Hypertrophy,140,No,0.0,Unsloping,Normal
+59,Male,Typical_Angina,178,270,False,Ventricular_Hypertrophy,145,No,4.2,Downsloping,Normal
+41,Female,Atypical_Angina,126,306,False,Normal,163,No,0.0,Unsloping,Normal
+50,Male,Asymptomatic,150,243,False,Ventricular_Hypertrophy,128,No,2.6,Flat,Heart_Disease
+59,Male,Atypical_Angina,140,221,False,Normal,164,Yes,0.0,Unsloping,Normal
+61,Female,Asymptomatic,130,330,False,Ventricular_Hypertrophy,169,No,0.0,Unsloping,Heart_Disease
+54,Male,Asymptomatic,124,266,False,Ventricular_Hypertrophy,109,Yes,2.2,Flat,Heart_Disease
+54,Male,Asymptomatic,110,206,False,Ventricular_Hypertrophy,108,Yes,0.0,Flat,Heart_Disease
+52,Male,Asymptomatic,125,212,False,Normal,168,No,1.0,Unsloping,Heart_Disease
+47,Male,Asymptomatic,110,275,False,Ventricular_Hypertrophy,118,Yes,1.0,Flat,Heart_Disease
+66,Male,Asymptomatic,120,302,False,Ventricular_Hypertrophy,151,No,0.4,Flat,Normal
+58,Male,Asymptomatic,100,234,False,Normal,156,No,0.1,Unsloping,Heart_Disease
+64,Female,Non-anginal_Pain,140,313,False,Normal,133,No,0.2,Unsloping,Normal
+50,Female,Atypical_Angina,120,244,False,Normal,162,No,1.1,Unsloping,Normal
+44,Female,Non-anginal_Pain,108,141,False,Normal,175,No,0.6,Flat,Normal
+67,Male,Asymptomatic,120,237,False,Normal,71,No,1.0,Flat,Heart_Disease
+49,Female,Asymptomatic,130,269,False,Normal,163,No,0.0,Unsloping,Normal
+57,Male,Asymptomatic,165,289,True,Ventricular_Hypertrophy,124,No,1.0,Flat,Heart_Disease
+63,Male,Asymptomatic,130,254,False,Ventricular_Hypertrophy,147,No,1.4,Flat,Heart_Disease
+48,Male,Asymptomatic,124,274,False,Ventricular_Hypertrophy,166,No,0.5,Flat,Heart_Disease
+51,Male,Non-anginal_Pain,100,222,False,Normal,143,Yes,1.2,Flat,Normal
+60,Female,Asymptomatic,150,258,False,Ventricular_Hypertrophy,157,No,2.6,Flat,Heart_Disease
+59,Male,Asymptomatic,140,177,False,Normal,162,Yes,0.0,Unsloping,Heart_Disease
+45,Female,Atypical_Angina,112,160,False,Normal,138,No,0.0,Flat,Normal
+55,Female,Asymptomatic,180,327,False,ST-T_wave_Abnormality,117,Yes,3.4,Flat,Heart_Disease
+41,Male,Atypical_Angina,110,235,False,Normal,153,No,0.0,Unsloping,Normal
+60,Female,Asymptomatic,158,305,False,Ventricular_Hypertrophy,161,No,0.0,Unsloping,Heart_Disease
+54,Female,Non-anginal_Pain,135,304,True,Normal,170,No,0.0,Unsloping,Normal
+42,Male,Atypical_Angina,120,295,False,Normal,162,No,0.0,Unsloping,Normal
+49,Female,Atypical_Angina,134,271,False,Normal,162,No,0.0,Flat,Normal
+46,Male,Asymptomatic,120,249,False,Ventricular_Hypertrophy,144,No,0.8,Unsloping,Heart_Disease
+56,Female,Asymptomatic,200,288,True,Ventricular_Hypertrophy,133,Yes,4.0,Downsloping,Heart_Disease
+66,Female,Typical_Angina,150,226,False,Normal,114,No,2.6,Downsloping,Normal
+56,Male,Asymptomatic,130,283,True,Ventricular_Hypertrophy,103,Yes,1.6,Downsloping,Heart_Disease
+49,Male,Non-anginal_Pain,120,188,False,Normal,139,No,2.0,Flat,Heart_Disease
+54,Male,Asymptomatic,122,286,False,Ventricular_Hypertrophy,116,Yes,3.2,Flat,Heart_Disease
+57,Male,Asymptomatic,152,274,False,Normal,88,Yes,1.2,Flat,Heart_Disease
+65,Female,Non-anginal_Pain,160,360,False,Ventricular_Hypertrophy,151,No,0.8,Unsloping,Normal
+54,Male,Non-anginal_Pain,125,273,False,Ventricular_Hypertrophy,152,No,0.5,Downsloping,Normal
+54,Female,Non-anginal_Pain,160,201,False,Normal,163,No,0.0,Unsloping,Normal
+62,Male,Asymptomatic,120,267,False,Normal,99,Yes,1.8,Flat,Heart_Disease
+52,Female,Non-anginal_Pain,136,196,False,Ventricular_Hypertrophy,169,No,0.1,Flat,Normal
+52,Male,Atypical_Angina,134,201,False,Normal,158,No,0.8,Unsloping,Normal
+60,Male,Asymptomatic,117,230,True,Normal,160,Yes,1.4,Unsloping,Heart_Disease
+63,Female,Asymptomatic,108,269,False,Normal,169,Yes,1.8,Flat,Heart_Disease
+66,Male,Asymptomatic,112,212,False,Ventricular_Hypertrophy,132,Yes,0.1,Unsloping,Heart_Disease
+42,Male,Asymptomatic,140,226,False,Normal,178,No,0.0,Unsloping,Normal
+64,Male,Asymptomatic,120,246,False,Ventricular_Hypertrophy,96,Yes,2.2,Downsloping,Heart_Disease
+54,Male,Non-anginal_Pain,150,232,False,Ventricular_Hypertrophy,165,No,1.6,Unsloping,Normal
+46,Female,Non-anginal_Pain,142,177,False,Ventricular_Hypertrophy,160,Yes,1.4,Downsloping,Normal
+67,Female,Non-anginal_Pain,152,277,False,Normal,172,No,0.0,Unsloping,Normal
+56,Male,Asymptomatic,125,249,True,Ventricular_Hypertrophy,144,Yes,1.2,Flat,Heart_Disease
+34,Female,Atypical_Angina,118,210,False,Normal,192,No,0.7,Unsloping,Normal
+57,Male,Asymptomatic,132,207,False,Normal,168,Yes,0.0,Unsloping,Normal
+64,Male,Asymptomatic,145,212,False,Ventricular_Hypertrophy,132,No,2.0,Flat,Heart_Disease
+59,Male,Asymptomatic,138,271,False,Ventricular_Hypertrophy,182,No,0.0,Unsloping,Normal
+50,Male,Non-anginal_Pain,140,233,False,Normal,163,No,0.6,Flat,Heart_Disease
+51,Male,Typical_Angina,125,213,False,Ventricular_Hypertrophy,125,Yes,1.4,Unsloping,Normal
+54,Male,Atypical_Angina,192,283,False,Ventricular_Hypertrophy,195,No,0.0,Unsloping,Heart_Disease
+53,Male,Asymptomatic,123,282,False,Normal,95,Yes,2.0,Flat,Heart_Disease
+52,Male,Asymptomatic,112,230,False,Normal,160,No,0.0,Unsloping,Heart_Disease
+40,Male,Asymptomatic,110,167,False,Ventricular_Hypertrophy,114,Yes,2.0,Flat,Heart_Disease
+58,Male,Non-anginal_Pain,132,224,False,Ventricular_Hypertrophy,173,No,3.2,Unsloping,Heart_Disease
+41,Female,Non-anginal_Pain,112,268,False,Ventricular_Hypertrophy,172,Yes,0.0,Unsloping,Normal
+41,Male,Non-anginal_Pain,112,250,False,Normal,179,No,0.0,Unsloping,Normal
+50,Female,Non-anginal_Pain,120,219,False,Normal,158,No,1.6,Flat,Normal
+54,Female,Non-anginal_Pain,108,267,False,Ventricular_Hypertrophy,167,No,0.0,Unsloping,Normal
+64,Female,Asymptomatic,130,303,False,Normal,122,No,2.0,Flat,Normal
+51,Female,Non-anginal_Pain,130,256,False,Ventricular_Hypertrophy,149,No,0.5,Unsloping,Normal
+46,Female,Atypical_Angina,105,204,False,Normal,172,No,0.0,Unsloping,Normal
+55,Male,Asymptomatic,140,217,False,Normal,111,Yes,5.6,Downsloping,Heart_Disease
+45,Male,Atypical_Angina,128,308,False,Ventricular_Hypertrophy,170,No,0.0,Unsloping,Normal
+56,Male,Typical_Angina,120,193,False,Ventricular_Hypertrophy,162,No,1.9,Flat,Normal
+66,Female,Asymptomatic,178,228,True,Normal,165,Yes,1.0,Flat,Heart_Disease
+38,Male,Typical_Angina,120,231,False,Normal,182,Yes,3.8,Flat,Heart_Disease
+62,Female,Asymptomatic,150,244,False,Normal,154,Yes,1.4,Flat,Heart_Disease
+55,Male,Atypical_Angina,130,262,False,Normal,155,No,0.0,Unsloping,Normal
+58,Male,Asymptomatic,128,259,False,Ventricular_Hypertrophy,130,Yes,3.0,Flat,Heart_Disease
+43,Male,Asymptomatic,110,211,False,Normal,161,No,0.0,Unsloping,Normal
+64,Female,Asymptomatic,180,325,False,Normal,154,Yes,0.0,Unsloping,Normal
+50,Female,Asymptomatic,110,254,False,Ventricular_Hypertrophy,159,No,0.0,Unsloping,Normal
+53,Male,Non-anginal_Pain,130,197,True,Ventricular_Hypertrophy,152,No,1.2,Downsloping,Normal
+45,Female,Asymptomatic,138,236,False,Ventricular_Hypertrophy,152,Yes,0.2,Flat,Normal
+65,Male,Typical_Angina,138,282,True,Ventricular_Hypertrophy,174,No,1.4,Flat,Heart_Disease
+69,Male,Typical_Angina,160,234,True,Ventricular_Hypertrophy,131,No,0.1,Flat,Normal
+69,Male,Non-anginal_Pain,140,254,False,Ventricular_Hypertrophy,146,No,2.0,Flat,Heart_Disease
+67,Male,Asymptomatic,100,299,False,Ventricular_Hypertrophy,125,Yes,0.9,Flat,Heart_Disease
+68,Female,Non-anginal_Pain,120,211,False,Ventricular_Hypertrophy,115,No,1.5,Flat,Normal
+34,Male,Typical_Angina,118,182,False,Ventricular_Hypertrophy,174,No,0.0,Unsloping,Normal
+62,Female,Asymptomatic,138,294,True,Normal,106,No,1.9,Flat,Heart_Disease
+51,Male,Asymptomatic,140,298,False,Normal,122,Yes,4.2,Flat,Heart_Disease
+46,Male,Non-anginal_Pain,150,231,False,Normal,147,No,3.6,Flat,Heart_Disease
+67,Male,Asymptomatic,125,254,True,Normal,163,No,0.2,Flat,Heart_Disease
+50,Male,Non-anginal_Pain,129,196,False,Normal,163,No,0.0,Unsloping,Normal
+42,Male,Non-anginal_Pain,120,240,True,Normal,194,No,0.8,Downsloping,Normal
+56,Female,Asymptomatic,134,409,False,Ventricular_Hypertrophy,150,Yes,1.9,Flat,Heart_Disease
+41,Male,Asymptomatic,110,172,False,Ventricular_Hypertrophy,158,No,0.0,Unsloping,Heart_Disease
+42,Female,Asymptomatic,102,265,False,Ventricular_Hypertrophy,122,No,0.6,Flat,Normal
+53,Male,Non-anginal_Pain,130,246,True,Ventricular_Hypertrophy,173,No,0.0,Unsloping,Normal
+43,Male,Non-anginal_Pain,130,315,False,Normal,162,No,1.9,Unsloping,Normal
+56,Male,Asymptomatic,132,184,False,Ventricular_Hypertrophy,105,Yes,2.1,Flat,Heart_Disease
+52,Male,Asymptomatic,108,233,True,Normal,147,No,0.1,Unsloping,Normal
+62,Female,Asymptomatic,140,394,False,Ventricular_Hypertrophy,157,No,1.2,Flat,Normal
+70,Male,Non-anginal_Pain,160,269,False,Normal,112,Yes,2.9,Flat,Heart_Disease
+54,Male,Asymptomatic,140,239,False,Normal,160,No,1.2,Unsloping,Normal
+70,Male,Asymptomatic,145,174,False,Normal,125,Yes,2.6,Downsloping,Heart_Disease
+54,Male,Atypical_Angina,108,309,False,Normal,156,No,0.0,Unsloping,Normal
+35,Male,Asymptomatic,126,282,False,Ventricular_Hypertrophy,156,Yes,0.0,Unsloping,Heart_Disease
+48,Male,Non-anginal_Pain,124,255,True,Normal,175,No,0.0,Unsloping,Normal
+55,Female,Atypical_Angina,135,250,False,Ventricular_Hypertrophy,161,No,1.4,Flat,Normal
+58,Female,Asymptomatic,100,248,False,Ventricular_Hypertrophy,122,No,1.0,Flat,Normal
+54,Female,Non-anginal_Pain,110,214,False,Normal,158,No,1.6,Flat,Normal
+69,Female,Typical_Angina,140,239,False,Normal,151,No,1.8,Unsloping,Normal
+77,Male,Asymptomatic,125,304,False,Ventricular_Hypertrophy,162,Yes,0.0,Unsloping,Heart_Disease
+68,Male,Non-anginal_Pain,118,277,False,Normal,151,No,1.0,Unsloping,Normal
+58,Male,Asymptomatic,125,300,False,Ventricular_Hypertrophy,171,No,0.0,Unsloping,Heart_Disease
+60,Male,Asymptomatic,125,258,False,Ventricular_Hypertrophy,141,Yes,2.8,Flat,Heart_Disease
+51,Male,Asymptomatic,140,299,False,Normal,173,Yes,1.6,Unsloping,Heart_Disease
+55,Male,Asymptomatic,160,289,False,Ventricular_Hypertrophy,145,Yes,0.8,Flat,Heart_Disease
+52,Male,Typical_Angina,152,298,True,Normal,178,No,1.2,Flat,Normal
+60,Female,Non-anginal_Pain,102,318,False,Normal,160,No,0.0,Unsloping,Normal
+58,Male,Non-anginal_Pain,105,240,False,Ventricular_Hypertrophy,154,Yes,0.6,Flat,Normal
+64,Male,Non-anginal_Pain,125,309,False,Normal,131,Yes,1.8,Flat,Heart_Disease
+37,Male,Non-anginal_Pain,130,250,False,Normal,187,No,3.5,Downsloping,Normal
+59,Male,Typical_Angina,170,288,False,Ventricular_Hypertrophy,159,No,0.2,Flat,Heart_Disease
+51,Male,Non-anginal_Pain,125,245,True,Ventricular_Hypertrophy,166,No,2.4,Flat,Normal
+43,Female,Non-anginal_Pain,122,213,False,Normal,165,No,0.2,Flat,Normal
+58,Male,Asymptomatic,128,216,False,Ventricular_Hypertrophy,131,Yes,2.2,Flat,Heart_Disease
+29,Male,Atypical_Angina,130,204,False,Ventricular_Hypertrophy,202,No,0.0,Unsloping,Normal
+41,Female,Atypical_Angina,130,204,False,Ventricular_Hypertrophy,172,No,1.4,Unsloping,Normal
+63,Female,Non-anginal_Pain,135,252,False,Ventricular_Hypertrophy,172,No,0.0,Unsloping,Normal
+51,Male,Non-anginal_Pain,94,227,False,Normal,154,Yes,0.0,Unsloping,Normal
+54,Male,Non-anginal_Pain,120,258,False,Ventricular_Hypertrophy,147,No,0.4,Flat,Normal
+44,Male,Atypical_Angina,120,220,False,Normal,170,No,0.0,Unsloping,Normal
+54,Male,Asymptomatic,110,239,False,Normal,126,Yes,2.8,Flat,Heart_Disease
+65,Male,Asymptomatic,135,254,False,Ventricular_Hypertrophy,127,No,2.8,Flat,Heart_Disease
+57,Male,Non-anginal_Pain,150,168,False,Normal,174,No,1.6,Unsloping,Normal
+63,Male,Asymptomatic,130,330,True,Ventricular_Hypertrophy,132,Yes,1.8,Unsloping,Heart_Disease
+35,Female,Asymptomatic,138,183,False,Normal,182,No,1.4,Unsloping,Normal
+41,Male,Atypical_Angina,135,203,False,Normal,132,No,0.0,Flat,Normal
+62,Female,Non-anginal_Pain,130,263,False,Normal,97,No,1.2,Flat,Heart_Disease
+43,Female,Asymptomatic,132,341,True,Ventricular_Hypertrophy,136,Yes,3.0,Flat,Heart_Disease
+58,Female,Typical_Angina,150,283,True,Ventricular_Hypertrophy,162,No,1.0,Unsloping,Normal
+52,Male,Typical_Angina,118,186,False,Ventricular_Hypertrophy,190,No,0.0,Flat,Normal
+61,Female,Asymptomatic,145,307,False,Ventricular_Hypertrophy,146,Yes,1.0,Flat,Heart_Disease
+39,Male,Asymptomatic,118,219,False,Normal,140,No,1.2,Flat,Heart_Disease
+45,Male,Asymptomatic,115,260,False,Ventricular_Hypertrophy,185,No,0.0,Unsloping,Normal
+52,Male,Asymptomatic,128,255,False,Normal,161,Yes,0.0,Unsloping,Heart_Disease
+62,Male,Non-anginal_Pain,130,231,False,Normal,146,No,1.8,Flat,Normal
+62,Female,Asymptomatic,160,164,False,Ventricular_Hypertrophy,145,No,6.2,Downsloping,Heart_Disease
+53,Female,Asymptomatic,138,234,False,Ventricular_Hypertrophy,160,No,0.0,Unsloping,Normal
+43,Male,Asymptomatic,120,177,False,Ventricular_Hypertrophy,120,Yes,2.5,Flat,Heart_Disease
+47,Male,Non-anginal_Pain,138,257,False,Ventricular_Hypertrophy,156,No,0.0,Unsloping,Normal
+52,Male,Atypical_Angina,120,325,False,Normal,172,No,0.2,Unsloping,Normal
+68,Male,Non-anginal_Pain,180,274,True,Ventricular_Hypertrophy,150,Yes,1.6,Flat,Heart_Disease
+39,Male,Non-anginal_Pain,140,321,False,Ventricular_Hypertrophy,182,No,0.0,Unsloping,Normal
+53,Female,Asymptomatic,130,264,False,Ventricular_Hypertrophy,143,No,0.4,Flat,Normal
+62,Female,Asymptomatic,140,268,False,Ventricular_Hypertrophy,160,No,3.6,Downsloping,Heart_Disease
+51,Female,Non-anginal_Pain,140,308,False,Ventricular_Hypertrophy,142,No,1.5,Unsloping,Normal
+60,Male,Asymptomatic,130,253,False,Normal,144,Yes,1.4,Unsloping,Heart_Disease
+65,Male,Asymptomatic,110,248,False,Ventricular_Hypertrophy,158,No,0.6,Unsloping,Heart_Disease
+65,Female,Non-anginal_Pain,155,269,False,Normal,148,No,0.8,Unsloping,Normal
+60,Male,Non-anginal_Pain,140,185,False,Ventricular_Hypertrophy,155,No,3.0,Flat,Heart_Disease
+60,Male,Asymptomatic,145,282,False,Ventricular_Hypertrophy,142,Yes,2.8,Flat,Heart_Disease
+54,Male,Asymptomatic,120,188,False,Normal,113,No,1.4,Flat,Heart_Disease
+44,Male,Atypical_Angina,130,219,False,Ventricular_Hypertrophy,188,No,0.0,Unsloping,Normal
+44,Male,Asymptomatic,112,290,False,Ventricular_Hypertrophy,153,No,0.0,Unsloping,Heart_Disease
+51,Male,Non-anginal_Pain,110,175,False,Normal,123,No,0.6,Unsloping,Normal
+59,Male,Non-anginal_Pain,150,212,True,Normal,157,No,1.6,Unsloping,Normal
+71,Female,Atypical_Angina,160,302,False,Normal,162,No,0.4,Unsloping,Normal
+61,Male,Non-anginal_Pain,150,243,True,Normal,137,Yes,1.0,Flat,Normal
+55,Male,Asymptomatic,132,353,False,Normal,132,Yes,1.2,Flat,Heart_Disease
+64,Male,Non-anginal_Pain,140,335,False,Normal,158,No,0.0,Unsloping,Heart_Disease
+43,Male,Asymptomatic,150,247,False,Normal,171,No,1.5,Unsloping,Normal
+58,Female,Non-anginal_Pain,120,340,False,Normal,172,No,0.0,Unsloping,Normal
+60,Male,Asymptomatic,130,206,False,Ventricular_Hypertrophy,132,Yes,2.4,Flat,Heart_Disease
+58,Male,Atypical_Angina,120,284,False,Ventricular_Hypertrophy,160,No,1.8,Flat,Heart_Disease
+49,Male,Atypical_Angina,130,266,False,Normal,171,No,0.6,Unsloping,Normal
+48,Male,Atypical_Angina,110,229,False,Normal,168,No,1.0,Downsloping,Heart_Disease
+52,Male,Non-anginal_Pain,172,199,True,Normal,162,No,0.5,Unsloping,Normal
+44,Male,Atypical_Angina,120,263,False,Normal,173,No,0.0,Unsloping,Normal
+56,Female,Atypical_Angina,140,294,False,Ventricular_Hypertrophy,153,No,1.3,Flat,Normal
+57,Male,Asymptomatic,140,192,False,Normal,148,No,0.4,Flat,Normal
+67,Male,Asymptomatic,160,286,False,Ventricular_Hypertrophy,108,Yes,1.5,Flat,Heart_Disease
+53,Female,Non-anginal_Pain,128,216,False,Ventricular_Hypertrophy,115,No,0.0,Unsloping,Normal
+52,Male,Non-anginal_Pain,138,223,False,Normal,169,No,0.0,Unsloping,Normal
+43,Male,Asymptomatic,132,247,True,Ventricular_Hypertrophy,143,Yes,0.1,Flat,Heart_Disease
+52,Male,Asymptomatic,128,204,True,Normal,156,Yes,1.0,Flat,Heart_Disease
+59,Male,Typical_Angina,134,204,False,Normal,162,No,0.8,Unsloping,Heart_Disease
+64,Male,Typical_Angina,170,227,False,Ventricular_Hypertrophy,155,No,0.6,Flat,Normal
+66,Female,Non-anginal_Pain,146,278,False,Ventricular_Hypertrophy,152,No,0.0,Flat,Normal
+39,Female,Non-anginal_Pain,138,220,False,Normal,152,No,0.0,Flat,Normal
+57,Male,Atypical_Angina,154,232,False,Ventricular_Hypertrophy,164,No,0.0,Unsloping,Heart_Disease
+58,Female,Asymptomatic,130,197,False,Normal,131,No,0.6,Flat,Normal
+57,Male,Asymptomatic,110,335,False,Normal,143,Yes,3.0,Flat,Heart_Disease
+47,Male,Non-anginal_Pain,130,253,False,Normal,179,No,0.0,Unsloping,Normal
+55,Female,Asymptomatic,128,205,False,ST-T_wave_Abnormality,130,Yes,2.0,Flat,Heart_Disease
+35,Male,Atypical_Angina,122,192,False,Normal,174,No,0.0,Unsloping,Normal
+61,Male,Asymptomatic,148,203,False,Normal,161,No,0.0,Unsloping,Heart_Disease
+58,Male,Asymptomatic,114,318,False,ST-T_wave_Abnormality,140,No,4.4,Downsloping,Heart_Disease
+58,Female,Asymptomatic,170,225,True,Ventricular_Hypertrophy,146,Yes,2.8,Flat,Heart_Disease
+58,Male,Atypical_Angina,125,220,False,Normal,144,No,0.4,Flat,Normal
+56,Male,Atypical_Angina,130,221,False,Ventricular_Hypertrophy,163,No,0.0,Unsloping,Normal
+56,Male,Atypical_Angina,120,240,False,Normal,169,No,0.0,Downsloping,Normal
+67,Male,Non-anginal_Pain,152,212,False,Ventricular_Hypertrophy,150,No,0.8,Flat,Heart_Disease
+55,Female,Atypical_Angina,132,342,False,Normal,166,No,1.2,Unsloping,Normal
+44,Male,Asymptomatic,120,169,False,Normal,144,Yes,2.8,Downsloping,Heart_Disease
+63,Male,Asymptomatic,140,187,False,Ventricular_Hypertrophy,144,Yes,4.0,Unsloping,Heart_Disease
+63,Female,Asymptomatic,124,197,False,Normal,136,Yes,0.0,Flat,Heart_Disease
+41,Male,Atypical_Angina,120,157,False,Normal,182,No,0.0,Unsloping,Normal
+59,Male,Asymptomatic,164,176,True,Ventricular_Hypertrophy,90,No,1.0,Flat,Heart_Disease
+57,Female,Asymptomatic,140,241,False,Normal,123,Yes,0.2,Flat,Heart_Disease
+45,Male,Typical_Angina,110,264,False,Normal,132,No,1.2,Flat,Heart_Disease
+68,Male,Asymptomatic,144,193,True,Normal,141,No,3.4,Flat,Heart_Disease
+57,Male,Asymptomatic,130,131,False,Normal,115,Yes,1.2,Flat,Heart_Disease
+57,Female,Atypical_Angina,130,236,False,Ventricular_Hypertrophy,174,No,0.0,Flat,Heart_Disease
+38,Male,Non-anginal_Pain,138,175,False,Normal,173,No,0.0,Unsloping,Normal

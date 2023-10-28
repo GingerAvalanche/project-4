@@ -1,0 +1,919 @@
+age,sex,chest_pain_type,resting_bp_s,cholesterol,fasting_blood_sugar,resting_ecg,max_heart_rate,exercise_angina,oldpeak,ST_slope,target
+40,Male,Atypical Angina,140,289,<= 120 mg/dl,Normal,172,No,0.0,Upsloping,Normal
+49,Female,Non-anginal Pain,160,180,<= 120 mg/dl,Normal,156,No,1.0,Flat,Heart Disease
+37,Male,Atypical Angina,130,283,<= 120 mg/dl,ST-T Wave Abnormality,98,No,0.0,Upsloping,Normal
+48,Female,Asymptomatic,138,214,<= 120 mg/dl,Normal,108,Yes,1.5,Flat,Heart Disease
+54,Male,Non-anginal Pain,150,195,<= 120 mg/dl,Normal,122,No,0.0,Upsloping,Normal
+39,Male,Non-anginal Pain,120,339,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+45,Female,Atypical Angina,130,237,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+54,Male,Atypical Angina,110,208,<= 120 mg/dl,Normal,142,No,0.0,Upsloping,Normal
+37,Male,Asymptomatic,140,207,<= 120 mg/dl,Normal,130,Yes,1.5,Flat,Heart Disease
+48,Female,Atypical Angina,120,284,<= 120 mg/dl,Normal,120,No,0.0,Upsloping,Normal
+37,Female,Non-anginal Pain,130,211,<= 120 mg/dl,Normal,142,No,0.0,Upsloping,Normal
+58,Male,Atypical Angina,136,164,<= 120 mg/dl,ST-T Wave Abnormality,99,Yes,2.0,Flat,Heart Disease
+39,Male,Atypical Angina,120,204,<= 120 mg/dl,Normal,145,No,0.0,Upsloping,Normal
+49,Male,Asymptomatic,140,234,<= 120 mg/dl,Normal,140,Yes,1.0,Flat,Heart Disease
+42,Female,Non-anginal Pain,115,211,<= 120 mg/dl,ST-T Wave Abnormality,137,No,0.0,Upsloping,Normal
+54,Female,Atypical Angina,120,273,<= 120 mg/dl,Normal,150,No,1.5,Flat,Normal
+38,Male,Asymptomatic,110,196,<= 120 mg/dl,Normal,166,No,0.0,Flat,Heart Disease
+43,Female,Atypical Angina,120,201,<= 120 mg/dl,Normal,165,No,0.0,Upsloping,Normal
+60,Male,Asymptomatic,100,248,<= 120 mg/dl,Normal,125,No,1.0,Flat,Heart Disease
+36,Male,Atypical Angina,120,267,<= 120 mg/dl,Normal,160,No,3.0,Flat,Heart Disease
+43,Female,Typical Angina,100,223,<= 120 mg/dl,Normal,142,No,0.0,Upsloping,Normal
+44,Male,Atypical Angina,120,184,<= 120 mg/dl,Normal,142,No,1.0,Flat,Normal
+49,Female,Atypical Angina,124,201,<= 120 mg/dl,Normal,164,No,0.0,Upsloping,Normal
+44,Male,Atypical Angina,150,288,<= 120 mg/dl,Normal,150,Yes,3.0,Flat,Heart Disease
+40,Male,Non-anginal Pain,130,215,<= 120 mg/dl,Normal,138,No,0.0,Upsloping,Normal
+36,Male,Non-anginal Pain,130,209,<= 120 mg/dl,Normal,178,No,0.0,Upsloping,Normal
+53,Male,Asymptomatic,124,260,<= 120 mg/dl,ST-T Wave Abnormality,112,Yes,3.0,Flat,Normal
+52,Male,Atypical Angina,120,284,<= 120 mg/dl,Normal,118,No,0.0,Upsloping,Normal
+53,Female,Atypical Angina,113,468,<= 120 mg/dl,Normal,127,No,0.0,Upsloping,Normal
+51,Male,Atypical Angina,125,188,<= 120 mg/dl,Normal,145,No,0.0,Upsloping,Normal
+53,Male,Non-anginal Pain,145,518,<= 120 mg/dl,Normal,130,No,0.0,Flat,Heart Disease
+56,Male,Non-anginal Pain,130,167,<= 120 mg/dl,Normal,114,No,0.0,Upsloping,Normal
+54,Male,Asymptomatic,125,224,<= 120 mg/dl,Normal,122,No,2.0,Flat,Heart Disease
+41,Male,Asymptomatic,130,172,<= 120 mg/dl,ST-T Wave Abnormality,130,No,2.0,Flat,Heart Disease
+43,Female,Atypical Angina,150,186,<= 120 mg/dl,Normal,154,No,0.0,Upsloping,Normal
+32,Male,Atypical Angina,125,254,<= 120 mg/dl,Normal,155,No,0.0,Upsloping,Normal
+65,Male,Asymptomatic,140,306,> 120 mg/dl,Normal,87,Yes,1.5,Flat,Heart Disease
+41,Female,Atypical Angina,110,250,<= 120 mg/dl,ST-T Wave Abnormality,142,No,0.0,Upsloping,Normal
+48,Female,Atypical Angina,120,177,> 120 mg/dl,ST-T Wave Abnormality,148,No,0.0,Upsloping,Normal
+48,Female,Asymptomatic,150,227,<= 120 mg/dl,Normal,130,Yes,1.0,Flat,Normal
+54,Female,Atypical Angina,150,230,<= 120 mg/dl,Normal,130,No,0.0,Upsloping,Normal
+54,Female,Non-anginal Pain,130,294,<= 120 mg/dl,ST-T Wave Abnormality,100,Yes,0.0,Flat,Heart Disease
+35,Male,Atypical Angina,150,264,<= 120 mg/dl,Normal,168,No,0.0,Upsloping,Normal
+52,Male,Non-anginal Pain,140,259,<= 120 mg/dl,ST-T Wave Abnormality,170,No,0.0,Upsloping,Normal
+43,Male,Asymptomatic,120,175,<= 120 mg/dl,Normal,120,Yes,1.0,Flat,Heart Disease
+59,Male,Non-anginal Pain,130,318,<= 120 mg/dl,Normal,120,Yes,1.0,Flat,Normal
+37,Male,Asymptomatic,120,223,<= 120 mg/dl,Normal,168,No,0.0,Upsloping,Normal
+50,Male,Atypical Angina,140,216,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+36,Male,Non-anginal Pain,112,340,<= 120 mg/dl,Normal,184,No,1.0,Flat,Normal
+41,Male,Asymptomatic,110,289,<= 120 mg/dl,Normal,170,No,0.0,Flat,Heart Disease
+50,Male,Asymptomatic,130,233,<= 120 mg/dl,Normal,121,Yes,2.0,Flat,Heart Disease
+47,Female,Asymptomatic,120,205,<= 120 mg/dl,Normal,98,Yes,2.0,Flat,Heart Disease
+45,Male,Atypical Angina,140,224,> 120 mg/dl,Normal,122,No,0.0,Upsloping,Normal
+41,Female,Atypical Angina,130,245,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+52,Female,Asymptomatic,130,180,<= 120 mg/dl,Normal,140,Yes,1.5,Flat,Normal
+51,Female,Atypical Angina,160,194,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+31,Male,Asymptomatic,120,270,<= 120 mg/dl,Normal,153,Yes,1.5,Flat,Heart Disease
+58,Male,Non-anginal Pain,130,213,<= 120 mg/dl,ST-T Wave Abnormality,140,No,0.0,Flat,Heart Disease
+54,Male,Asymptomatic,150,365,<= 120 mg/dl,ST-T Wave Abnormality,134,No,1.0,Upsloping,Normal
+52,Male,Asymptomatic,112,342,<= 120 mg/dl,ST-T Wave Abnormality,96,Yes,1.0,Flat,Heart Disease
+49,Male,Atypical Angina,100,253,<= 120 mg/dl,Normal,174,No,0.0,Upsloping,Normal
+43,Female,Non-anginal Pain,150,254,<= 120 mg/dl,Normal,175,No,0.0,Upsloping,Normal
+45,Male,Asymptomatic,140,224,<= 120 mg/dl,Normal,144,No,0.0,Upsloping,Normal
+46,Male,Asymptomatic,120,277,<= 120 mg/dl,Normal,125,Yes,1.0,Flat,Heart Disease
+50,Female,Atypical Angina,110,202,<= 120 mg/dl,Normal,145,No,0.0,Upsloping,Normal
+37,Female,Atypical Angina,120,260,<= 120 mg/dl,Normal,130,No,0.0,Upsloping,Normal
+45,Female,Asymptomatic,132,297,<= 120 mg/dl,Normal,144,No,0.0,Upsloping,Normal
+32,Male,Atypical Angina,110,225,<= 120 mg/dl,Normal,184,No,0.0,Upsloping,Normal
+52,Male,Asymptomatic,160,246,<= 120 mg/dl,ST-T Wave Abnormality,82,Yes,4.0,Flat,Heart Disease
+44,Male,Asymptomatic,150,412,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+57,Male,Atypical Angina,140,265,<= 120 mg/dl,ST-T Wave Abnormality,145,Yes,1.0,Flat,Heart Disease
+44,Male,Atypical Angina,130,215,<= 120 mg/dl,Normal,135,No,0.0,Upsloping,Normal
+52,Male,Asymptomatic,120,182,<= 120 mg/dl,Normal,150,No,0.0,Flat,Heart Disease
+44,Female,Asymptomatic,120,218,<= 120 mg/dl,ST-T Wave Abnormality,115,No,0.0,Upsloping,Normal
+55,Male,Asymptomatic,140,268,<= 120 mg/dl,Normal,128,Yes,1.5,Flat,Heart Disease
+46,Male,Non-anginal Pain,150,163,<= 120 mg/dl,Normal,116,No,0.0,Upsloping,Normal
+32,Male,Asymptomatic,118,529,<= 120 mg/dl,Normal,130,No,0.0,Flat,Heart Disease
+35,Female,Asymptomatic,140,167,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+52,Male,Atypical Angina,140,100,<= 120 mg/dl,Normal,138,Yes,0.0,Upsloping,Normal
+49,Male,Asymptomatic,130,206,<= 120 mg/dl,Normal,170,No,0.0,Flat,Heart Disease
+55,Male,Non-anginal Pain,110,277,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+54,Male,Atypical Angina,120,238,<= 120 mg/dl,Normal,154,No,0.0,Upsloping,Normal
+63,Male,Asymptomatic,150,223,<= 120 mg/dl,Normal,115,No,0.0,Flat,Heart Disease
+52,Male,Atypical Angina,160,196,<= 120 mg/dl,Normal,165,No,0.0,Upsloping,Normal
+56,Male,Asymptomatic,150,213,> 120 mg/dl,Normal,125,Yes,1.0,Flat,Heart Disease
+66,Male,Asymptomatic,140,139,<= 120 mg/dl,Normal,94,Yes,1.0,Flat,Heart Disease
+65,Male,Asymptomatic,170,263,> 120 mg/dl,Normal,112,Yes,2.0,Flat,Heart Disease
+53,Female,Atypical Angina,140,216,<= 120 mg/dl,Normal,142,Yes,2.0,Flat,Normal
+43,Male,Typical Angina,120,291,<= 120 mg/dl,ST-T Wave Abnormality,155,No,0.0,Flat,Heart Disease
+55,Male,Asymptomatic,140,229,<= 120 mg/dl,Normal,110,Yes,0.5,Flat,Normal
+49,Female,Atypical Angina,110,208,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+39,Male,Asymptomatic,130,307,<= 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+52,Female,Atypical Angina,120,210,<= 120 mg/dl,Normal,148,No,0.0,Upsloping,Normal
+48,Male,Asymptomatic,160,329,<= 120 mg/dl,Normal,92,Yes,1.5,Flat,Heart Disease
+39,Female,Non-anginal Pain,110,182,<= 120 mg/dl,ST-T Wave Abnormality,180,No,0.0,Upsloping,Normal
+58,Male,Asymptomatic,130,263,<= 120 mg/dl,Normal,140,Yes,2.0,Flat,Heart Disease
+43,Male,Atypical Angina,142,207,<= 120 mg/dl,Normal,138,No,0.0,Upsloping,Normal
+39,Male,Non-anginal Pain,160,147,> 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+56,Male,Asymptomatic,120,85,<= 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+41,Male,Atypical Angina,125,269,<= 120 mg/dl,Normal,144,No,0.0,Upsloping,Normal
+65,Male,Asymptomatic,130,275,<= 120 mg/dl,ST-T Wave Abnormality,115,Yes,1.0,Flat,Heart Disease
+51,Male,Asymptomatic,130,179,<= 120 mg/dl,Normal,100,No,0.0,Upsloping,Normal
+40,Female,Asymptomatic,150,392,<= 120 mg/dl,Normal,130,No,2.0,Flat,Heart Disease
+40,Male,Asymptomatic,120,466,> 120 mg/dl,Normal,152,Yes,1.0,Flat,Heart Disease
+46,Male,Asymptomatic,118,186,<= 120 mg/dl,Normal,124,No,0.0,Flat,Heart Disease
+57,Male,Atypical Angina,140,260,> 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+48,Female,Asymptomatic,120,254,<= 120 mg/dl,ST-T Wave Abnormality,110,No,0.0,Upsloping,Normal
+34,Male,Atypical Angina,150,214,<= 120 mg/dl,ST-T Wave Abnormality,168,No,0.0,Upsloping,Normal
+50,Male,Asymptomatic,140,129,<= 120 mg/dl,Normal,135,No,0.0,Upsloping,Normal
+39,Male,Atypical Angina,190,241,<= 120 mg/dl,Normal,106,No,0.0,Upsloping,Normal
+59,Female,Atypical Angina,130,188,<= 120 mg/dl,Normal,124,No,1.0,Flat,Normal
+57,Male,Asymptomatic,150,255,<= 120 mg/dl,Normal,92,Yes,3.0,Flat,Heart Disease
+47,Male,Asymptomatic,140,276,> 120 mg/dl,Normal,125,Yes,0.0,Upsloping,Normal
+38,Male,Atypical Angina,140,297,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+49,Female,Non-anginal Pain,130,207,<= 120 mg/dl,ST-T Wave Abnormality,135,No,0.0,Upsloping,Normal
+33,Female,Asymptomatic,100,246,<= 120 mg/dl,Normal,150,Yes,1.0,Flat,Heart Disease
+38,Male,Asymptomatic,120,282,<= 120 mg/dl,Normal,170,No,0.0,Flat,Heart Disease
+59,Female,Asymptomatic,130,338,> 120 mg/dl,ST-T Wave Abnormality,130,Yes,1.5,Flat,Heart Disease
+35,Female,Typical Angina,120,160,<= 120 mg/dl,ST-T Wave Abnormality,185,No,0.0,Upsloping,Normal
+34,Male,Typical Angina,140,156,<= 120 mg/dl,Normal,180,No,0.0,Flat,Heart Disease
+47,Female,Non-anginal Pain,135,248,> 120 mg/dl,Normal,170,No,0.0,Flat,Heart Disease
+52,Female,Non-anginal Pain,125,272,<= 120 mg/dl,Normal,139,No,0.0,Upsloping,Normal
+46,Male,Asymptomatic,110,240,<= 120 mg/dl,ST-T Wave Abnormality,140,No,0.0,Upsloping,Normal
+58,Female,Atypical Angina,180,393,<= 120 mg/dl,Normal,110,Yes,1.0,Flat,Heart Disease
+58,Male,Atypical Angina,130,230,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+54,Male,Atypical Angina,120,246,<= 120 mg/dl,Normal,110,No,0.0,Upsloping,Normal
+34,Female,Atypical Angina,130,161,<= 120 mg/dl,Normal,190,No,0.0,Upsloping,Normal
+48,Female,Asymptomatic,108,163,<= 120 mg/dl,Normal,175,No,2.0,Upsloping,Normal
+54,Female,Atypical Angina,120,230,> 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+42,Male,Non-anginal Pain,120,228,<= 120 mg/dl,Normal,152,Yes,1.5,Flat,Normal
+38,Male,Non-anginal Pain,145,292,<= 120 mg/dl,Normal,130,No,0.0,Upsloping,Normal
+46,Male,Asymptomatic,110,202,<= 120 mg/dl,Normal,150,Yes,0.0,Flat,Heart Disease
+56,Male,Asymptomatic,170,388,<= 120 mg/dl,ST-T Wave Abnormality,122,Yes,2.0,Flat,Heart Disease
+56,Male,Asymptomatic,150,230,<= 120 mg/dl,ST-T Wave Abnormality,124,Yes,1.5,Flat,Heart Disease
+61,Female,Asymptomatic,130,294,<= 120 mg/dl,ST-T Wave Abnormality,120,Yes,1.0,Flat,Normal
+49,Male,Non-anginal Pain,115,265,<= 120 mg/dl,Normal,175,No,0.0,Flat,Heart Disease
+43,Female,Atypical Angina,120,215,<= 120 mg/dl,ST-T Wave Abnormality,175,No,0.0,Upsloping,Normal
+39,Male,Atypical Angina,120,241,<= 120 mg/dl,ST-T Wave Abnormality,146,No,2.0,Upsloping,Normal
+54,Male,Asymptomatic,140,166,<= 120 mg/dl,Normal,118,Yes,0.0,Flat,Heart Disease
+43,Male,Asymptomatic,150,247,<= 120 mg/dl,Normal,130,Yes,2.0,Flat,Heart Disease
+52,Male,Asymptomatic,160,331,<= 120 mg/dl,Normal,94,Yes,2.5,Flat,Heart Disease
+50,Male,Asymptomatic,140,341,<= 120 mg/dl,ST-T Wave Abnormality,125,Yes,2.5,Flat,Heart Disease
+47,Male,Asymptomatic,160,291,<= 120 mg/dl,ST-T Wave Abnormality,158,Yes,3.0,Flat,Heart Disease
+53,Male,Asymptomatic,140,243,<= 120 mg/dl,Normal,155,No,0.0,Upsloping,Normal
+56,Female,Atypical Angina,120,279,<= 120 mg/dl,Normal,150,No,1.0,Flat,Heart Disease
+39,Male,Asymptomatic,110,273,<= 120 mg/dl,Normal,132,No,0.0,Upsloping,Normal
+42,Male,Atypical Angina,120,198,<= 120 mg/dl,Normal,155,No,0.0,Upsloping,Normal
+43,Female,Atypical Angina,120,249,<= 120 mg/dl,ST-T Wave Abnormality,176,No,0.0,Upsloping,Normal
+50,Male,Atypical Angina,120,168,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+54,Male,Asymptomatic,130,603,> 120 mg/dl,Normal,125,Yes,1.0,Flat,Heart Disease
+39,Male,Atypical Angina,130,215,<= 120 mg/dl,Normal,120,No,0.0,Upsloping,Normal
+48,Male,Atypical Angina,100,159,<= 120 mg/dl,Normal,100,No,0.0,Upsloping,Normal
+40,Male,Atypical Angina,130,275,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+55,Male,Asymptomatic,120,270,<= 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+41,Male,Atypical Angina,120,291,<= 120 mg/dl,ST-T Wave Abnormality,160,No,0.0,Upsloping,Normal
+56,Male,Asymptomatic,155,342,> 120 mg/dl,Normal,150,Yes,3.0,Flat,Heart Disease
+38,Male,Asymptomatic,110,190,<= 120 mg/dl,Normal,150,Yes,1.0,Flat,Heart Disease
+49,Male,Asymptomatic,140,185,<= 120 mg/dl,Normal,130,No,0.0,Upsloping,Normal
+44,Male,Asymptomatic,130,290,<= 120 mg/dl,Normal,100,Yes,2.0,Flat,Heart Disease
+54,Male,Atypical Angina,160,195,<= 120 mg/dl,ST-T Wave Abnormality,130,No,1.0,Upsloping,Normal
+59,Male,Asymptomatic,140,264,> 120 mg/dl,Left Ventricular Hypertrophy,119,Yes,0.0,Flat,Heart Disease
+49,Male,Asymptomatic,128,212,<= 120 mg/dl,Normal,96,Yes,0.0,Flat,Heart Disease
+47,Male,Atypical Angina,160,263,<= 120 mg/dl,Normal,174,No,0.0,Upsloping,Normal
+42,Male,Atypical Angina,120,196,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+52,Female,Atypical Angina,140,225,<= 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+46,Male,Typical Angina,140,272,> 120 mg/dl,Normal,175,No,2.0,Flat,Heart Disease
+50,Male,Asymptomatic,140,231,<= 120 mg/dl,ST-T Wave Abnormality,140,Yes,5.0,Flat,Heart Disease
+48,Male,Atypical Angina,140,238,<= 120 mg/dl,Normal,118,No,0.0,Upsloping,Normal
+58,Male,Asymptomatic,135,222,<= 120 mg/dl,Normal,100,No,0.0,Upsloping,Normal
+58,Male,Non-anginal Pain,140,179,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+29,Male,Atypical Angina,120,243,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+40,Male,Non-anginal Pain,140,235,<= 120 mg/dl,Normal,188,No,0.0,Upsloping,Normal
+53,Male,Atypical Angina,140,320,<= 120 mg/dl,Normal,162,No,0.0,Upsloping,Normal
+49,Male,Non-anginal Pain,140,187,<= 120 mg/dl,Normal,172,No,0.0,Upsloping,Normal
+52,Male,Asymptomatic,140,266,<= 120 mg/dl,Normal,134,Yes,2.0,Flat,Heart Disease
+43,Male,Asymptomatic,140,288,<= 120 mg/dl,Normal,135,Yes,2.0,Flat,Heart Disease
+54,Male,Asymptomatic,140,216,<= 120 mg/dl,Normal,105,No,1.5,Flat,Heart Disease
+59,Male,Atypical Angina,140,287,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+37,Male,Non-anginal Pain,130,194,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+46,Female,Asymptomatic,130,238,<= 120 mg/dl,Normal,90,No,0.0,Upsloping,Normal
+52,Male,Asymptomatic,130,225,<= 120 mg/dl,Normal,120,Yes,2.0,Flat,Heart Disease
+51,Male,Atypical Angina,130,224,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+52,Male,Asymptomatic,140,404,<= 120 mg/dl,Normal,124,Yes,2.0,Flat,Heart Disease
+46,Male,Asymptomatic,110,238,<= 120 mg/dl,ST-T Wave Abnormality,140,Yes,1.0,Flat,Normal
+54,Female,Atypical Angina,160,312,<= 120 mg/dl,Normal,130,No,0.0,Upsloping,Normal
+58,Male,Non-anginal Pain,160,211,> 120 mg/dl,ST-T Wave Abnormality,92,No,0.0,Flat,Heart Disease
+58,Male,Atypical Angina,130,251,<= 120 mg/dl,Normal,110,No,0.0,Upsloping,Normal
+41,Male,Asymptomatic,120,237,> 120 mg/dl,Normal,138,Yes,1.0,Flat,Heart Disease
+50,Female,Asymptomatic,120,328,<= 120 mg/dl,Normal,110,Yes,1.0,Flat,Normal
+53,Male,Asymptomatic,180,285,<= 120 mg/dl,ST-T Wave Abnormality,120,Yes,1.5,Flat,Heart Disease
+46,Male,Asymptomatic,180,280,<= 120 mg/dl,ST-T Wave Abnormality,120,No,0.0,Upsloping,Normal
+50,Male,Atypical Angina,170,209,<= 120 mg/dl,ST-T Wave Abnormality,116,No,0.0,Upsloping,Normal
+48,Male,Atypical Angina,130,245,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+45,Male,Non-anginal Pain,135,192,<= 120 mg/dl,Normal,110,No,0.0,Upsloping,Normal
+41,Female,Atypical Angina,125,184,<= 120 mg/dl,Normal,180,No,0.0,Upsloping,Normal
+62,Female,Typical Angina,160,193,<= 120 mg/dl,Normal,116,No,0.0,Upsloping,Normal
+49,Male,Asymptomatic,120,297,<= 120 mg/dl,Normal,132,No,1.0,Flat,Normal
+42,Male,Atypical Angina,150,268,<= 120 mg/dl,Normal,136,No,0.0,Upsloping,Normal
+53,Male,Asymptomatic,120,246,<= 120 mg/dl,Normal,116,Yes,0.0,Flat,Heart Disease
+57,Female,Typical Angina,130,308,<= 120 mg/dl,Normal,98,No,1.0,Flat,Normal
+47,Male,Typical Angina,110,249,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+46,Male,Non-anginal Pain,120,230,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+42,Male,Non-anginal Pain,160,147,<= 120 mg/dl,Normal,146,No,0.0,Upsloping,Normal
+31,Female,Atypical Angina,100,219,<= 120 mg/dl,ST-T Wave Abnormality,150,No,0.0,Upsloping,Normal
+56,Male,Atypical Angina,130,184,<= 120 mg/dl,Normal,100,No,0.0,Upsloping,Normal
+50,Male,Asymptomatic,150,215,<= 120 mg/dl,Normal,140,Yes,0.0,Upsloping,Normal
+35,Male,Atypical Angina,120,308,<= 120 mg/dl,Left Ventricular Hypertrophy,180,No,0.0,Upsloping,Normal
+35,Male,Atypical Angina,110,257,<= 120 mg/dl,Normal,140,No,0.0,Flat,Heart Disease
+28,Male,Atypical Angina,130,132,<= 120 mg/dl,Left Ventricular Hypertrophy,185,No,0.0,Upsloping,Normal
+54,Male,Asymptomatic,125,216,<= 120 mg/dl,Normal,140,No,0.0,Flat,Heart Disease
+48,Male,Asymptomatic,106,263,> 120 mg/dl,Normal,110,No,0.0,Flat,Heart Disease
+50,Female,Non-anginal Pain,140,288,<= 120 mg/dl,Normal,140,Yes,0.0,Flat,Heart Disease
+56,Male,Non-anginal Pain,130,276,<= 120 mg/dl,Normal,128,Yes,1.0,Upsloping,Normal
+56,Female,Non-anginal Pain,130,219,<= 120 mg/dl,ST-T Wave Abnormality,164,No,0.0,Upsloping,Normal
+47,Male,Asymptomatic,150,226,<= 120 mg/dl,Normal,98,Yes,1.5,Flat,Heart Disease
+30,Female,Typical Angina,170,237,<= 120 mg/dl,ST-T Wave Abnormality,170,No,0.0,Upsloping,Normal
+39,Male,Asymptomatic,110,280,<= 120 mg/dl,Normal,150,No,0.0,Flat,Heart Disease
+54,Male,Non-anginal Pain,120,217,<= 120 mg/dl,Normal,137,No,0.0,Upsloping,Normal
+55,Male,Atypical Angina,140,196,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+29,Male,Atypical Angina,140,263,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+46,Male,Asymptomatic,130,222,<= 120 mg/dl,Normal,112,No,0.0,Flat,Heart Disease
+51,Female,Asymptomatic,160,303,<= 120 mg/dl,Normal,150,Yes,1.0,Flat,Heart Disease
+48,Female,Non-anginal Pain,120,195,<= 120 mg/dl,Normal,125,No,0.0,Upsloping,Normal
+33,Male,Non-anginal Pain,120,298,<= 120 mg/dl,Normal,185,No,0.0,Upsloping,Normal
+55,Male,Atypical Angina,120,256,> 120 mg/dl,Normal,137,No,0.0,Upsloping,Normal
+50,Male,Asymptomatic,145,264,<= 120 mg/dl,Normal,150,No,0.0,Flat,Heart Disease
+53,Male,Non-anginal Pain,120,195,<= 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+38,Male,Asymptomatic,92,117,<= 120 mg/dl,Normal,134,Yes,2.5,Flat,Heart Disease
+41,Male,Atypical Angina,120,295,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+37,Female,Asymptomatic,130,173,<= 120 mg/dl,ST-T Wave Abnormality,184,No,0.0,Upsloping,Normal
+37,Male,Asymptomatic,130,315,<= 120 mg/dl,Normal,158,No,0.0,Upsloping,Normal
+40,Male,Non-anginal Pain,130,281,<= 120 mg/dl,Normal,167,No,0.0,Upsloping,Normal
+38,Female,Atypical Angina,120,275,<= 120 mg/dl,Normal,129,No,0.0,Upsloping,Normal
+41,Male,Asymptomatic,112,250,<= 120 mg/dl,Normal,142,No,0.0,Upsloping,Normal
+54,Female,Atypical Angina,140,309,<= 120 mg/dl,ST-T Wave Abnormality,140,No,0.0,Upsloping,Normal
+39,Male,Atypical Angina,120,200,<= 120 mg/dl,Normal,160,Yes,1.0,Flat,Normal
+41,Male,Asymptomatic,120,336,<= 120 mg/dl,Normal,118,Yes,3.0,Flat,Heart Disease
+55,Male,Typical Angina,140,295,<= 120 mg/dl,Normal,136,No,0.0,Flat,Heart Disease
+48,Male,Asymptomatic,160,355,<= 120 mg/dl,Normal,99,Yes,2.0,Flat,Heart Disease
+48,Male,Asymptomatic,160,193,<= 120 mg/dl,Normal,102,Yes,3.0,Flat,Heart Disease
+55,Male,Atypical Angina,145,326,<= 120 mg/dl,Normal,155,No,0.0,Upsloping,Normal
+54,Male,Asymptomatic,200,198,<= 120 mg/dl,Normal,142,Yes,2.0,Flat,Heart Disease
+55,Male,Atypical Angina,160,292,> 120 mg/dl,Normal,143,Yes,2.0,Flat,Heart Disease
+43,Female,Atypical Angina,120,266,<= 120 mg/dl,Normal,118,No,0.0,Upsloping,Normal
+48,Male,Asymptomatic,160,268,<= 120 mg/dl,Normal,103,Yes,1.0,Flat,Heart Disease
+54,Male,Typical Angina,120,171,<= 120 mg/dl,Normal,137,No,2.0,Upsloping,Normal
+54,Male,Non-anginal Pain,120,237,<= 120 mg/dl,Normal,150,Yes,1.5,Flat,Heart Disease
+48,Male,Asymptomatic,122,275,> 120 mg/dl,ST-T Wave Abnormality,150,Yes,2.0,Downsloping,Heart Disease
+45,Male,Asymptomatic,130,219,<= 120 mg/dl,ST-T Wave Abnormality,130,Yes,1.0,Flat,Heart Disease
+49,Male,Asymptomatic,130,341,<= 120 mg/dl,Normal,120,Yes,1.0,Flat,Heart Disease
+44,Male,Asymptomatic,135,491,<= 120 mg/dl,Normal,135,No,0.0,Flat,Heart Disease
+48,Male,Asymptomatic,120,260,<= 120 mg/dl,Normal,115,No,2.0,Flat,Heart Disease
+61,Male,Asymptomatic,125,292,<= 120 mg/dl,ST-T Wave Abnormality,115,Yes,0.0,Upsloping,Normal
+62,Male,Atypical Angina,140,271,<= 120 mg/dl,Normal,152,No,1.0,Upsloping,Normal
+55,Male,Asymptomatic,145,248,<= 120 mg/dl,Normal,96,Yes,2.0,Flat,Heart Disease
+53,Female,Non-anginal Pain,120,274,<= 120 mg/dl,Normal,130,No,0.0,Upsloping,Normal
+55,Female,Atypical Angina,130,394,<= 120 mg/dl,Left Ventricular Hypertrophy,150,No,0.0,Upsloping,Normal
+36,Male,Non-anginal Pain,150,160,<= 120 mg/dl,Normal,172,No,0.0,Upsloping,Normal
+51,Female,Non-anginal Pain,150,200,<= 120 mg/dl,Normal,120,No,0.5,Upsloping,Normal
+55,Female,Atypical Angina,122,320,<= 120 mg/dl,Normal,155,No,0.0,Upsloping,Normal
+46,Male,Atypical Angina,140,275,<= 120 mg/dl,Normal,165,Yes,0.0,Upsloping,Normal
+54,Female,Atypical Angina,120,221,<= 120 mg/dl,Normal,138,No,1.0,Upsloping,Normal
+46,Male,Asymptomatic,120,231,<= 120 mg/dl,Normal,115,Yes,0.0,Flat,Heart Disease
+59,Male,Asymptomatic,130,126,<= 120 mg/dl,Normal,125,No,0.0,Flat,Heart Disease
+47,Male,Non-anginal Pain,140,193,<= 120 mg/dl,Normal,145,Yes,1.0,Flat,Heart Disease
+54,Male,Atypical Angina,160,305,<= 120 mg/dl,Normal,175,No,0.0,Upsloping,Normal
+52,Male,Asymptomatic,130,298,<= 120 mg/dl,Normal,110,Yes,1.0,Flat,Heart Disease
+34,Male,Atypical Angina,98,220,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+54,Male,Asymptomatic,130,242,<= 120 mg/dl,Normal,91,Yes,1.0,Flat,Heart Disease
+47,Female,Non-anginal Pain,130,235,<= 120 mg/dl,Normal,145,No,2.0,Flat,Normal
+45,Male,Asymptomatic,120,225,<= 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+32,Female,Atypical Angina,105,198,<= 120 mg/dl,Normal,165,No,0.0,Upsloping,Normal
+55,Male,Asymptomatic,140,201,<= 120 mg/dl,Normal,130,Yes,3.0,Flat,Heart Disease
+55,Male,Non-anginal Pain,120,220,<= 120 mg/dl,Left Ventricular Hypertrophy,134,No,0.0,Upsloping,Normal
+45,Female,Atypical Angina,180,295,<= 120 mg/dl,Normal,180,No,0.0,Upsloping,Normal
+59,Male,Non-anginal Pain,180,213,<= 120 mg/dl,Normal,100,No,0.0,Upsloping,Normal
+51,Male,Non-anginal Pain,135,160,<= 120 mg/dl,Normal,150,No,2.0,Flat,Heart Disease
+52,Male,Asymptomatic,170,223,<= 120 mg/dl,Normal,126,Yes,1.5,Flat,Heart Disease
+57,Female,Asymptomatic,180,347,<= 120 mg/dl,ST-T Wave Abnormality,126,Yes,0.8,Flat,Normal
+54,Female,Atypical Angina,130,253,<= 120 mg/dl,ST-T Wave Abnormality,155,No,0.0,Upsloping,Normal
+60,Male,Non-anginal Pain,120,246,<= 120 mg/dl,Left Ventricular Hypertrophy,135,No,0.0,Upsloping,Normal
+49,Male,Asymptomatic,150,222,<= 120 mg/dl,Normal,122,No,2.0,Flat,Heart Disease
+51,Female,Non-anginal Pain,130,220,<= 120 mg/dl,Normal,160,Yes,2.0,Upsloping,Normal
+55,Female,Atypical Angina,110,344,<= 120 mg/dl,ST-T Wave Abnormality,160,No,0.0,Upsloping,Normal
+42,Male,Asymptomatic,140,358,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+51,Female,Non-anginal Pain,110,190,<= 120 mg/dl,Normal,120,No,0.0,Upsloping,Normal
+59,Male,Asymptomatic,140,169,<= 120 mg/dl,Normal,140,No,0.0,Upsloping,Normal
+53,Male,Atypical Angina,120,181,<= 120 mg/dl,Normal,132,No,0.0,Upsloping,Normal
+48,Female,Atypical Angina,133,308,<= 120 mg/dl,ST-T Wave Abnormality,156,No,2.0,Upsloping,Normal
+36,Male,Atypical Angina,120,166,<= 120 mg/dl,Normal,180,No,0.0,Upsloping,Normal
+48,Male,Non-anginal Pain,110,211,<= 120 mg/dl,Normal,138,No,0.0,Upsloping,Normal
+47,Female,Atypical Angina,140,257,<= 120 mg/dl,Normal,135,No,1.0,Upsloping,Normal
+53,Male,Asymptomatic,130,182,<= 120 mg/dl,Normal,148,No,0.0,Upsloping,Normal
+65,Male,Asymptomatic,115,0,<= 120 mg/dl,Normal,93,Yes,0.0,Flat,Heart Disease
+32,Male,Typical Angina,95,0,> 120 mg/dl,Normal,127,No,0.7,Upsloping,Heart Disease
+61,Male,Asymptomatic,105,0,> 120 mg/dl,Normal,110,Yes,1.5,Upsloping,Heart Disease
+50,Male,Asymptomatic,145,0,> 120 mg/dl,Normal,139,Yes,0.7,Flat,Heart Disease
+57,Male,Asymptomatic,110,0,> 120 mg/dl,ST-T Wave Abnormality,131,Yes,1.4,Upsloping,Heart Disease
+51,Male,Asymptomatic,110,0,> 120 mg/dl,Normal,92,No,0.0,Flat,Heart Disease
+47,Male,Asymptomatic,110,0,> 120 mg/dl,ST-T Wave Abnormality,149,No,2.1,Upsloping,Heart Disease
+60,Male,Asymptomatic,160,0,> 120 mg/dl,Normal,149,No,0.4,Flat,Heart Disease
+55,Male,Atypical Angina,140,0,<= 120 mg/dl,ST-T Wave Abnormality,150,No,0.2,Upsloping,Normal
+53,Male,Asymptomatic,125,0,> 120 mg/dl,Normal,120,No,1.5,Upsloping,Heart Disease
+62,Female,Asymptomatic,120,0,> 120 mg/dl,ST-T Wave Abnormality,123,Yes,1.7,Downsloping,Heart Disease
+51,Male,Asymptomatic,95,0,> 120 mg/dl,Normal,126,No,2.2,Flat,Heart Disease
+51,Female,Asymptomatic,120,0,> 120 mg/dl,Normal,127,Yes,1.5,Upsloping,Heart Disease
+55,Male,Asymptomatic,115,0,> 120 mg/dl,Normal,155,No,0.1,Flat,Heart Disease
+53,Male,Atypical Angina,130,0,<= 120 mg/dl,ST-T Wave Abnormality,120,No,0.7,Downsloping,Normal
+58,Male,Asymptomatic,115,0,> 120 mg/dl,Normal,138,No,0.5,Upsloping,Heart Disease
+57,Male,Asymptomatic,95,0,> 120 mg/dl,Normal,182,No,0.7,Downsloping,Heart Disease
+65,Male,Asymptomatic,155,0,<= 120 mg/dl,Normal,154,No,1.0,Upsloping,Normal
+60,Male,Asymptomatic,125,0,> 120 mg/dl,Normal,110,No,0.1,Upsloping,Heart Disease
+41,Male,Asymptomatic,125,0,> 120 mg/dl,Normal,176,No,1.6,Upsloping,Heart Disease
+34,Male,Asymptomatic,115,0,> 120 mg/dl,Normal,154,No,0.2,Upsloping,Heart Disease
+53,Male,Asymptomatic,80,0,<= 120 mg/dl,Normal,141,Yes,2.0,Downsloping,Normal
+74,Male,Atypical Angina,145,0,> 120 mg/dl,ST-T Wave Abnormality,123,No,1.3,Upsloping,Heart Disease
+57,Male,Non-anginal Pain,105,0,> 120 mg/dl,Normal,148,No,0.3,Flat,Heart Disease
+56,Male,Asymptomatic,140,0,> 120 mg/dl,Normal,121,Yes,1.8,Upsloping,Heart Disease
+61,Male,Asymptomatic,130,0,> 120 mg/dl,Normal,77,No,2.5,Flat,Heart Disease
+68,Male,Asymptomatic,145,0,> 120 mg/dl,Normal,136,No,1.8,Upsloping,Heart Disease
+59,Male,Non-anginal Pain,125,0,> 120 mg/dl,Normal,175,No,2.6,Flat,Heart Disease
+63,Male,Asymptomatic,100,0,> 120 mg/dl,Normal,109,No,-0.9,Flat,Heart Disease
+38,Female,Asymptomatic,105,0,> 120 mg/dl,Normal,166,No,2.8,Upsloping,Heart Disease
+62,Male,Asymptomatic,115,0,> 120 mg/dl,Normal,128,Yes,2.5,Downsloping,Heart Disease
+46,Male,Asymptomatic,100,0,> 120 mg/dl,ST-T Wave Abnormality,133,No,-2.6,Flat,Heart Disease
+42,Male,Asymptomatic,105,0,> 120 mg/dl,Normal,128,Yes,-1.5,Downsloping,Heart Disease
+45,Male,Non-anginal Pain,110,0,<= 120 mg/dl,Normal,138,No,-0.1,Upsloping,Normal
+59,Male,Asymptomatic,125,0,> 120 mg/dl,Normal,119,Yes,0.9,Upsloping,Heart Disease
+52,Male,Asymptomatic,95,0,> 120 mg/dl,Normal,82,Yes,0.8,Flat,Heart Disease
+60,Male,Asymptomatic,130,0,> 120 mg/dl,ST-T Wave Abnormality,130,Yes,1.1,Downsloping,Heart Disease
+60,Male,Non-anginal Pain,115,0,> 120 mg/dl,Normal,143,No,2.4,Upsloping,Heart Disease
+56,Male,Asymptomatic,115,0,> 120 mg/dl,ST-T Wave Abnormality,82,No,-1.0,Upsloping,Heart Disease
+38,Male,Non-anginal Pain,100,0,<= 120 mg/dl,Normal,179,No,-1.1,Upsloping,Normal
+40,Male,Asymptomatic,95,0,> 120 mg/dl,ST-T Wave Abnormality,144,No,0.0,Upsloping,Heart Disease
+51,Male,Asymptomatic,130,0,> 120 mg/dl,Normal,170,No,-0.7,Upsloping,Heart Disease
+62,Male,Typical Angina,120,0,> 120 mg/dl,Left Ventricular Hypertrophy,134,No,-0.8,Flat,Heart Disease
+72,Male,Non-anginal Pain,160,0,<= 120 mg/dl,Left Ventricular Hypertrophy,114,No,1.6,Flat,Normal
+63,Male,Asymptomatic,150,0,> 120 mg/dl,ST-T Wave Abnormality,154,No,3.7,Upsloping,Heart Disease
+63,Male,Asymptomatic,140,0,> 120 mg/dl,Left Ventricular Hypertrophy,149,No,2.0,Upsloping,Heart Disease
+64,Female,Asymptomatic,95,0,> 120 mg/dl,Normal,145,No,1.1,Downsloping,Heart Disease
+43,Male,Asymptomatic,100,0,> 120 mg/dl,Normal,122,No,1.5,Downsloping,Heart Disease
+64,Male,Asymptomatic,110,0,> 120 mg/dl,Normal,114,Yes,1.3,Downsloping,Heart Disease
+61,Male,Asymptomatic,110,0,> 120 mg/dl,Normal,113,No,1.4,Flat,Heart Disease
+52,Male,Asymptomatic,130,0,> 120 mg/dl,Normal,120,No,0.0,Flat,Heart Disease
+51,Male,Asymptomatic,120,0,> 120 mg/dl,Normal,104,No,0.0,Flat,Heart Disease
+69,Male,Asymptomatic,135,0,<= 120 mg/dl,Normal,130,No,0.0,Flat,Heart Disease
+59,Male,Asymptomatic,120,0,<= 120 mg/dl,Normal,115,No,0.0,Flat,Heart Disease
+48,Male,Asymptomatic,115,0,> 120 mg/dl,Normal,128,No,0.0,Flat,Heart Disease
+69,Male,Asymptomatic,137,0,<= 120 mg/dl,ST-T Wave Abnormality,104,Yes,1.6,Flat,Heart Disease
+36,Male,Asymptomatic,110,0,> 120 mg/dl,Normal,125,Yes,1.0,Flat,Heart Disease
+53,Male,Asymptomatic,120,0,> 120 mg/dl,Normal,120,No,0.0,Flat,Heart Disease
+43,Male,Asymptomatic,140,0,<= 120 mg/dl,ST-T Wave Abnormality,140,Yes,0.5,Upsloping,Heart Disease
+56,Male,Asymptomatic,120,0,<= 120 mg/dl,ST-T Wave Abnormality,100,Yes,-1.0,Downsloping,Heart Disease
+58,Male,Asymptomatic,130,0,<= 120 mg/dl,ST-T Wave Abnormality,100,Yes,1.0,Flat,Heart Disease
+55,Male,Asymptomatic,120,0,<= 120 mg/dl,ST-T Wave Abnormality,92,No,0.3,Upsloping,Heart Disease
+67,Male,Typical Angina,145,0,<= 120 mg/dl,Left Ventricular Hypertrophy,125,No,0.0,Flat,Heart Disease
+46,Male,Asymptomatic,115,0,<= 120 mg/dl,Normal,113,Yes,1.5,Flat,Heart Disease
+53,Male,Atypical Angina,120,0,<= 120 mg/dl,Normal,95,No,0.0,Flat,Heart Disease
+38,Male,Non-anginal Pain,115,0,<= 120 mg/dl,Normal,128,Yes,0.0,Flat,Heart Disease
+53,Male,Non-anginal Pain,105,0,<= 120 mg/dl,Normal,115,No,0.0,Flat,Heart Disease
+62,Male,Non-anginal Pain,160,0,<= 120 mg/dl,Normal,72,Yes,0.0,Flat,Heart Disease
+47,Male,Asymptomatic,160,0,<= 120 mg/dl,Normal,124,Yes,0.0,Flat,Heart Disease
+56,Male,Non-anginal Pain,155,0,<= 120 mg/dl,ST-T Wave Abnormality,99,No,0.0,Flat,Heart Disease
+56,Male,Asymptomatic,120,0,<= 120 mg/dl,ST-T Wave Abnormality,148,No,0.0,Flat,Heart Disease
+56,Male,Non-anginal Pain,120,0,<= 120 mg/dl,Normal,97,No,0.0,Flat,Normal
+64,Female,Asymptomatic,200,0,<= 120 mg/dl,Normal,140,Yes,1.0,Flat,Heart Disease
+61,Male,Asymptomatic,150,0,<= 120 mg/dl,Normal,117,Yes,2.0,Flat,Heart Disease
+68,Male,Asymptomatic,135,0,<= 120 mg/dl,ST-T Wave Abnormality,120,Yes,0.0,Upsloping,Heart Disease
+57,Male,Asymptomatic,140,0,<= 120 mg/dl,Normal,120,Yes,2.0,Flat,Heart Disease
+63,Male,Asymptomatic,150,0,<= 120 mg/dl,Normal,86,Yes,2.0,Flat,Heart Disease
+60,Male,Asymptomatic,135,0,<= 120 mg/dl,Normal,63,Yes,0.5,Upsloping,Heart Disease
+66,Male,Asymptomatic,150,0,<= 120 mg/dl,Normal,108,Yes,2.0,Flat,Heart Disease
+63,Male,Asymptomatic,185,0,<= 120 mg/dl,Normal,98,Yes,0.0,Upsloping,Heart Disease
+59,Male,Asymptomatic,135,0,<= 120 mg/dl,Normal,115,Yes,1.0,Flat,Heart Disease
+61,Male,Asymptomatic,125,0,<= 120 mg/dl,Normal,105,Yes,0.0,Downsloping,Heart Disease
+73,Female,Non-anginal Pain,160,0,<= 120 mg/dl,ST-T Wave Abnormality,121,No,0.0,Upsloping,Heart Disease
+47,Male,Non-anginal Pain,155,0,<= 120 mg/dl,Normal,118,Yes,1.0,Flat,Heart Disease
+65,Male,Asymptomatic,160,0,> 120 mg/dl,ST-T Wave Abnormality,122,No,1.2,Flat,Heart Disease
+70,Male,Asymptomatic,140,0,> 120 mg/dl,Normal,157,Yes,2.0,Flat,Heart Disease
+50,Male,Asymptomatic,120,0,<= 120 mg/dl,ST-T Wave Abnormality,156,Yes,0.0,Upsloping,Heart Disease
+60,Male,Asymptomatic,160,0,<= 120 mg/dl,ST-T Wave Abnormality,99,Yes,0.5,Flat,Heart Disease
+50,Male,Asymptomatic,115,0,<= 120 mg/dl,Normal,120,Yes,0.5,Flat,Heart Disease
+43,Male,Asymptomatic,115,0,<= 120 mg/dl,Normal,145,Yes,2.0,Flat,Heart Disease
+38,Female,Asymptomatic,110,0,<= 120 mg/dl,Normal,156,No,0.0,Flat,Heart Disease
+54,Male,Asymptomatic,120,0,<= 120 mg/dl,Normal,155,No,0.0,Flat,Heart Disease
+61,Male,Asymptomatic,150,0,<= 120 mg/dl,Normal,105,Yes,0.0,Flat,Heart Disease
+42,Male,Asymptomatic,145,0,<= 120 mg/dl,Normal,99,Yes,0.0,Flat,Heart Disease
+53,Male,Asymptomatic,130,0,<= 120 mg/dl,Left Ventricular Hypertrophy,135,Yes,1.0,Flat,Heart Disease
+55,Male,Asymptomatic,140,0,<= 120 mg/dl,Normal,83,No,0.0,Flat,Heart Disease
+61,Male,Asymptomatic,160,0,> 120 mg/dl,ST-T Wave Abnormality,145,No,1.0,Flat,Heart Disease
+51,Male,Asymptomatic,140,0,<= 120 mg/dl,Normal,60,No,0.0,Flat,Heart Disease
+70,Male,Asymptomatic,115,0,<= 120 mg/dl,ST-T Wave Abnormality,92,Yes,0.0,Flat,Heart Disease
+61,Male,Asymptomatic,130,0,<= 120 mg/dl,Left Ventricular Hypertrophy,115,No,0.0,Flat,Heart Disease
+38,Male,Asymptomatic,150,0,> 120 mg/dl,Normal,120,Yes,0.7,Flat,Heart Disease
+57,Male,Asymptomatic,160,0,> 120 mg/dl,Normal,98,Yes,2.0,Flat,Heart Disease
+38,Male,Asymptomatic,135,0,> 120 mg/dl,Normal,150,No,0.0,Flat,Heart Disease
+62,Female,Typical Angina,140,0,> 120 mg/dl,Normal,143,No,0.0,Flat,Heart Disease
+58,Male,Asymptomatic,170,0,> 120 mg/dl,ST-T Wave Abnormality,105,Yes,0.0,Flat,Heart Disease
+52,Male,Asymptomatic,165,0,> 120 mg/dl,Normal,122,Yes,1.0,Upsloping,Heart Disease
+61,Male,Non-anginal Pain,200,0,> 120 mg/dl,ST-T Wave Abnormality,70,No,0.0,Flat,Heart Disease
+50,Female,Asymptomatic,160,0,> 120 mg/dl,Normal,110,No,0.0,Flat,Heart Disease
+51,Male,Asymptomatic,130,0,> 120 mg/dl,ST-T Wave Abnormality,163,No,0.0,Flat,Heart Disease
+65,Male,Asymptomatic,145,0,> 120 mg/dl,ST-T Wave Abnormality,67,No,0.7,Flat,Heart Disease
+52,Male,Asymptomatic,135,0,> 120 mg/dl,Normal,128,Yes,2.0,Flat,Heart Disease
+47,Male,Non-anginal Pain,110,0,> 120 mg/dl,Normal,120,Yes,0.0,Flat,Heart Disease
+35,Male,Asymptomatic,120,0,> 120 mg/dl,Normal,130,Yes,1.2,Flat,Heart Disease
+57,Male,Asymptomatic,140,0,> 120 mg/dl,Normal,100,Yes,0.0,Flat,Heart Disease
+62,Male,Asymptomatic,115,0,> 120 mg/dl,Normal,72,Yes,-0.5,Flat,Heart Disease
+59,Male,Asymptomatic,110,0,> 120 mg/dl,Normal,94,No,0.0,Flat,Heart Disease
+53,Male,Non-anginal Pain,160,0,> 120 mg/dl,Left Ventricular Hypertrophy,122,Yes,0.0,Flat,Heart Disease
+62,Male,Asymptomatic,150,0,> 120 mg/dl,ST-T Wave Abnormality,78,No,2.0,Flat,Heart Disease
+54,Male,Asymptomatic,180,0,> 120 mg/dl,Normal,150,No,1.5,Flat,Heart Disease
+56,Male,Asymptomatic,125,0,> 120 mg/dl,Normal,103,Yes,1.0,Flat,Heart Disease
+56,Male,Non-anginal Pain,125,0,> 120 mg/dl,Normal,98,No,-2.0,Flat,Heart Disease
+54,Male,Asymptomatic,130,0,> 120 mg/dl,Normal,110,Yes,3.0,Flat,Heart Disease
+66,Female,Asymptomatic,155,0,> 120 mg/dl,Normal,90,No,0.0,Flat,Heart Disease
+63,Male,Asymptomatic,140,260,<= 120 mg/dl,ST-T Wave Abnormality,112,Yes,3.0,Flat,Heart Disease
+44,Male,Asymptomatic,130,209,<= 120 mg/dl,ST-T Wave Abnormality,127,No,0.0,Upsloping,Normal
+60,Male,Asymptomatic,132,218,<= 120 mg/dl,ST-T Wave Abnormality,140,Yes,1.5,Downsloping,Heart Disease
+55,Male,Asymptomatic,142,228,<= 120 mg/dl,ST-T Wave Abnormality,149,Yes,2.5,Upsloping,Heart Disease
+66,Male,Non-anginal Pain,110,213,> 120 mg/dl,Left Ventricular Hypertrophy,99,Yes,1.3,Flat,Normal
+66,Male,Non-anginal Pain,120,0,<= 120 mg/dl,ST-T Wave Abnormality,120,No,-0.5,Upsloping,Normal
+65,Male,Asymptomatic,150,236,> 120 mg/dl,ST-T Wave Abnormality,105,Yes,0.0,Flat,Heart Disease
+60,Male,Non-anginal Pain,180,0,<= 120 mg/dl,ST-T Wave Abnormality,140,Yes,1.5,Flat,Normal
+60,Male,Non-anginal Pain,120,0,> 120 mg/dl,Normal,141,Yes,2.0,Upsloping,Heart Disease
+60,Male,Atypical Angina,160,267,> 120 mg/dl,ST-T Wave Abnormality,157,No,0.5,Flat,Heart Disease
+56,Male,Atypical Angina,126,166,<= 120 mg/dl,ST-T Wave Abnormality,140,No,0.0,Upsloping,Normal
+59,Male,Asymptomatic,140,0,<= 120 mg/dl,ST-T Wave Abnormality,117,Yes,1.0,Flat,Heart Disease
+62,Male,Asymptomatic,110,0,<= 120 mg/dl,Normal,120,Yes,0.5,Flat,Heart Disease
+63,Male,Non-anginal Pain,133,0,<= 120 mg/dl,Left Ventricular Hypertrophy,120,Yes,1.0,Flat,Heart Disease
+57,Male,Asymptomatic,128,0,> 120 mg/dl,ST-T Wave Abnormality,148,Yes,1.0,Flat,Heart Disease
+62,Male,Asymptomatic,120,220,<= 120 mg/dl,ST-T Wave Abnormality,86,No,0.0,Upsloping,Normal
+63,Male,Asymptomatic,170,177,<= 120 mg/dl,Normal,84,Yes,2.5,Downsloping,Heart Disease
+46,Male,Asymptomatic,110,236,<= 120 mg/dl,Normal,125,Yes,2.0,Flat,Heart Disease
+63,Male,Asymptomatic,126,0,<= 120 mg/dl,ST-T Wave Abnormality,120,No,1.5,Downsloping,Normal
+60,Male,Asymptomatic,152,0,<= 120 mg/dl,ST-T Wave Abnormality,118,Yes,0.0,Upsloping,Normal
+58,Male,Asymptomatic,116,0,<= 120 mg/dl,Normal,124,No,1.0,Upsloping,Heart Disease
+64,Male,Asymptomatic,120,0,> 120 mg/dl,ST-T Wave Abnormality,106,No,2.0,Flat,Heart Disease
+63,Male,Non-anginal Pain,130,0,<= 120 mg/dl,ST-T Wave Abnormality,111,Yes,0.0,Flat,Heart Disease
+74,Male,Non-anginal Pain,138,0,<= 120 mg/dl,Normal,116,No,0.2,Upsloping,Normal
+52,Male,Non-anginal Pain,128,0,<= 120 mg/dl,ST-T Wave Abnormality,180,No,3.0,Upsloping,Heart Disease
+69,Male,Asymptomatic,130,0,> 120 mg/dl,ST-T Wave Abnormality,129,No,1.0,Flat,Heart Disease
+51,Male,Asymptomatic,128,0,> 120 mg/dl,ST-T Wave Abnormality,125,Yes,1.2,Flat,Heart Disease
+60,Male,Asymptomatic,130,186,> 120 mg/dl,ST-T Wave Abnormality,140,Yes,0.5,Flat,Heart Disease
+56,Male,Asymptomatic,120,100,<= 120 mg/dl,Normal,120,Yes,1.5,Flat,Heart Disease
+55,Male,Non-anginal Pain,136,228,<= 120 mg/dl,ST-T Wave Abnormality,124,Yes,1.6,Flat,Heart Disease
+54,Male,Asymptomatic,130,0,<= 120 mg/dl,ST-T Wave Abnormality,117,Yes,1.4,Flat,Heart Disease
+77,Male,Asymptomatic,124,171,<= 120 mg/dl,ST-T Wave Abnormality,110,Yes,2.0,Upsloping,Heart Disease
+63,Male,Asymptomatic,160,230,> 120 mg/dl,Normal,105,Yes,1.0,Flat,Heart Disease
+55,Male,Non-anginal Pain,0,0,<= 120 mg/dl,Normal,155,No,1.5,Flat,Heart Disease
+52,Male,Non-anginal Pain,122,0,<= 120 mg/dl,Normal,110,Yes,2.0,Downsloping,Heart Disease
+64,Male,Asymptomatic,144,0,<= 120 mg/dl,ST-T Wave Abnormality,122,Yes,1.0,Flat,Heart Disease
+60,Male,Asymptomatic,140,281,<= 120 mg/dl,ST-T Wave Abnormality,118,Yes,1.5,Flat,Heart Disease
+60,Male,Asymptomatic,120,0,<= 120 mg/dl,Normal,133,Yes,2.0,Upsloping,Normal
+58,Male,Asymptomatic,136,203,> 120 mg/dl,Normal,123,Yes,1.2,Flat,Heart Disease
+59,Male,Asymptomatic,154,0,<= 120 mg/dl,ST-T Wave Abnormality,131,Yes,1.5,Upsloping,Normal
+61,Male,Non-anginal Pain,120,0,<= 120 mg/dl,Normal,80,Yes,0.0,Flat,Heart Disease
+40,Male,Asymptomatic,125,0,> 120 mg/dl,Normal,165,No,0.0,Flat,Heart Disease
+61,Male,Asymptomatic,134,0,> 120 mg/dl,ST-T Wave Abnormality,86,No,1.5,Flat,Heart Disease
+41,Male,Asymptomatic,104,0,<= 120 mg/dl,ST-T Wave Abnormality,111,No,0.0,Upsloping,Normal
+57,Male,Asymptomatic,139,277,> 120 mg/dl,ST-T Wave Abnormality,118,Yes,1.9,Flat,Heart Disease
+63,Male,Asymptomatic,136,0,<= 120 mg/dl,Normal,84,Yes,0.0,Flat,Heart Disease
+59,Male,Asymptomatic,122,233,<= 120 mg/dl,Normal,117,Yes,1.3,Downsloping,Heart Disease
+51,Male,Asymptomatic,128,0,<= 120 mg/dl,Normal,107,No,0.0,Upsloping,Normal
+59,Male,Non-anginal Pain,131,0,<= 120 mg/dl,Normal,128,Yes,2.0,Downsloping,Heart Disease
+42,Male,Non-anginal Pain,134,240,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+55,Male,Non-anginal Pain,120,0,<= 120 mg/dl,ST-T Wave Abnormality,125,Yes,2.5,Flat,Heart Disease
+63,Female,Atypical Angina,132,0,<= 120 mg/dl,Normal,130,No,0.1,Upsloping,Normal
+62,Male,Asymptomatic,152,153,<= 120 mg/dl,ST-T Wave Abnormality,97,Yes,1.6,Upsloping,Heart Disease
+56,Male,Atypical Angina,124,224,> 120 mg/dl,Normal,161,No,2.0,Flat,Normal
+53,Male,Asymptomatic,126,0,<= 120 mg/dl,Normal,106,No,0.0,Flat,Heart Disease
+68,Male,Asymptomatic,138,0,<= 120 mg/dl,Normal,130,Yes,3.0,Flat,Heart Disease
+53,Male,Asymptomatic,154,0,> 120 mg/dl,ST-T Wave Abnormality,140,Yes,1.5,Flat,Heart Disease
+60,Male,Non-anginal Pain,141,316,> 120 mg/dl,ST-T Wave Abnormality,122,Yes,1.7,Flat,Heart Disease
+62,Male,Atypical Angina,131,0,<= 120 mg/dl,Normal,130,No,0.1,Upsloping,Normal
+59,Male,Asymptomatic,178,0,> 120 mg/dl,Left Ventricular Hypertrophy,120,Yes,0.0,Flat,Heart Disease
+51,Male,Asymptomatic,132,218,> 120 mg/dl,Left Ventricular Hypertrophy,139,No,0.1,Upsloping,Normal
+61,Male,Asymptomatic,110,0,> 120 mg/dl,Normal,108,Yes,2.0,Downsloping,Heart Disease
+57,Male,Asymptomatic,130,311,> 120 mg/dl,ST-T Wave Abnormality,148,Yes,2.0,Flat,Heart Disease
+56,Male,Non-anginal Pain,170,0,<= 120 mg/dl,Left Ventricular Hypertrophy,123,Yes,2.5,Flat,Heart Disease
+58,Male,Atypical Angina,126,0,> 120 mg/dl,Normal,110,Yes,2.0,Flat,Heart Disease
+69,Male,Non-anginal Pain,140,0,> 120 mg/dl,ST-T Wave Abnormality,118,No,2.5,Downsloping,Heart Disease
+67,Male,Typical Angina,142,270,> 120 mg/dl,Normal,125,No,2.5,Upsloping,Heart Disease
+58,Male,Asymptomatic,120,0,<= 120 mg/dl,Left Ventricular Hypertrophy,106,Yes,1.5,Downsloping,Heart Disease
+65,Male,Asymptomatic,134,0,<= 120 mg/dl,Normal,112,Yes,1.1,Flat,Heart Disease
+63,Male,Atypical Angina,139,217,> 120 mg/dl,ST-T Wave Abnormality,128,Yes,1.2,Flat,Heart Disease
+55,Male,Atypical Angina,110,214,> 120 mg/dl,ST-T Wave Abnormality,180,No,0.4,Upsloping,Normal
+57,Male,Asymptomatic,140,214,<= 120 mg/dl,ST-T Wave Abnormality,144,Yes,2.0,Flat,Heart Disease
+65,Male,Typical Angina,140,252,<= 120 mg/dl,Normal,135,No,0.3,Upsloping,Normal
+54,Male,Asymptomatic,136,220,<= 120 mg/dl,Normal,140,Yes,3.0,Flat,Heart Disease
+72,Male,Non-anginal Pain,120,214,<= 120 mg/dl,Normal,102,Yes,1.0,Flat,Heart Disease
+75,Male,Asymptomatic,170,203,> 120 mg/dl,ST-T Wave Abnormality,108,No,0.0,Flat,Heart Disease
+49,Male,Typical Angina,130,0,<= 120 mg/dl,ST-T Wave Abnormality,145,No,3.0,Flat,Heart Disease
+51,Male,Non-anginal Pain,137,339,<= 120 mg/dl,Normal,127,Yes,1.7,Flat,Heart Disease
+60,Male,Asymptomatic,142,216,<= 120 mg/dl,Normal,110,Yes,2.5,Flat,Heart Disease
+64,Female,Asymptomatic,142,276,<= 120 mg/dl,Normal,140,Yes,1.0,Flat,Heart Disease
+58,Male,Asymptomatic,132,458,> 120 mg/dl,Normal,69,No,1.0,Downsloping,Normal
+61,Male,Asymptomatic,146,241,<= 120 mg/dl,Normal,148,Yes,3.0,Downsloping,Heart Disease
+67,Male,Asymptomatic,160,384,> 120 mg/dl,ST-T Wave Abnormality,130,Yes,0.0,Flat,Heart Disease
+62,Male,Asymptomatic,135,297,<= 120 mg/dl,Normal,130,Yes,1.0,Flat,Heart Disease
+65,Male,Asymptomatic,136,248,<= 120 mg/dl,Normal,140,Yes,4.0,Downsloping,Heart Disease
+63,Male,Asymptomatic,130,308,<= 120 mg/dl,Normal,138,Yes,2.0,Flat,Heart Disease
+69,Male,Asymptomatic,140,208,<= 120 mg/dl,ST-T Wave Abnormality,140,Yes,2.0,Flat,Heart Disease
+51,Male,Asymptomatic,132,227,> 120 mg/dl,ST-T Wave Abnormality,138,No,0.2,Upsloping,Normal
+62,Male,Asymptomatic,158,210,> 120 mg/dl,Normal,112,Yes,3.0,Downsloping,Heart Disease
+55,Male,Non-anginal Pain,136,245,> 120 mg/dl,ST-T Wave Abnormality,131,Yes,1.2,Flat,Heart Disease
+75,Male,Asymptomatic,136,225,<= 120 mg/dl,Normal,112,Yes,3.0,Flat,Heart Disease
+40,Male,Non-anginal Pain,106,240,<= 120 mg/dl,Normal,80,Yes,0.0,Upsloping,Normal
+67,Male,Asymptomatic,120,0,> 120 mg/dl,Normal,150,No,1.5,Downsloping,Heart Disease
+58,Male,Asymptomatic,110,198,<= 120 mg/dl,Normal,110,No,0.0,Flat,Heart Disease
+60,Male,Asymptomatic,136,195,<= 120 mg/dl,Normal,126,No,0.3,Upsloping,Normal
+63,Male,Asymptomatic,160,267,> 120 mg/dl,ST-T Wave Abnormality,88,Yes,2.0,Flat,Heart Disease
+35,Male,Non-anginal Pain,123,161,<= 120 mg/dl,ST-T Wave Abnormality,153,No,-0.1,Upsloping,Normal
+62,Male,Typical Angina,112,258,<= 120 mg/dl,ST-T Wave Abnormality,150,Yes,1.3,Flat,Heart Disease
+43,Male,Asymptomatic,122,0,<= 120 mg/dl,Normal,120,No,0.5,Upsloping,Heart Disease
+63,Male,Non-anginal Pain,130,0,> 120 mg/dl,ST-T Wave Abnormality,160,No,3.0,Flat,Normal
+68,Male,Non-anginal Pain,150,195,> 120 mg/dl,Normal,132,No,0.0,0,Heart Disease
+65,Male,Asymptomatic,150,235,<= 120 mg/dl,Normal,120,Yes,1.5,Flat,Heart Disease
+48,Male,Non-anginal Pain,102,0,> 120 mg/dl,ST-T Wave Abnormality,110,Yes,1.0,Downsloping,Heart Disease
+63,Male,Asymptomatic,96,305,<= 120 mg/dl,ST-T Wave Abnormality,121,Yes,1.0,Upsloping,Heart Disease
+64,Male,Asymptomatic,130,223,<= 120 mg/dl,ST-T Wave Abnormality,128,No,0.5,Flat,Normal
+61,Male,Asymptomatic,120,282,<= 120 mg/dl,ST-T Wave Abnormality,135,Yes,4.0,Downsloping,Heart Disease
+50,Male,Asymptomatic,144,349,<= 120 mg/dl,Left Ventricular Hypertrophy,120,Yes,1.0,Upsloping,Heart Disease
+59,Male,Asymptomatic,124,160,<= 120 mg/dl,Normal,117,Yes,1.0,Flat,Heart Disease
+55,Male,Asymptomatic,150,160,<= 120 mg/dl,ST-T Wave Abnormality,150,No,0.0,Upsloping,Normal
+45,Male,Non-anginal Pain,130,236,<= 120 mg/dl,Normal,144,No,0.1,Upsloping,Normal
+65,Male,Asymptomatic,144,312,<= 120 mg/dl,Left Ventricular Hypertrophy,113,Yes,1.7,Flat,Heart Disease
+61,Male,Atypical Angina,139,283,<= 120 mg/dl,Normal,135,No,0.3,Upsloping,Normal
+49,Male,Non-anginal Pain,131,142,<= 120 mg/dl,Normal,127,Yes,1.5,Flat,Heart Disease
+72,Male,Asymptomatic,143,211,<= 120 mg/dl,Normal,109,Yes,1.4,Flat,Heart Disease
+50,Male,Asymptomatic,133,218,<= 120 mg/dl,Normal,128,Yes,1.1,Flat,Heart Disease
+64,Male,Asymptomatic,143,306,> 120 mg/dl,ST-T Wave Abnormality,115,Yes,1.8,Flat,Heart Disease
+55,Male,Asymptomatic,116,186,> 120 mg/dl,ST-T Wave Abnormality,102,No,0.0,Flat,Heart Disease
+63,Male,Asymptomatic,110,252,<= 120 mg/dl,ST-T Wave Abnormality,140,Yes,2.0,Flat,Heart Disease
+59,Male,Asymptomatic,125,222,<= 120 mg/dl,Normal,135,Yes,2.5,Downsloping,Heart Disease
+56,Male,Asymptomatic,130,0,<= 120 mg/dl,Left Ventricular Hypertrophy,122,Yes,1.0,Flat,Heart Disease
+62,Male,Non-anginal Pain,133,0,> 120 mg/dl,ST-T Wave Abnormality,119,Yes,1.2,Flat,Heart Disease
+74,Male,Asymptomatic,150,258,> 120 mg/dl,ST-T Wave Abnormality,130,Yes,4.0,Downsloping,Heart Disease
+54,Male,Asymptomatic,130,202,> 120 mg/dl,Normal,112,Yes,2.0,Flat,Heart Disease
+57,Male,Asymptomatic,110,197,<= 120 mg/dl,Left Ventricular Hypertrophy,100,No,0.0,Upsloping,Normal
+62,Male,Non-anginal Pain,138,204,<= 120 mg/dl,ST-T Wave Abnormality,122,Yes,1.2,Flat,Heart Disease
+76,Male,Non-anginal Pain,104,113,<= 120 mg/dl,Left Ventricular Hypertrophy,120,No,3.5,Downsloping,Heart Disease
+54,Female,Asymptomatic,138,274,<= 120 mg/dl,Normal,105,Yes,1.5,Flat,Heart Disease
+70,Male,Asymptomatic,170,192,<= 120 mg/dl,ST-T Wave Abnormality,129,Yes,3.0,Downsloping,Heart Disease
+61,Female,Atypical Angina,140,298,> 120 mg/dl,Normal,120,Yes,0.0,Upsloping,Normal
+48,Male,Asymptomatic,132,272,<= 120 mg/dl,ST-T Wave Abnormality,139,No,0.2,Upsloping,Normal
+48,Male,Non-anginal Pain,132,220,> 120 mg/dl,ST-T Wave Abnormality,162,No,0.0,Flat,Heart Disease
+61,Male,Typical Angina,142,200,> 120 mg/dl,ST-T Wave Abnormality,100,No,1.5,Downsloping,Heart Disease
+66,Male,Asymptomatic,112,261,<= 120 mg/dl,Normal,140,No,1.5,Upsloping,Heart Disease
+68,Male,Typical Angina,139,181,> 120 mg/dl,ST-T Wave Abnormality,135,No,0.2,Upsloping,Normal
+55,Male,Asymptomatic,172,260,<= 120 mg/dl,Normal,73,No,2.0,Flat,Heart Disease
+62,Male,Non-anginal Pain,120,220,<= 120 mg/dl,Left Ventricular Hypertrophy,86,No,0.0,Upsloping,Normal
+71,Male,Non-anginal Pain,144,221,<= 120 mg/dl,Normal,108,Yes,1.8,Flat,Heart Disease
+74,Male,Typical Angina,145,216,> 120 mg/dl,Normal,116,Yes,1.8,Flat,Heart Disease
+53,Male,Non-anginal Pain,155,175,> 120 mg/dl,ST-T Wave Abnormality,160,No,0.3,Upsloping,Normal
+58,Male,Non-anginal Pain,150,219,<= 120 mg/dl,ST-T Wave Abnormality,118,Yes,0.0,Flat,Heart Disease
+75,Male,Asymptomatic,160,310,> 120 mg/dl,Normal,112,Yes,2.0,Downsloping,Normal
+56,Male,Non-anginal Pain,137,208,> 120 mg/dl,ST-T Wave Abnormality,122,Yes,1.8,Flat,Heart Disease
+58,Male,Non-anginal Pain,137,232,<= 120 mg/dl,ST-T Wave Abnormality,124,Yes,1.4,Flat,Heart Disease
+64,Male,Asymptomatic,134,273,<= 120 mg/dl,Normal,102,Yes,4.0,Downsloping,Heart Disease
+54,Male,Non-anginal Pain,133,203,<= 120 mg/dl,ST-T Wave Abnormality,137,No,0.2,Upsloping,Normal
+54,Male,Atypical Angina,132,182,<= 120 mg/dl,ST-T Wave Abnormality,141,No,0.1,Upsloping,Normal
+59,Male,Asymptomatic,140,274,<= 120 mg/dl,Normal,154,Yes,2.0,Flat,Normal
+55,Male,Asymptomatic,135,204,> 120 mg/dl,ST-T Wave Abnormality,126,Yes,1.1,Flat,Heart Disease
+57,Male,Asymptomatic,144,270,> 120 mg/dl,ST-T Wave Abnormality,160,Yes,2.0,Flat,Heart Disease
+61,Male,Asymptomatic,141,292,<= 120 mg/dl,ST-T Wave Abnormality,115,Yes,1.7,Flat,Heart Disease
+41,Male,Asymptomatic,150,171,<= 120 mg/dl,Normal,128,Yes,1.5,Flat,Normal
+71,Male,Asymptomatic,130,221,<= 120 mg/dl,ST-T Wave Abnormality,115,Yes,0.0,Flat,Heart Disease
+38,Male,Asymptomatic,110,289,<= 120 mg/dl,Normal,105,Yes,1.5,Downsloping,Heart Disease
+55,Male,Asymptomatic,158,217,<= 120 mg/dl,Normal,110,Yes,2.5,Flat,Heart Disease
+56,Male,Asymptomatic,128,223,<= 120 mg/dl,ST-T Wave Abnormality,119,Yes,2.0,Downsloping,Heart Disease
+69,Male,Asymptomatic,140,110,> 120 mg/dl,Normal,109,Yes,1.5,Flat,Heart Disease
+64,Male,Asymptomatic,150,193,<= 120 mg/dl,ST-T Wave Abnormality,135,Yes,0.5,Flat,Heart Disease
+72,Male,Asymptomatic,160,123,> 120 mg/dl,Left Ventricular Hypertrophy,130,No,1.5,Flat,Heart Disease
+69,Male,Asymptomatic,142,210,> 120 mg/dl,ST-T Wave Abnormality,112,Yes,1.5,Flat,Heart Disease
+56,Male,Asymptomatic,137,282,> 120 mg/dl,Normal,126,Yes,1.2,Flat,Heart Disease
+62,Male,Asymptomatic,139,170,<= 120 mg/dl,ST-T Wave Abnormality,120,Yes,3.0,Flat,Heart Disease
+67,Male,Asymptomatic,146,369,<= 120 mg/dl,Normal,110,Yes,1.9,Flat,Heart Disease
+57,Male,Asymptomatic,156,173,<= 120 mg/dl,Left Ventricular Hypertrophy,119,Yes,3.0,Downsloping,Heart Disease
+69,Male,Asymptomatic,145,289,> 120 mg/dl,ST-T Wave Abnormality,110,Yes,1.8,Flat,Heart Disease
+51,Male,Asymptomatic,131,152,> 120 mg/dl,Left Ventricular Hypertrophy,130,Yes,1.0,Flat,Heart Disease
+48,Male,Asymptomatic,140,208,<= 120 mg/dl,Normal,159,Yes,1.5,Upsloping,Heart Disease
+69,Male,Asymptomatic,122,216,> 120 mg/dl,Left Ventricular Hypertrophy,84,Yes,0.0,Flat,Heart Disease
+69,Male,Non-anginal Pain,142,271,<= 120 mg/dl,Left Ventricular Hypertrophy,126,No,0.3,Upsloping,Normal
+64,Male,Asymptomatic,141,244,> 120 mg/dl,ST-T Wave Abnormality,116,Yes,1.5,Flat,Heart Disease
+57,Male,Atypical Angina,180,285,> 120 mg/dl,ST-T Wave Abnormality,120,No,0.8,Flat,Heart Disease
+53,Male,Asymptomatic,124,243,<= 120 mg/dl,Normal,122,Yes,2.0,Flat,Heart Disease
+37,Male,Non-anginal Pain,118,240,<= 120 mg/dl,Left Ventricular Hypertrophy,165,No,1.0,Flat,Normal
+67,Male,Asymptomatic,140,219,<= 120 mg/dl,ST-T Wave Abnormality,122,Yes,2.0,Flat,Heart Disease
+74,Male,Non-anginal Pain,140,237,> 120 mg/dl,Normal,94,No,0.0,Flat,Heart Disease
+63,Male,Atypical Angina,136,165,<= 120 mg/dl,ST-T Wave Abnormality,133,No,0.2,Upsloping,Normal
+58,Male,Asymptomatic,100,213,<= 120 mg/dl,ST-T Wave Abnormality,110,No,0.0,Upsloping,Normal
+61,Male,Asymptomatic,190,287,> 120 mg/dl,Left Ventricular Hypertrophy,150,Yes,2.0,Downsloping,Heart Disease
+64,Male,Asymptomatic,130,258,> 120 mg/dl,Left Ventricular Hypertrophy,130,No,0.0,Flat,Heart Disease
+58,Male,Asymptomatic,160,256,> 120 mg/dl,Left Ventricular Hypertrophy,113,Yes,1.0,Upsloping,Heart Disease
+60,Male,Asymptomatic,130,186,> 120 mg/dl,Left Ventricular Hypertrophy,140,Yes,0.5,Flat,Heart Disease
+57,Male,Asymptomatic,122,264,<= 120 mg/dl,Left Ventricular Hypertrophy,100,No,0.0,Flat,Heart Disease
+55,Male,Non-anginal Pain,133,185,<= 120 mg/dl,ST-T Wave Abnormality,136,No,0.2,Upsloping,Normal
+55,Male,Asymptomatic,120,226,<= 120 mg/dl,Left Ventricular Hypertrophy,127,Yes,1.7,Downsloping,Heart Disease
+56,Male,Asymptomatic,130,203,> 120 mg/dl,Normal,98,No,1.5,Flat,Heart Disease
+57,Male,Asymptomatic,130,207,<= 120 mg/dl,ST-T Wave Abnormality,96,Yes,1.0,Flat,Normal
+61,Male,Non-anginal Pain,140,284,<= 120 mg/dl,Normal,123,Yes,1.3,Flat,Heart Disease
+61,Male,Non-anginal Pain,120,337,<= 120 mg/dl,Normal,98,Yes,0.0,Flat,Heart Disease
+74,Male,Asymptomatic,155,310,<= 120 mg/dl,Normal,112,Yes,1.5,Downsloping,Heart Disease
+68,Male,Non-anginal Pain,134,254,> 120 mg/dl,Normal,151,Yes,0.0,Upsloping,Normal
+51,Female,Asymptomatic,114,258,> 120 mg/dl,Left Ventricular Hypertrophy,96,No,1.0,Upsloping,Normal
+62,Male,Asymptomatic,160,254,> 120 mg/dl,ST-T Wave Abnormality,108,Yes,3.0,Flat,Heart Disease
+53,Male,Asymptomatic,144,300,> 120 mg/dl,ST-T Wave Abnormality,128,Yes,1.5,Flat,Heart Disease
+62,Male,Asymptomatic,158,170,<= 120 mg/dl,ST-T Wave Abnormality,138,Yes,0.0,Flat,Heart Disease
+46,Male,Asymptomatic,134,310,<= 120 mg/dl,Normal,126,No,0.0,Flat,Heart Disease
+54,Female,Asymptomatic,127,333,> 120 mg/dl,ST-T Wave Abnormality,154,No,0.0,Flat,Heart Disease
+62,Male,Typical Angina,135,139,<= 120 mg/dl,ST-T Wave Abnormality,137,No,0.2,Upsloping,Normal
+55,Male,Asymptomatic,122,223,> 120 mg/dl,ST-T Wave Abnormality,100,No,0.0,Flat,Heart Disease
+58,Male,Asymptomatic,140,385,> 120 mg/dl,Left Ventricular Hypertrophy,135,No,0.3,Upsloping,Normal
+62,Male,Atypical Angina,120,254,<= 120 mg/dl,Left Ventricular Hypertrophy,93,Yes,0.0,Flat,Heart Disease
+70,Male,Asymptomatic,130,322,<= 120 mg/dl,Left Ventricular Hypertrophy,109,No,2.4,Flat,Heart Disease
+67,Female,Non-anginal Pain,115,564,<= 120 mg/dl,Left Ventricular Hypertrophy,160,No,1.6,Flat,Normal
+57,Male,Atypical Angina,124,261,<= 120 mg/dl,Normal,141,No,0.3,Upsloping,Heart Disease
+64,Male,Asymptomatic,128,263,<= 120 mg/dl,Normal,105,Yes,0.2,Flat,Normal
+74,Female,Atypical Angina,120,269,<= 120 mg/dl,Left Ventricular Hypertrophy,121,Yes,0.2,Upsloping,Normal
+65,Male,Asymptomatic,120,177,<= 120 mg/dl,Normal,140,No,0.4,Upsloping,Normal
+56,Male,Non-anginal Pain,130,256,> 120 mg/dl,Left Ventricular Hypertrophy,142,Yes,0.6,Flat,Heart Disease
+59,Male,Asymptomatic,110,239,<= 120 mg/dl,Left Ventricular Hypertrophy,142,Yes,1.2,Flat,Heart Disease
+60,Male,Asymptomatic,140,293,<= 120 mg/dl,Left Ventricular Hypertrophy,170,No,1.2,Flat,Heart Disease
+63,Female,Asymptomatic,150,407,<= 120 mg/dl,Left Ventricular Hypertrophy,154,No,4.0,Flat,Heart Disease
+59,Male,Asymptomatic,135,234,<= 120 mg/dl,Normal,161,No,0.5,Flat,Normal
+53,Male,Asymptomatic,142,226,<= 120 mg/dl,Left Ventricular Hypertrophy,111,Yes,0.0,Upsloping,Normal
+44,Male,Non-anginal Pain,140,235,<= 120 mg/dl,Left Ventricular Hypertrophy,180,No,0.0,Upsloping,Normal
+61,Male,Typical Angina,134,234,<= 120 mg/dl,Normal,145,No,2.6,Flat,Heart Disease
+57,Female,Asymptomatic,128,303,<= 120 mg/dl,Left Ventricular Hypertrophy,159,No,0.0,Upsloping,Normal
+71,Female,Asymptomatic,112,149,<= 120 mg/dl,Normal,125,No,1.6,Flat,Normal
+46,Male,Asymptomatic,140,311,<= 120 mg/dl,Normal,120,Yes,1.8,Flat,Heart Disease
+53,Male,Asymptomatic,140,203,> 120 mg/dl,Left Ventricular Hypertrophy,155,Yes,3.1,Downsloping,Heart Disease
+64,Male,Typical Angina,110,211,<= 120 mg/dl,Left Ventricular Hypertrophy,144,Yes,1.8,Flat,Normal
+40,Male,Typical Angina,140,199,<= 120 mg/dl,Normal,178,Yes,1.4,Upsloping,Normal
+67,Male,Asymptomatic,120,229,<= 120 mg/dl,Left Ventricular Hypertrophy,129,Yes,2.6,Flat,Heart Disease
+48,Male,Atypical Angina,130,245,<= 120 mg/dl,Left Ventricular Hypertrophy,180,No,0.2,Flat,Normal
+43,Male,Asymptomatic,115,303,<= 120 mg/dl,Normal,181,No,1.2,Flat,Normal
+47,Male,Asymptomatic,112,204,<= 120 mg/dl,Normal,143,No,0.1,Upsloping,Normal
+54,Female,Atypical Angina,132,288,> 120 mg/dl,Left Ventricular Hypertrophy,159,Yes,0.0,Upsloping,Normal
+48,Female,Non-anginal Pain,130,275,<= 120 mg/dl,Normal,139,No,0.2,Upsloping,Normal
+46,Female,Asymptomatic,138,243,<= 120 mg/dl,Left Ventricular Hypertrophy,152,Yes,0.0,Flat,Normal
+51,Female,Non-anginal Pain,120,295,<= 120 mg/dl,Left Ventricular Hypertrophy,157,No,0.6,Upsloping,Normal
+58,Male,Non-anginal Pain,112,230,<= 120 mg/dl,Left Ventricular Hypertrophy,165,No,2.5,Flat,Heart Disease
+71,Female,Non-anginal Pain,110,265,> 120 mg/dl,Left Ventricular Hypertrophy,130,No,0.0,Upsloping,Normal
+57,Male,Non-anginal Pain,128,229,<= 120 mg/dl,Left Ventricular Hypertrophy,150,No,0.4,Flat,Heart Disease
+66,Male,Asymptomatic,160,228,<= 120 mg/dl,Left Ventricular Hypertrophy,138,No,2.3,Upsloping,Normal
+37,Female,Non-anginal Pain,120,215,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+59,Male,Asymptomatic,170,326,<= 120 mg/dl,Left Ventricular Hypertrophy,140,Yes,3.4,Downsloping,Heart Disease
+50,Male,Asymptomatic,144,200,<= 120 mg/dl,Left Ventricular Hypertrophy,126,Yes,0.9,Flat,Heart Disease
+48,Male,Asymptomatic,130,256,> 120 mg/dl,Left Ventricular Hypertrophy,150,Yes,0.0,Upsloping,Heart Disease
+61,Male,Asymptomatic,140,207,<= 120 mg/dl,Left Ventricular Hypertrophy,138,Yes,1.9,Upsloping,Heart Disease
+59,Male,Typical Angina,160,273,<= 120 mg/dl,Left Ventricular Hypertrophy,125,No,0.0,Upsloping,Heart Disease
+42,Male,Non-anginal Pain,130,180,<= 120 mg/dl,Normal,150,No,0.0,Upsloping,Normal
+48,Male,Asymptomatic,122,222,<= 120 mg/dl,Left Ventricular Hypertrophy,186,No,0.0,Upsloping,Normal
+40,Male,Asymptomatic,152,223,<= 120 mg/dl,Normal,181,No,0.0,Upsloping,Heart Disease
+62,Female,Asymptomatic,124,209,<= 120 mg/dl,Normal,163,No,0.0,Upsloping,Normal
+44,Male,Non-anginal Pain,130,233,<= 120 mg/dl,Normal,179,Yes,0.4,Upsloping,Normal
+46,Male,Atypical Angina,101,197,> 120 mg/dl,Normal,156,No,0.0,Upsloping,Normal
+59,Male,Non-anginal Pain,126,218,> 120 mg/dl,Normal,134,No,2.2,Flat,Heart Disease
+58,Male,Non-anginal Pain,140,211,> 120 mg/dl,Left Ventricular Hypertrophy,165,No,0.0,Upsloping,Normal
+49,Male,Non-anginal Pain,118,149,<= 120 mg/dl,Left Ventricular Hypertrophy,126,No,0.8,Upsloping,Heart Disease
+44,Male,Asymptomatic,110,197,<= 120 mg/dl,Left Ventricular Hypertrophy,177,No,0.0,Upsloping,Heart Disease
+66,Male,Atypical Angina,160,246,<= 120 mg/dl,Normal,120,Yes,0.0,Flat,Heart Disease
+65,Female,Asymptomatic,150,225,<= 120 mg/dl,Left Ventricular Hypertrophy,114,No,1.0,Flat,Heart Disease
+42,Male,Asymptomatic,136,315,<= 120 mg/dl,Normal,125,Yes,1.8,Flat,Heart Disease
+52,Male,Atypical Angina,128,205,> 120 mg/dl,Normal,184,No,0.0,Upsloping,Normal
+65,Female,Non-anginal Pain,140,417,> 120 mg/dl,Left Ventricular Hypertrophy,157,No,0.8,Upsloping,Normal
+63,Female,Atypical Angina,140,195,<= 120 mg/dl,Normal,179,No,0.0,Upsloping,Normal
+45,Female,Atypical Angina,130,234,<= 120 mg/dl,Left Ventricular Hypertrophy,175,No,0.6,Flat,Normal
+41,Female,Atypical Angina,105,198,<= 120 mg/dl,Normal,168,No,0.0,Upsloping,Normal
+61,Male,Asymptomatic,138,166,<= 120 mg/dl,Left Ventricular Hypertrophy,125,Yes,3.6,Flat,Heart Disease
+60,Female,Non-anginal Pain,120,178,> 120 mg/dl,Normal,96,No,0.0,Upsloping,Normal
+59,Female,Asymptomatic,174,249,<= 120 mg/dl,Normal,143,Yes,0.0,Flat,Heart Disease
+62,Male,Atypical Angina,120,281,<= 120 mg/dl,Left Ventricular Hypertrophy,103,No,1.4,Flat,Heart Disease
+57,Male,Non-anginal Pain,150,126,> 120 mg/dl,Normal,173,No,0.2,Upsloping,Normal
+51,Female,Asymptomatic,130,305,<= 120 mg/dl,Normal,142,Yes,1.2,Flat,Heart Disease
+44,Male,Non-anginal Pain,120,226,<= 120 mg/dl,Normal,169,No,0.0,Upsloping,Normal
+60,Female,Typical Angina,150,240,<= 120 mg/dl,Normal,171,No,0.9,Upsloping,Normal
+63,Male,Typical Angina,145,233,> 120 mg/dl,Left Ventricular Hypertrophy,150,No,2.3,Downsloping,Normal
+57,Male,Asymptomatic,150,276,<= 120 mg/dl,Left Ventricular Hypertrophy,112,Yes,0.6,Flat,Heart Disease
+51,Male,Asymptomatic,140,261,<= 120 mg/dl,Left Ventricular Hypertrophy,186,Yes,0.0,Upsloping,Normal
+58,Female,Atypical Angina,136,319,> 120 mg/dl,Left Ventricular Hypertrophy,152,No,0.0,Upsloping,Heart Disease
+44,Female,Non-anginal Pain,118,242,<= 120 mg/dl,Normal,149,No,0.3,Flat,Normal
+47,Male,Non-anginal Pain,108,243,<= 120 mg/dl,Normal,152,No,0.0,Upsloping,Heart Disease
+61,Male,Asymptomatic,120,260,<= 120 mg/dl,Normal,140,Yes,3.6,Flat,Heart Disease
+57,Female,Asymptomatic,120,354,<= 120 mg/dl,Normal,163,Yes,0.6,Upsloping,Normal
+70,Male,Atypical Angina,156,245,<= 120 mg/dl,Left Ventricular Hypertrophy,143,No,0.0,Upsloping,Normal
+76,Female,Non-anginal Pain,140,197,<= 120 mg/dl,ST-T Wave Abnormality,116,No,1.1,Flat,Normal
+67,Female,Asymptomatic,106,223,<= 120 mg/dl,Normal,142,No,0.3,Upsloping,Normal
+45,Male,Asymptomatic,142,309,<= 120 mg/dl,Left Ventricular Hypertrophy,147,Yes,0.0,Flat,Heart Disease
+45,Male,Asymptomatic,104,208,<= 120 mg/dl,Left Ventricular Hypertrophy,148,Yes,3.0,Flat,Normal
+39,Female,Non-anginal Pain,94,199,<= 120 mg/dl,Normal,179,No,0.0,Upsloping,Normal
+42,Female,Non-anginal Pain,120,209,<= 120 mg/dl,Normal,173,No,0.0,Flat,Normal
+56,Male,Atypical Angina,120,236,<= 120 mg/dl,Normal,178,No,0.8,Upsloping,Normal
+58,Male,Asymptomatic,146,218,<= 120 mg/dl,Normal,105,No,2.0,Flat,Heart Disease
+35,Male,Asymptomatic,120,198,<= 120 mg/dl,Normal,130,Yes,1.6,Flat,Heart Disease
+58,Male,Asymptomatic,150,270,<= 120 mg/dl,Left Ventricular Hypertrophy,111,Yes,0.8,Upsloping,Heart Disease
+41,Male,Non-anginal Pain,130,214,<= 120 mg/dl,Left Ventricular Hypertrophy,168,No,2.0,Flat,Normal
+57,Male,Asymptomatic,110,201,<= 120 mg/dl,Normal,126,Yes,1.5,Flat,Normal
+42,Male,Typical Angina,148,244,<= 120 mg/dl,Left Ventricular Hypertrophy,178,No,0.8,Upsloping,Normal
+62,Male,Atypical Angina,128,208,> 120 mg/dl,Left Ventricular Hypertrophy,140,No,0.0,Upsloping,Normal
+59,Male,Typical Angina,178,270,<= 120 mg/dl,Left Ventricular Hypertrophy,145,No,4.2,Downsloping,Normal
+41,Female,Atypical Angina,126,306,<= 120 mg/dl,Normal,163,No,0.0,Upsloping,Normal
+50,Male,Asymptomatic,150,243,<= 120 mg/dl,Left Ventricular Hypertrophy,128,No,2.6,Flat,Heart Disease
+59,Male,Atypical Angina,140,221,<= 120 mg/dl,Normal,164,Yes,0.0,Upsloping,Normal
+61,Female,Asymptomatic,130,330,<= 120 mg/dl,Left Ventricular Hypertrophy,169,No,0.0,Upsloping,Heart Disease
+54,Male,Asymptomatic,124,266,<= 120 mg/dl,Left Ventricular Hypertrophy,109,Yes,2.2,Flat,Heart Disease
+54,Male,Asymptomatic,110,206,<= 120 mg/dl,Left Ventricular Hypertrophy,108,Yes,0.0,Flat,Heart Disease
+52,Male,Asymptomatic,125,212,<= 120 mg/dl,Normal,168,No,1.0,Upsloping,Heart Disease
+47,Male,Asymptomatic,110,275,<= 120 mg/dl,Left Ventricular Hypertrophy,118,Yes,1.0,Flat,Heart Disease
+66,Male,Asymptomatic,120,302,<= 120 mg/dl,Left Ventricular Hypertrophy,151,No,0.4,Flat,Normal
+58,Male,Asymptomatic,100,234,<= 120 mg/dl,Normal,156,No,0.1,Upsloping,Heart Disease
+64,Female,Non-anginal Pain,140,313,<= 120 mg/dl,Normal,133,No,0.2,Upsloping,Normal
+50,Female,Atypical Angina,120,244,<= 120 mg/dl,Normal,162,No,1.1,Upsloping,Normal
+44,Female,Non-anginal Pain,108,141,<= 120 mg/dl,Normal,175,No,0.6,Flat,Normal
+67,Male,Asymptomatic,120,237,<= 120 mg/dl,Normal,71,No,1.0,Flat,Heart Disease
+49,Female,Asymptomatic,130,269,<= 120 mg/dl,Normal,163,No,0.0,Upsloping,Normal
+57,Male,Asymptomatic,165,289,> 120 mg/dl,Left Ventricular Hypertrophy,124,No,1.0,Flat,Heart Disease
+63,Male,Asymptomatic,130,254,<= 120 mg/dl,Left Ventricular Hypertrophy,147,No,1.4,Flat,Heart Disease
+48,Male,Asymptomatic,124,274,<= 120 mg/dl,Left Ventricular Hypertrophy,166,No,0.5,Flat,Heart Disease
+51,Male,Non-anginal Pain,100,222,<= 120 mg/dl,Normal,143,Yes,1.2,Flat,Normal
+60,Female,Asymptomatic,150,258,<= 120 mg/dl,Left Ventricular Hypertrophy,157,No,2.6,Flat,Heart Disease
+59,Male,Asymptomatic,140,177,<= 120 mg/dl,Normal,162,Yes,0.0,Upsloping,Heart Disease
+45,Female,Atypical Angina,112,160,<= 120 mg/dl,Normal,138,No,0.0,Flat,Normal
+55,Female,Asymptomatic,180,327,<= 120 mg/dl,ST-T Wave Abnormality,117,Yes,3.4,Flat,Heart Disease
+41,Male,Atypical Angina,110,235,<= 120 mg/dl,Normal,153,No,0.0,Upsloping,Normal
+60,Female,Asymptomatic,158,305,<= 120 mg/dl,Left Ventricular Hypertrophy,161,No,0.0,Upsloping,Heart Disease
+54,Female,Non-anginal Pain,135,304,> 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+42,Male,Atypical Angina,120,295,<= 120 mg/dl,Normal,162,No,0.0,Upsloping,Normal
+49,Female,Atypical Angina,134,271,<= 120 mg/dl,Normal,162,No,0.0,Flat,Normal
+46,Male,Asymptomatic,120,249,<= 120 mg/dl,Left Ventricular Hypertrophy,144,No,0.8,Upsloping,Heart Disease
+56,Female,Asymptomatic,200,288,> 120 mg/dl,Left Ventricular Hypertrophy,133,Yes,4.0,Downsloping,Heart Disease
+66,Female,Typical Angina,150,226,<= 120 mg/dl,Normal,114,No,2.6,Downsloping,Normal
+56,Male,Asymptomatic,130,283,> 120 mg/dl,Left Ventricular Hypertrophy,103,Yes,1.6,Downsloping,Heart Disease
+49,Male,Non-anginal Pain,120,188,<= 120 mg/dl,Normal,139,No,2.0,Flat,Heart Disease
+54,Male,Asymptomatic,122,286,<= 120 mg/dl,Left Ventricular Hypertrophy,116,Yes,3.2,Flat,Heart Disease
+57,Male,Asymptomatic,152,274,<= 120 mg/dl,Normal,88,Yes,1.2,Flat,Heart Disease
+65,Female,Non-anginal Pain,160,360,<= 120 mg/dl,Left Ventricular Hypertrophy,151,No,0.8,Upsloping,Normal
+54,Male,Non-anginal Pain,125,273,<= 120 mg/dl,Left Ventricular Hypertrophy,152,No,0.5,Downsloping,Normal
+54,Female,Non-anginal Pain,160,201,<= 120 mg/dl,Normal,163,No,0.0,Upsloping,Normal
+62,Male,Asymptomatic,120,267,<= 120 mg/dl,Normal,99,Yes,1.8,Flat,Heart Disease
+52,Female,Non-anginal Pain,136,196,<= 120 mg/dl,Left Ventricular Hypertrophy,169,No,0.1,Flat,Normal
+52,Male,Atypical Angina,134,201,<= 120 mg/dl,Normal,158,No,0.8,Upsloping,Normal
+60,Male,Asymptomatic,117,230,> 120 mg/dl,Normal,160,Yes,1.4,Upsloping,Heart Disease
+63,Female,Asymptomatic,108,269,<= 120 mg/dl,Normal,169,Yes,1.8,Flat,Heart Disease
+66,Male,Asymptomatic,112,212,<= 120 mg/dl,Left Ventricular Hypertrophy,132,Yes,0.1,Upsloping,Heart Disease
+42,Male,Asymptomatic,140,226,<= 120 mg/dl,Normal,178,No,0.0,Upsloping,Normal
+64,Male,Asymptomatic,120,246,<= 120 mg/dl,Left Ventricular Hypertrophy,96,Yes,2.2,Downsloping,Heart Disease
+54,Male,Non-anginal Pain,150,232,<= 120 mg/dl,Left Ventricular Hypertrophy,165,No,1.6,Upsloping,Normal
+46,Female,Non-anginal Pain,142,177,<= 120 mg/dl,Left Ventricular Hypertrophy,160,Yes,1.4,Downsloping,Normal
+67,Female,Non-anginal Pain,152,277,<= 120 mg/dl,Normal,172,No,0.0,Upsloping,Normal
+56,Male,Asymptomatic,125,249,> 120 mg/dl,Left Ventricular Hypertrophy,144,Yes,1.2,Flat,Heart Disease
+34,Female,Atypical Angina,118,210,<= 120 mg/dl,Normal,192,No,0.7,Upsloping,Normal
+57,Male,Asymptomatic,132,207,<= 120 mg/dl,Normal,168,Yes,0.0,Upsloping,Normal
+64,Male,Asymptomatic,145,212,<= 120 mg/dl,Left Ventricular Hypertrophy,132,No,2.0,Flat,Heart Disease
+59,Male,Asymptomatic,138,271,<= 120 mg/dl,Left Ventricular Hypertrophy,182,No,0.0,Upsloping,Normal
+50,Male,Non-anginal Pain,140,233,<= 120 mg/dl,Normal,163,No,0.6,Flat,Heart Disease
+51,Male,Typical Angina,125,213,<= 120 mg/dl,Left Ventricular Hypertrophy,125,Yes,1.4,Upsloping,Normal
+54,Male,Atypical Angina,192,283,<= 120 mg/dl,Left Ventricular Hypertrophy,195,No,0.0,Upsloping,Heart Disease
+53,Male,Asymptomatic,123,282,<= 120 mg/dl,Normal,95,Yes,2.0,Flat,Heart Disease
+52,Male,Asymptomatic,112,230,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Heart Disease
+40,Male,Asymptomatic,110,167,<= 120 mg/dl,Left Ventricular Hypertrophy,114,Yes,2.0,Flat,Heart Disease
+58,Male,Non-anginal Pain,132,224,<= 120 mg/dl,Left Ventricular Hypertrophy,173,No,3.2,Upsloping,Heart Disease
+41,Female,Non-anginal Pain,112,268,<= 120 mg/dl,Left Ventricular Hypertrophy,172,Yes,0.0,Upsloping,Normal
+41,Male,Non-anginal Pain,112,250,<= 120 mg/dl,Normal,179,No,0.0,Upsloping,Normal
+50,Female,Non-anginal Pain,120,219,<= 120 mg/dl,Normal,158,No,1.6,Flat,Normal
+54,Female,Non-anginal Pain,108,267,<= 120 mg/dl,Left Ventricular Hypertrophy,167,No,0.0,Upsloping,Normal
+64,Female,Asymptomatic,130,303,<= 120 mg/dl,Normal,122,No,2.0,Flat,Normal
+51,Female,Non-anginal Pain,130,256,<= 120 mg/dl,Left Ventricular Hypertrophy,149,No,0.5,Upsloping,Normal
+46,Female,Atypical Angina,105,204,<= 120 mg/dl,Normal,172,No,0.0,Upsloping,Normal
+55,Male,Asymptomatic,140,217,<= 120 mg/dl,Normal,111,Yes,5.6,Downsloping,Heart Disease
+45,Male,Atypical Angina,128,308,<= 120 mg/dl,Left Ventricular Hypertrophy,170,No,0.0,Upsloping,Normal
+56,Male,Typical Angina,120,193,<= 120 mg/dl,Left Ventricular Hypertrophy,162,No,1.9,Flat,Normal
+66,Female,Asymptomatic,178,228,> 120 mg/dl,Normal,165,Yes,1.0,Flat,Heart Disease
+38,Male,Typical Angina,120,231,<= 120 mg/dl,Normal,182,Yes,3.8,Flat,Heart Disease
+62,Female,Asymptomatic,150,244,<= 120 mg/dl,Normal,154,Yes,1.4,Flat,Heart Disease
+55,Male,Atypical Angina,130,262,<= 120 mg/dl,Normal,155,No,0.0,Upsloping,Normal
+58,Male,Asymptomatic,128,259,<= 120 mg/dl,Left Ventricular Hypertrophy,130,Yes,3.0,Flat,Heart Disease
+43,Male,Asymptomatic,110,211,<= 120 mg/dl,Normal,161,No,0.0,Upsloping,Normal
+64,Female,Asymptomatic,180,325,<= 120 mg/dl,Normal,154,Yes,0.0,Upsloping,Normal
+50,Female,Asymptomatic,110,254,<= 120 mg/dl,Left Ventricular Hypertrophy,159,No,0.0,Upsloping,Normal
+53,Male,Non-anginal Pain,130,197,> 120 mg/dl,Left Ventricular Hypertrophy,152,No,1.2,Downsloping,Normal
+45,Female,Asymptomatic,138,236,<= 120 mg/dl,Left Ventricular Hypertrophy,152,Yes,0.2,Flat,Normal
+65,Male,Typical Angina,138,282,> 120 mg/dl,Left Ventricular Hypertrophy,174,No,1.4,Flat,Heart Disease
+69,Male,Typical Angina,160,234,> 120 mg/dl,Left Ventricular Hypertrophy,131,No,0.1,Flat,Normal
+69,Male,Non-anginal Pain,140,254,<= 120 mg/dl,Left Ventricular Hypertrophy,146,No,2.0,Flat,Heart Disease
+67,Male,Asymptomatic,100,299,<= 120 mg/dl,Left Ventricular Hypertrophy,125,Yes,0.9,Flat,Heart Disease
+68,Female,Non-anginal Pain,120,211,<= 120 mg/dl,Left Ventricular Hypertrophy,115,No,1.5,Flat,Normal
+34,Male,Typical Angina,118,182,<= 120 mg/dl,Left Ventricular Hypertrophy,174,No,0.0,Upsloping,Normal
+62,Female,Asymptomatic,138,294,> 120 mg/dl,Normal,106,No,1.9,Flat,Heart Disease
+51,Male,Asymptomatic,140,298,<= 120 mg/dl,Normal,122,Yes,4.2,Flat,Heart Disease
+46,Male,Non-anginal Pain,150,231,<= 120 mg/dl,Normal,147,No,3.6,Flat,Heart Disease
+67,Male,Asymptomatic,125,254,> 120 mg/dl,Normal,163,No,0.2,Flat,Heart Disease
+50,Male,Non-anginal Pain,129,196,<= 120 mg/dl,Normal,163,No,0.0,Upsloping,Normal
+42,Male,Non-anginal Pain,120,240,> 120 mg/dl,Normal,194,No,0.8,Downsloping,Normal
+56,Female,Asymptomatic,134,409,<= 120 mg/dl,Left Ventricular Hypertrophy,150,Yes,1.9,Flat,Heart Disease
+41,Male,Asymptomatic,110,172,<= 120 mg/dl,Left Ventricular Hypertrophy,158,No,0.0,Upsloping,Heart Disease
+42,Female,Asymptomatic,102,265,<= 120 mg/dl,Left Ventricular Hypertrophy,122,No,0.6,Flat,Normal
+53,Male,Non-anginal Pain,130,246,> 120 mg/dl,Left Ventricular Hypertrophy,173,No,0.0,Upsloping,Normal
+43,Male,Non-anginal Pain,130,315,<= 120 mg/dl,Normal,162,No,1.9,Upsloping,Normal
+56,Male,Asymptomatic,132,184,<= 120 mg/dl,Left Ventricular Hypertrophy,105,Yes,2.1,Flat,Heart Disease
+52,Male,Asymptomatic,108,233,> 120 mg/dl,Normal,147,No,0.1,Upsloping,Normal
+62,Female,Asymptomatic,140,394,<= 120 mg/dl,Left Ventricular Hypertrophy,157,No,1.2,Flat,Normal
+70,Male,Non-anginal Pain,160,269,<= 120 mg/dl,Normal,112,Yes,2.9,Flat,Heart Disease
+54,Male,Asymptomatic,140,239,<= 120 mg/dl,Normal,160,No,1.2,Upsloping,Normal
+70,Male,Asymptomatic,145,174,<= 120 mg/dl,Normal,125,Yes,2.6,Downsloping,Heart Disease
+54,Male,Atypical Angina,108,309,<= 120 mg/dl,Normal,156,No,0.0,Upsloping,Normal
+35,Male,Asymptomatic,126,282,<= 120 mg/dl,Left Ventricular Hypertrophy,156,Yes,0.0,Upsloping,Heart Disease
+48,Male,Non-anginal Pain,124,255,> 120 mg/dl,Normal,175,No,0.0,Upsloping,Normal
+55,Female,Atypical Angina,135,250,<= 120 mg/dl,Left Ventricular Hypertrophy,161,No,1.4,Flat,Normal
+58,Female,Asymptomatic,100,248,<= 120 mg/dl,Left Ventricular Hypertrophy,122,No,1.0,Flat,Normal
+54,Female,Non-anginal Pain,110,214,<= 120 mg/dl,Normal,158,No,1.6,Flat,Normal
+69,Female,Typical Angina,140,239,<= 120 mg/dl,Normal,151,No,1.8,Upsloping,Normal
+77,Male,Asymptomatic,125,304,<= 120 mg/dl,Left Ventricular Hypertrophy,162,Yes,0.0,Upsloping,Heart Disease
+68,Male,Non-anginal Pain,118,277,<= 120 mg/dl,Normal,151,No,1.0,Upsloping,Normal
+58,Male,Asymptomatic,125,300,<= 120 mg/dl,Left Ventricular Hypertrophy,171,No,0.0,Upsloping,Heart Disease
+60,Male,Asymptomatic,125,258,<= 120 mg/dl,Left Ventricular Hypertrophy,141,Yes,2.8,Flat,Heart Disease
+51,Male,Asymptomatic,140,299,<= 120 mg/dl,Normal,173,Yes,1.6,Upsloping,Heart Disease
+55,Male,Asymptomatic,160,289,<= 120 mg/dl,Left Ventricular Hypertrophy,145,Yes,0.8,Flat,Heart Disease
+52,Male,Typical Angina,152,298,> 120 mg/dl,Normal,178,No,1.2,Flat,Normal
+60,Female,Non-anginal Pain,102,318,<= 120 mg/dl,Normal,160,No,0.0,Upsloping,Normal
+58,Male,Non-anginal Pain,105,240,<= 120 mg/dl,Left Ventricular Hypertrophy,154,Yes,0.6,Flat,Normal
+64,Male,Non-anginal Pain,125,309,<= 120 mg/dl,Normal,131,Yes,1.8,Flat,Heart Disease
+37,Male,Non-anginal Pain,130,250,<= 120 mg/dl,Normal,187,No,3.5,Downsloping,Normal
+59,Male,Typical Angina,170,288,<= 120 mg/dl,Left Ventricular Hypertrophy,159,No,0.2,Flat,Heart Disease
+51,Male,Non-anginal Pain,125,245,> 120 mg/dl,Left Ventricular Hypertrophy,166,No,2.4,Flat,Normal
+43,Female,Non-anginal Pain,122,213,<= 120 mg/dl,Normal,165,No,0.2,Flat,Normal
+58,Male,Asymptomatic,128,216,<= 120 mg/dl,Left Ventricular Hypertrophy,131,Yes,2.2,Flat,Heart Disease
+29,Male,Atypical Angina,130,204,<= 120 mg/dl,Left Ventricular Hypertrophy,202,No,0.0,Upsloping,Normal
+41,Female,Atypical Angina,130,204,<= 120 mg/dl,Left Ventricular Hypertrophy,172,No,1.4,Upsloping,Normal
+63,Female,Non-anginal Pain,135,252,<= 120 mg/dl,Left Ventricular Hypertrophy,172,No,0.0,Upsloping,Normal
+51,Male,Non-anginal Pain,94,227,<= 120 mg/dl,Normal,154,Yes,0.0,Upsloping,Normal
+54,Male,Non-anginal Pain,120,258,<= 120 mg/dl,Left Ventricular Hypertrophy,147,No,0.4,Flat,Normal
+44,Male,Atypical Angina,120,220,<= 120 mg/dl,Normal,170,No,0.0,Upsloping,Normal
+54,Male,Asymptomatic,110,239,<= 120 mg/dl,Normal,126,Yes,2.8,Flat,Heart Disease
+65,Male,Asymptomatic,135,254,<= 120 mg/dl,Left Ventricular Hypertrophy,127,No,2.8,Flat,Heart Disease
+57,Male,Non-anginal Pain,150,168,<= 120 mg/dl,Normal,174,No,1.6,Upsloping,Normal
+63,Male,Asymptomatic,130,330,> 120 mg/dl,Left Ventricular Hypertrophy,132,Yes,1.8,Upsloping,Heart Disease
+35,Female,Asymptomatic,138,183,<= 120 mg/dl,Normal,182,No,1.4,Upsloping,Normal
+41,Male,Atypical Angina,135,203,<= 120 mg/dl,Normal,132,No,0.0,Flat,Normal
+62,Female,Non-anginal Pain,130,263,<= 120 mg/dl,Normal,97,No,1.2,Flat,Heart Disease
+43,Female,Asymptomatic,132,341,> 120 mg/dl,Left Ventricular Hypertrophy,136,Yes,3.0,Flat,Heart Disease
+58,Female,Typical Angina,150,283,> 120 mg/dl,Left Ventricular Hypertrophy,162,No,1.0,Upsloping,Normal
+52,Male,Typical Angina,118,186,<= 120 mg/dl,Left Ventricular Hypertrophy,190,No,0.0,Flat,Normal
+61,Female,Asymptomatic,145,307,<= 120 mg/dl,Left Ventricular Hypertrophy,146,Yes,1.0,Flat,Heart Disease
+39,Male,Asymptomatic,118,219,<= 120 mg/dl,Normal,140,No,1.2,Flat,Heart Disease
+45,Male,Asymptomatic,115,260,<= 120 mg/dl,Left Ventricular Hypertrophy,185,No,0.0,Upsloping,Normal
+52,Male,Asymptomatic,128,255,<= 120 mg/dl,Normal,161,Yes,0.0,Upsloping,Heart Disease
+62,Male,Non-anginal Pain,130,231,<= 120 mg/dl,Normal,146,No,1.8,Flat,Normal
+62,Female,Asymptomatic,160,164,<= 120 mg/dl,Left Ventricular Hypertrophy,145,No,6.2,Downsloping,Heart Disease
+53,Female,Asymptomatic,138,234,<= 120 mg/dl,Left Ventricular Hypertrophy,160,No,0.0,Upsloping,Normal
+43,Male,Asymptomatic,120,177,<= 120 mg/dl,Left Ventricular Hypertrophy,120,Yes,2.5,Flat,Heart Disease
+47,Male,Non-anginal Pain,138,257,<= 120 mg/dl,Left Ventricular Hypertrophy,156,No,0.0,Upsloping,Normal
+52,Male,Atypical Angina,120,325,<= 120 mg/dl,Normal,172,No,0.2,Upsloping,Normal
+68,Male,Non-anginal Pain,180,274,> 120 mg/dl,Left Ventricular Hypertrophy,150,Yes,1.6,Flat,Heart Disease
+39,Male,Non-anginal Pain,140,321,<= 120 mg/dl,Left Ventricular Hypertrophy,182,No,0.0,Upsloping,Normal
+53,Female,Asymptomatic,130,264,<= 120 mg/dl,Left Ventricular Hypertrophy,143,No,0.4,Flat,Normal
+62,Female,Asymptomatic,140,268,<= 120 mg/dl,Left Ventricular Hypertrophy,160,No,3.6,Downsloping,Heart Disease
+51,Female,Non-anginal Pain,140,308,<= 120 mg/dl,Left Ventricular Hypertrophy,142,No,1.5,Upsloping,Normal
+60,Male,Asymptomatic,130,253,<= 120 mg/dl,Normal,144,Yes,1.4,Upsloping,Heart Disease
+65,Male,Asymptomatic,110,248,<= 120 mg/dl,Left Ventricular Hypertrophy,158,No,0.6,Upsloping,Heart Disease
+65,Female,Non-anginal Pain,155,269,<= 120 mg/dl,Normal,148,No,0.8,Upsloping,Normal
+60,Male,Non-anginal Pain,140,185,<= 120 mg/dl,Left Ventricular Hypertrophy,155,No,3.0,Flat,Heart Disease
+60,Male,Asymptomatic,145,282,<= 120 mg/dl,Left Ventricular Hypertrophy,142,Yes,2.8,Flat,Heart Disease
+54,Male,Asymptomatic,120,188,<= 120 mg/dl,Normal,113,No,1.4,Flat,Heart Disease
+44,Male,Atypical Angina,130,219,<= 120 mg/dl,Left Ventricular Hypertrophy,188,No,0.0,Upsloping,Normal
+44,Male,Asymptomatic,112,290,<= 120 mg/dl,Left Ventricular Hypertrophy,153,No,0.0,Upsloping,Heart Disease
+51,Male,Non-anginal Pain,110,175,<= 120 mg/dl,Normal,123,No,0.6,Upsloping,Normal
+59,Male,Non-anginal Pain,150,212,> 120 mg/dl,Normal,157,No,1.6,Upsloping,Normal
+71,Female,Atypical Angina,160,302,<= 120 mg/dl,Normal,162,No,0.4,Upsloping,Normal
+61,Male,Non-anginal Pain,150,243,> 120 mg/dl,Normal,137,Yes,1.0,Flat,Normal
+55,Male,Asymptomatic,132,353,<= 120 mg/dl,Normal,132,Yes,1.2,Flat,Heart Disease
+64,Male,Non-anginal Pain,140,335,<= 120 mg/dl,Normal,158,No,0.0,Upsloping,Heart Disease
+43,Male,Asymptomatic,150,247,<= 120 mg/dl,Normal,171,No,1.5,Upsloping,Normal
+58,Female,Non-anginal Pain,120,340,<= 120 mg/dl,Normal,172,No,0.0,Upsloping,Normal
+60,Male,Asymptomatic,130,206,<= 120 mg/dl,Left Ventricular Hypertrophy,132,Yes,2.4,Flat,Heart Disease
+58,Male,Atypical Angina,120,284,<= 120 mg/dl,Left Ventricular Hypertrophy,160,No,1.8,Flat,Heart Disease
+49,Male,Atypical Angina,130,266,<= 120 mg/dl,Normal,171,No,0.6,Upsloping,Normal
+48,Male,Atypical Angina,110,229,<= 120 mg/dl,Normal,168,No,1.0,Downsloping,Heart Disease
+52,Male,Non-anginal Pain,172,199,> 120 mg/dl,Normal,162,No,0.5,Upsloping,Normal
+44,Male,Atypical Angina,120,263,<= 120 mg/dl,Normal,173,No,0.0,Upsloping,Normal
+56,Female,Atypical Angina,140,294,<= 120 mg/dl,Left Ventricular Hypertrophy,153,No,1.3,Flat,Normal
+57,Male,Asymptomatic,140,192,<= 120 mg/dl,Normal,148,No,0.4,Flat,Normal
+67,Male,Asymptomatic,160,286,<= 120 mg/dl,Left Ventricular Hypertrophy,108,Yes,1.5,Flat,Heart Disease
+53,Female,Non-anginal Pain,128,216,<= 120 mg/dl,Left Ventricular Hypertrophy,115,No,0.0,Upsloping,Normal
+52,Male,Non-anginal Pain,138,223,<= 120 mg/dl,Normal,169,No,0.0,Upsloping,Normal
+43,Male,Asymptomatic,132,247,> 120 mg/dl,Left Ventricular Hypertrophy,143,Yes,0.1,Flat,Heart Disease
+52,Male,Asymptomatic,128,204,> 120 mg/dl,Normal,156,Yes,1.0,Flat,Heart Disease
+59,Male,Typical Angina,134,204,<= 120 mg/dl,Normal,162,No,0.8,Upsloping,Heart Disease
+64,Male,Typical Angina,170,227,<= 120 mg/dl,Left Ventricular Hypertrophy,155,No,0.6,Flat,Normal
+66,Female,Non-anginal Pain,146,278,<= 120 mg/dl,Left Ventricular Hypertrophy,152,No,0.0,Flat,Normal
+39,Female,Non-anginal Pain,138,220,<= 120 mg/dl,Normal,152,No,0.0,Flat,Normal
+57,Male,Atypical Angina,154,232,<= 120 mg/dl,Left Ventricular Hypertrophy,164,No,0.0,Upsloping,Heart Disease
+58,Female,Asymptomatic,130,197,<= 120 mg/dl,Normal,131,No,0.6,Flat,Normal
+57,Male,Asymptomatic,110,335,<= 120 mg/dl,Normal,143,Yes,3.0,Flat,Heart Disease
+47,Male,Non-anginal Pain,130,253,<= 120 mg/dl,Normal,179,No,0.0,Upsloping,Normal
+55,Female,Asymptomatic,128,205,<= 120 mg/dl,ST-T Wave Abnormality,130,Yes,2.0,Flat,Heart Disease
+35,Male,Atypical Angina,122,192,<= 120 mg/dl,Normal,174,No,0.0,Upsloping,Normal
+61,Male,Asymptomatic,148,203,<= 120 mg/dl,Normal,161,No,0.0,Upsloping,Heart Disease
+58,Male,Asymptomatic,114,318,<= 120 mg/dl,ST-T Wave Abnormality,140,No,4.4,Downsloping,Heart Disease
+58,Female,Asymptomatic,170,225,> 120 mg/dl,Left Ventricular Hypertrophy,146,Yes,2.8,Flat,Heart Disease
+58,Male,Atypical Angina,125,220,<= 120 mg/dl,Normal,144,No,0.4,Flat,Normal
+56,Male,Atypical Angina,130,221,<= 120 mg/dl,Left Ventricular Hypertrophy,163,No,0.0,Upsloping,Normal
+56,Male,Atypical Angina,120,240,<= 120 mg/dl,Normal,169,No,0.0,Downsloping,Normal
+67,Male,Non-anginal Pain,152,212,<= 120 mg/dl,Left Ventricular Hypertrophy,150,No,0.8,Flat,Heart Disease
+55,Female,Atypical Angina,132,342,<= 120 mg/dl,Normal,166,No,1.2,Upsloping,Normal
+44,Male,Asymptomatic,120,169,<= 120 mg/dl,Normal,144,Yes,2.8,Downsloping,Heart Disease
+63,Male,Asymptomatic,140,187,<= 120 mg/dl,Left Ventricular Hypertrophy,144,Yes,4.0,Upsloping,Heart Disease
+63,Female,Asymptomatic,124,197,<= 120 mg/dl,Normal,136,Yes,0.0,Flat,Heart Disease
+41,Male,Atypical Angina,120,157,<= 120 mg/dl,Normal,182,No,0.0,Upsloping,Normal
+59,Male,Asymptomatic,164,176,> 120 mg/dl,Left Ventricular Hypertrophy,90,No,1.0,Flat,Heart Disease
+57,Female,Asymptomatic,140,241,<= 120 mg/dl,Normal,123,Yes,0.2,Flat,Heart Disease
+45,Male,Typical Angina,110,264,<= 120 mg/dl,Normal,132,No,1.2,Flat,Heart Disease
+68,Male,Asymptomatic,144,193,> 120 mg/dl,Normal,141,No,3.4,Flat,Heart Disease
+57,Male,Asymptomatic,130,131,<= 120 mg/dl,Normal,115,Yes,1.2,Flat,Heart Disease
+57,Female,Atypical Angina,130,236,<= 120 mg/dl,Left Ventricular Hypertrophy,174,No,0.0,Flat,Heart Disease
+38,Male,Non-anginal Pain,138,175,<= 120 mg/dl,Normal,173,No,0.0,Upsloping,Normal

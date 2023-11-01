@@ -32,7 +32,7 @@ https://public.tableau.com/app/profile/alejandra.bridegroom/viz/HeartDiseaseProj
 
 As mentioned, heart disease is responsible for almost 20% of all deaths in America.
 
-(Say something here about specific visualizations, and their importance to local communities. Something about Tulare, Guam, Mississippi - and perhaps Michigan ;) - would work)
+The US territory and Overall that had the biggest mortality rate is Guam.  This could be due to the population of Guam being 2/3 obese/overweight, having cholesterol as a possible contendor to heart disease, this pans out.  For the US states, Missippi had the second most mortality rate.  Overall, the southern states had the highest mortality rate.  For the machine learning data, it was hard to draw basic conclusion between cholesteral and heart disease or other factors, but overall, females had the higher cholesteral average.  The machine learning dwelve into the features that were important in predicting heart disease.
 
 ## Machine Learning
 
@@ -51,3 +51,6 @@ However, the insufficiencies in the data set do suggest that we are on the right
 
 Rates and Trends in Coronary Heart Disease and Stroke Mortality Data Among US Adults (35+) by County – 1999-2018\
 https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Rates-and-Trends-in-Coronary-Heart-Disease-and-Str/9cr5-2tt7
+
+Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County – 2017-2019\
+https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/s6p7-fvbw

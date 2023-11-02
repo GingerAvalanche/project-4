@@ -54,3 +54,6 @@ https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Rates-and-Trends-in-Coronar
 
 Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County – 2017-2019\
 https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/s6p7-fvbw
+
+Heart Disease Dataset (Comprehensive)
+https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive

@@ -40,6 +40,8 @@ We used logistic regression for the model, due to the multiple non-continuous fe
 
 As mentioned, there was erroneous cholesterol data. We had thought that including that data might decrease the accuracy of our models. However, this was emphatically not the case: of the top 10 feature sets for model accuracy, cholesterol was included in the top 8 sets. In addition, removing the cholesterol feature caused accuracy of those sets to drop by a flat 10% across the board. We believe that obtaining a larger data set with more accurate cholesterol levels would be incredibly advantageous to any future models.
 
+We also created a separate random tree model, so that we could figure out which features were the most important in future data gathering. While cholesterol was one of the higher ones, it turns out that a patient's ST-slope seems to be the most influential. This may or may not change with more accurate cholesterol data. (We believed that cholesterol's importance would be higher, due to the large impact of removing it from a model.)
+
 ## Conclusion
 
 We were able to obtain 86% accuracy, precision, and recall ratings for our learning model. While very good, we do not believe that this is quite good enough for general use: in the public health arena, telling 14% of people that they were falsely identified (either positively or negatively) for heart disease is just too high a margin of error.

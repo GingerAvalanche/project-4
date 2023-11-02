@@ -51,6 +51,9 @@ However, the insufficiencies in the data set do suggest that we are on the right
 
 ### Sources
 
+Heart Disease Dataset (Comprehensive)\
+https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive
+
 Rates and Trends in Coronary Heart Disease and Stroke Mortality Data Among US Adults (35+) by County – 1999-2018\
 https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Rates-and-Trends-in-Coronary-Heart-Disease-and-Str/9cr5-2tt7
 
